@@ -1,0 +1,90 @@
+
+menke20-1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baojian
+  rotate: false
+  xy: 2, 57
+  size: 222, 64
+  orig: 222, 64
+  offset: 0, 0
+  index: -1
+daizi
+  rotate: true
+  xy: 142, 30
+  size: 25, 57
+  orig: 25, 57
+  offset: 0, 0
+  index: -1
+erhuan
+  rotate: false
+  xy: 478, 240
+  size: 3, 13
+  orig: 3, 13
+  offset: 0, 0
+  index: -1
+erhuan2
+  rotate: true
+  xy: 2, 2
+  size: 3, 14
+  orig: 3, 14
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: false
+  xy: 460, 158
+  size: 16, 95
+  orig: 16, 95
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 123
+  size: 130, 396
+  orig: 130, 396
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 387, 42
+  size: 70, 103
+  orig: 70, 103
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: true
+  xy: 226, 53
+  size: 68, 159
+  orig: 68, 159
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 2, 7
+  size: 48, 138
+  orig: 48, 138
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 387, 116
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 400, 114
+  size: 58, 139
+  orig: 58, 139
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 460, 150
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1

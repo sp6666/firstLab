@@ -1,0 +1,13 @@
+
+erhuan18.png
+size: 64,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erhuan-08
+  rotate: true
+  xy: 2, 2
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

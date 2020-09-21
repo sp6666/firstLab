@@ -1,0 +1,55 @@
+
+toushi5003.png
+size: 348,192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tf1
+  rotate: true
+  xy: 2, 2
+  size: 188, 225
+  orig: 188, 225
+  offset: 0, 0
+  index: -1
+ts1
+  rotate: false
+  xy: 229, 15
+  size: 64, 87
+  orig: 64, 87
+  offset: 0, 0
+  index: -1
+ts2
+  rotate: true
+  xy: 229, 104
+  size: 86, 81
+  orig: 86, 81
+  offset: 0, 0
+  index: -1
+tz1
+  rotate: true
+  xy: 295, 6
+  size: 12, 44
+  orig: 12, 44
+  offset: 0, 0
+  index: -1
+tz2
+  rotate: false
+  xy: 331, 20
+  size: 15, 42
+  orig: 15, 42
+  offset: 0, 0
+  index: -1
+tz3
+  rotate: false
+  xy: 331, 64
+  size: 12, 126
+  orig: 12, 126
+  offset: 0, 0
+  index: -1
+tz4
+  rotate: false
+  xy: 312, 59
+  size: 17, 131
+  orig: 17, 131
+  offset: 0, 0
+  index: -1

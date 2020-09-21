@@ -1,0 +1,13 @@
+
+gezi.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaogezi
+  rotate: false
+  xy: 2, 2
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1

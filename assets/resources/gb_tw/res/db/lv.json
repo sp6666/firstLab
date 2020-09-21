@@ -1,0 +1,10 @@
+{
+	"levelup":[
+        {"id":1,"title":"前往充值","text":"首充，超值禮包","iconopenid":41,"charge":1,"lv":0},
+		{"id":2,"title":"日常","text":"完成日常，獲得威望","iconopenid":16,"lv":0},
+		{"id":3,"title":"珍寶閣","text":"每日打掃、整理及上交寶物可獲得威望","iconopenid":35,"lv":0},
+		{"id":4,"title":"出城","text":"出城遇到的劇情有概率獲得威望","iconopenid":11,"lv":6},
+		{"id":5,"title":"每日活躍","text":"完成活躍任務，獲得威望","iconopenid":26,"lv":0},
+		{"id":6,"title":"徒弟歷練","text":"完成徒弟歷練，有概率獲得威望","iconopenid":58,"lv":3}
+	]
+}

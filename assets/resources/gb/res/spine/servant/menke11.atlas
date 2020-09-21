@@ -1,0 +1,76 @@
+
+menke11.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diaozui
+  rotate: true
+  xy: 910, 216
+  size: 9, 142
+  orig: 9, 142
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 2, 19
+  size: 131, 84
+  orig: 131, 84
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 105
+  size: 345, 906
+  orig: 345, 906
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1140, 240
+  size: 189, 210
+  orig: 189, 210
+  offset: 0, 0
+  index: -1
+youerhuan
+  rotate: true
+  xy: 1331, 240
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+zuoerhuan
+  rotate: true
+  xy: 1331, 240
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 910, 227
+  size: 228, 223
+  orig: 228, 223
+  offset: 0, 0
+  index: -1
+youyanpi
+  rotate: false
+  xy: 1501, 434
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 1331, 256
+  size: 168, 194
+  orig: 168, 194
+  offset: 0, 0
+  index: -1
+zuoyanpi
+  rotate: false
+  xy: 2, 2
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1

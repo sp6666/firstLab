@@ -1,0 +1,10 @@
+{
+	"bf_midPve":[
+		{"id":1,"bmap":1,"bab":4,"name":"东宫","point":[95,100],"mname":"落地凤凰","index":202,"mdtext":"一","storyId":190,"type":0,"condition":"null"},
+		{"id":2,"bmap":1,"bab":3,"name":"东宫","point":[350,250],"mname":"步履维艰","index":309,"mdtext":"二","storyId":235,"type":2,"condition":"20"}
+	],
+	"bf_smallPve":[
+		{"id":"1","bg":"lutu","img1":0,"img2":0,"x":160,"say":"role","txt":"宝格格，你的心情我可以理解，但现在不是冲动就能解决事情的时候","nextid":"2","skip":0},
+		{"id":"2","bg":"442","img1":0,"img2":0,"x":0,"say":"null","txt":"你们急忙启程回京，没走多久，竟遇上了皇上派人来告知，圣上带兵二十万御驾亲征准格尔的消息","nextid":"0","skip":0}
+	]
+}

@@ -1,0 +1,100 @@
+{
+"union": [
+    { "id": 1, "exp": 4500, "maxMember": 10, "leader": 1, "elite": 1,"lottery": 1 ,"cost":30},
+    { "id": 2, "exp": 13000, "maxMember": 15, "leader": 1, "elite": 1 ,"lottery": 1,"cost":60},
+    { "id": 3, "exp": 40000, "maxMember": 20, "leader": 1, "elite": 2 ,"lottery": 2,"cost":150},
+    { "id": 4, "exp": 90000, "maxMember": 25, "leader": 2, "elite": 2 ,"lottery": 2,"cost":200},
+    { "id": 5, "exp": 200000, "maxMember": 30, "leader": 2, "elite": 3,"lottery": 3,"cost":300},
+    { "id": 6, "exp": 430000, "maxMember": 35, "leader": 2, "elite": 3 ,"lottery": 4,"cost":400},
+    { "id": 7, "exp": 800000, "maxMember": 40, "leader": 2, "elite": 3 ,"lottery": 5,"cost":500},
+    { "id": 8, "exp": 1200000, "maxMember": 45, "leader": 2, "elite": 4 ,"lottery": 6,"cost":600},
+    { "id": 9, "exp": 2000000, "maxMember": 50, "leader": 2, "elite": 4 ,"lottery": 7,"cost":700},
+    { "id": 10, "exp": 3600000, "maxMember": 55, "leader": 3, "elite": 5 ,"lottery": 8,"cost":1000},
+    { "id": 11, "exp": 6800000, "maxMember": 60, "leader": 3, "elite": 5 ,"lottery": 9,"cost":1200},
+    { "id": 12, "exp": 13200000, "maxMember": 65, "leader": 3, "elite": 6 ,"lottery": 10,"cost":1400}
+    ],
+    "unionSend":[
+        {"id":1,"red_packet_p":60,"gx":150,"red_packet":[{"id":1,"kind":1,"count":60},{"id":2,"kind":1,"count":60000},{"id":3,"kind":1,"count":60000},{"id":4,"kind":1,"count":60000}]},
+        {"id":2,"red_packet_p":120,"gx":300,"red_packet":[{"id":1,"kind":1,"count":120},{"id":2,"kind":1,"count":120000},{"id":3,"kind":1,"count":120000},{"id":4,"kind":1,"count":120000}]},
+        {"id":3,"red_packet_p":160,"gx":400,"red_packet":[{"id":1,"kind":1,"count":160},{"id":2,"kind":1,"count":160000},{"id":3,"kind":1,"count":160000},{"id":4,"kind":1,"count":160000}]},
+        {"id":4,"red_packet_p":200,"gx":500,"red_packet":[{"id":1,"kind":1,"count":200},{"id":2,"kind":1,"count":200000},{"id":3,"kind":1,"count":200000},{"id":4,"kind":1,"count":200000}]},
+        {"id":5,"red_packet_p":250,"gx":625,"red_packet":[{"id":1,"kind":1,"count":250},{"id":2,"kind":1,"count":250000},{"id":3,"kind":1,"count":250000},{"id":4,"kind":1,"count":250000}]},
+        {"id":6,"red_packet_p":300,"gx":750,"red_packet":[{"id":1,"kind":1,"count":300},{"id":2,"kind":1,"count":300000},{"id":3,"kind":1,"count":300000},{"id":4,"kind":1,"count":300000}]},
+        {"id":7,"red_packet_p":350,"gx":875,"red_packet":[{"id":1,"kind":1,"count":350},{"id":2,"kind":1,"count":350000},{"id":3,"kind":1,"count":350000},{"id":4,"kind":1,"count":350000}]},
+        {"id":8,"red_packet_p":400,"gx":1000,"red_packet":[{"id":1,"kind":1,"count":400},{"id":2,"kind":1,"count":400000},{"id":3,"kind":1,"count":400000},{"id":4,"kind":1,"count":400000}]},
+        {"id":9,"red_packet_p":450,"gx":1125,"red_packet":[{"id":1,"kind":1,"count":450},{"id":2,"kind":1,"count":450000},{"id":3,"kind":1,"count":450000},{"id":4,"kind":1,"count":450000}]},
+        {"id":10,"red_packet_p":500,"gx":1250,"red_packet":[{"id":1,"kind":1,"count":500},{"id":2,"kind":1,"count":500000},{"id":3,"kind":1,"count":500000},{"id":4,"kind":1,"count":500000}]},
+        {"id":11,"red_packet_p":550,"gx":1375,"red_packet":[{"id":1,"kind":1,"count":550},{"id":2,"kind":1,"count":550000},{"id":3,"kind":1,"count":550000},{"id":4,"kind":1,"count":550000}]},
+        {"id":12,"red_packet_p":600,"gx":1500,"red_packet":[{"id":1,"kind":1,"count":600},{"id":2,"kind":1,"count":600000},{"id":3,"kind":1,"count":600000},{"id":4,"kind":1,"count":600000}]}
+      ],
+  "unionDrawCost":[
+    {"id":1,"total":60},
+    {"id":2,"total":300}
+  ],
+  "unionGiftBag":[
+    {"id":9993,"name":"普通的宫殿礼包","type":0,"lv":0},
+    {"id":9994,"name":"良好的宫殿礼包","type":0,"lv":1},
+    {"id":9995,"name":"优秀的宫殿礼包","type":0,"lv":2},
+    {"id":9996,"name":"卓越的宫殿礼包","type":0,"lv":3},
+    {"id":9997,"name":"完美的宫殿礼包","type":0,"lv":4},
+    {"id":9998,"name":"超凡的宫殿礼包","type":0,"lv":5},
+    {"id":9999,"name":"贵族的宫殿礼包","type":1,"lv":6}
+  ],
+  "unionDraw":[
+    {"dc":1,"luck":50,"items":{"id":1414,"count":1,"kind":1},"chance":1200},
+    {"dc":2,"items":{"id":132,"count":1,"kind":1},"chance":10},
+    {"dc":3,"items":{"id":128,"count":1,"kind":1},"chance":50},
+    {"dc":4,"items":{"id":163,"count":1,"kind":1},"chance":100},
+    {"dc":5,"items":{"id":164,"count":1,"kind":1},"chance":100},
+    {"dc":6,"items":{"id":165,"count":1,"kind":1},"chance":100},
+    {"dc":7,"items":{"id":54,"count":1,"kind":1},"chance":520},
+    {"dc":8,"items":{"id":1202,"count":1,"kind":1},"chance":520},
+    {"dc":9,"items":{"id":5032,"count":1,"kind":1},"chance":3700},
+    {"dc":10,"items":{"id":5033,"count":1,"kind":1},"chance":3700}
+  ],
+  "construction":[
+    {"id":1,"pay":[{"id":3,"count":20000}],"msg":"煮茶","get":{"exp":5,"fund":5,"gx":5},"icon":60006},
+    {"id":2,"pay":[{"id":1,"count":10}],"msg":"浇花","get":{"exp":10,"fund":10,"gx":10},"icon":60000},
+    {"id":3,"pay":[{"id":1,"count":50}],"msg":"清扫落叶","get":{"exp":50,"fund":50,"gx":50},"icon":60001},
+    {"id":4,"pay":[{"id":1,"count":100}],"msg":"训练宫女","get":{"exp":100,"fund":200,"gx":200},"icon":60002},
+    {"id":5,"pay":[{"id":128,"count":1}],"msg":"假山保养","get":{"exp":200,"fund":400,"gx":400},"icon":60003},
+    {"id":6,"pay":[{"id":132,"count":1}],"msg":"高级假山保养","get":{"exp":500,"fund":1200,"gx":1200},"icon":60004}
+  ],
+  "unionBoss":[
+    {"id":1,"name":"宫女","hp":30000,"payFund":200,"payDia":100,"rwd":{"exp":100,"fund":120},"level":1,"image":309},
+    {"id":2,"name":"姑姑","hp":87500,"payFund":400,"payDia":200,"rwd":{"exp":200,"fund":350},"level":1,"image":406},
+    {"id":3,"name":"长宫女","hp":200000,"payFund":800,"payDia":400,"rwd":{"exp":400,"fund":800},"level":2,"image":402},
+    {"id":4,"name":"内侍姑姑","hp":337500,"payFund":1200,"payDia":600,"rwd":{"exp":600,"fund":1350},"level":3,"image":407},
+    {"id":5,"name":"太子妃","hp":500000,"payFund":1600,"payDia":800,"rwd":{"exp":800,"fund":2000},"level":4,"image":302},
+    {"id":6,"name":"直郡王福晋","hp":687500,"payFund":2000,"payDia":1000,"rwd":{"exp":1000,"fund":2750},"level":5,"image":303},
+    {"id":7,"name":"宜妃","hp":875000,"payFund":2400,"payDia":1200,"rwd":{"exp":1200,"fund":3500},"level":6,"image":310},
+    {"id":8,"name":"恒亲王福晋","hp":1062500,"payFund":2800,"payDia":1400,"rwd":{"exp":1400,"fund":4250},"level":7,"image":312},
+    {"id":9,"name":"李四儿","hp":1250000,"payFund":3200,"payDia":1600,"rwd":{"exp":1600,"fund":5000},"level":8,"image":217},
+    {"id":10,"name":"玛尔珲","hp":1437500,"payFund":3600,"payDia":1800,"rwd":{"exp":1800,"fund":5750},"level":9,"image":318},
+    {"id":11,"name":"布尔尼","hp":1625000,"payFund":4000,"payDia":2000,"rwd":{"exp":2000,"fund":6500},"level":10,"image":328},
+    {"id":12,"name":"布尔尼","hp":1812500,"payFund":4400,"payDia":2200,"rwd":{"exp":2200,"fund":7250},"level":11,"image":328},
+    {"id":13,"name":"布尔尼","hp":2000000,"payFund":4800,"payDia":2400,"rwd":{"exp":2400,"fund":8000},"level":12,"image":328}
+  ],
+  "clubDailyTask":[
+    {"id":1,"title":"许愿树许愿十次","num":10,"rwd":[{"kind":2,"id":7,"count":15},{"kind":1,"id":32,"count":30}],"jumpTo":72},
+    {"id":2,"title":"花房种花十次","num":10,"rwd":[{"kind":2,"id":7,"count":10},{"kind":1,"id":32,"count":20}],"jumpTo":69},
+    {"id":3,"title":"御膳房烹饪一次","num":1,"rwd":[{"kind":2,"id":7,"count":5},{"kind":1,"id":32,"count":10}],"jumpTo":29},
+    {"id":4,"title":"福宫祈福五次","num":5,"rwd":[{"kind":2,"id":7,"count":5},{"kind":1,"id":32,"count":10}],"jumpTo":52},
+    {"id":5,"title":"参与宴会五次","num":5,"rwd":[{"kind":2,"id":7,"count":5},{"kind":1,"id":32,"count":10}],"jumpTo":6},
+    {"id":6,"title":"灵囿喂养十次","num":10,"rwd":[{"kind":2,"id":7,"count":5},{"kind":1,"id":32,"count":10}],"jumpTo":4},
+    {"id":7,"title":"廷斗六次","num":6,"rwd":[{"kind":2,"id":7,"count":20},{"kind":1,"id":32,"count":40}],"jumpTo":5}
+  ],
+  "clubDailyRwd":[
+    {"lv":1,"active":[{"min":10,"max":29,"id":1,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":30,"max":59,"id":2,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":60,"max":89,"id":3,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":90,"max":109,"id":4,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":110,"max":150,"id":5,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]}]},
+    {"lv":2,"active":[{"min":10,"max":29,"id":1,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":30,"max":59,"id":2,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":60,"max":89,"id":3,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":90,"max":109,"id":4,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":110,"max":150,"id":5,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]}]},
+    {"lv":3,"active":[{"min":10,"max":29,"id":1,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":30,"max":59,"id":2,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":60,"max":89,"id":3,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":90,"max":109,"id":4,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":110,"max":150,"id":5,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]}]},
+    {"lv":4,"active":[{"min":10,"max":29,"id":1,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":30,"max":59,"id":2,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":60,"max":89,"id":3,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":90,"max":109,"id":4,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":110,"max":150,"id":5,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]}]},
+    {"lv":5,"active":[{"min":10,"max":29,"id":1,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":30,"max":59,"id":2,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":60,"max":89,"id":3,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":90,"max":109,"id":4,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":110,"max":150,"id":5,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]}]},
+    {"lv":6,"active":[{"min":10,"max":29,"id":1,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":30,"max":59,"id":2,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":60,"max":89,"id":3,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":90,"max":109,"id":4,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":110,"max":150,"id":5,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]}]},
+    {"lv":7,"active":[{"min":10,"max":29,"id":1,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":30,"max":59,"id":2,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":60,"max":89,"id":3,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":90,"max":109,"id":4,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":110,"max":150,"id":5,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]}]},
+    {"lv":8,"active":[{"min":10,"max":29,"id":1,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":30,"max":59,"id":2,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":60,"max":89,"id":3,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":90,"max":109,"id":4,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":110,"max":150,"id":5,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]}]},
+    {"lv":9,"active":[{"min":10,"max":29,"id":1,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":30,"max":59,"id":2,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":60,"max":89,"id":3,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":90,"max":109,"id":4,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":110,"max":150,"id":5,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]}]},
+    {"lv":10,"active":[{"min":10,"max":29,"id":1,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":30,"max":59,"id":2,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":60,"max":89,"id":3,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":90,"max":109,"id":4,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":110,"max":150,"id":5,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]}]},
+    {"lv":11,"active":[{"min":10,"max":29,"id":1,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":30,"max":59,"id":2,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":60,"max":89,"id":3,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":90,"max":109,"id":4,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":110,"max":150,"id":5,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]}]},
+    {"lv":12,"active":[{"min":10,"max":29,"id":1,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":30,"max":59,"id":2,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":60,"max":89,"id":3,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":90,"max":109,"id":4,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]},{"min":110,"max":150,"id":5,"rwd":[{"id":2,"kind":1},{"id":3,"kind":1},{"id":4,"kind":1},{"id":5,"kind":1},{"id":121,"kind":1},{"id":122,"kind":1}]}]}]
+}

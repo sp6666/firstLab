@@ -1,0 +1,48 @@
+
+baihuli.png
+size: 485,1034
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st
+  rotate: true
+  xy: 2, 521
+  size: 511, 264
+  orig: 511, 264
+  offset: 0, 0
+  index: -1
+t
+  rotate: true
+  xy: 210, 107
+  size: 255, 209
+  orig: 255, 209
+  offset: 0, 0
+  index: -1
+wb
+  rotate: true
+  xy: 2, 2
+  size: 517, 206
+  orig: 517, 206
+  offset: 0, 0
+  index: -1
+xd1
+  rotate: false
+  xy: 210, 19
+  size: 273, 86
+  orig: 273, 86
+  offset: 0, 0
+  index: -1
+xd2
+  rotate: true
+  xy: 421, 126
+  size: 236, 52
+  orig: 236, 52
+  offset: 0, 0
+  index: -1
+yz
+  rotate: true
+  xy: 268, 364
+  size: 668, 191
+  orig: 668, 191
+  offset: 0, 0
+  index: -1

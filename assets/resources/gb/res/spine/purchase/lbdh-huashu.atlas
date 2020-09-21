@@ -1,0 +1,13 @@
+
+lbdh-huashu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huashu
+  rotate: false
+  xy: 2, 2
+  size: 343, 425
+  orig: 343, 425
+  offset: 0, 0
+  index: -1

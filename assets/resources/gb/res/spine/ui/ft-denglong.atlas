@@ -1,0 +1,104 @@
+
+ft-denglong.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2灯笼
+  rotate: true
+  xy: 2, 90
+  size: 126, 395
+  orig: 126, 395
+  offset: 0, 0
+  index: -1
+2飘带
+  rotate: true
+  xy: 2, 65
+  size: 23, 165
+  orig: 23, 165
+  offset: 0, 0
+  index: -1
+2飘带2
+  rotate: true
+  xy: 796, 153
+  size: 17, 151
+  orig: 17, 151
+  offset: 0, 0
+  index: -1
+2飘带3
+  rotate: true
+  xy: 492, 73
+  size: 15, 80
+  orig: 15, 80
+  offset: 0, 0
+  index: -1
+2飘带6
+  rotate: true
+  xy: 492, 73
+  size: 15, 80
+  orig: 15, 80
+  offset: 0, 0
+  index: -1
+2飘带4
+  rotate: true
+  xy: 796, 194
+  size: 22, 161
+  orig: 22, 161
+  offset: 0, 0
+  index: -1
+2飘带5
+  rotate: true
+  xy: 169, 68
+  size: 20, 160
+  orig: 20, 160
+  offset: 0, 0
+  index: -1
+灯笼
+  rotate: true
+  xy: 399, 90
+  size: 126, 395
+  orig: 126, 395
+  offset: 0, 0
+  index: -1
+飘带
+  rotate: true
+  xy: 331, 71
+  size: 17, 159
+  orig: 17, 159
+  offset: 0, 0
+  index: -1
+飘带2
+  rotate: true
+  xy: 2, 42
+  size: 21, 162
+  orig: 21, 162
+  offset: 0, 0
+  index: -1
+飘带3
+  rotate: true
+  xy: 2, 2
+  size: 14, 91
+  orig: 14, 91
+  offset: 0, 0
+  index: -1
+飘带6
+  rotate: true
+  xy: 2, 2
+  size: 14, 91
+  orig: 14, 91
+  offset: 0, 0
+  index: -1
+飘带4
+  rotate: true
+  xy: 2, 18
+  size: 22, 155
+  orig: 22, 155
+  offset: 0, 0
+  index: -1
+飘带5
+  rotate: true
+  xy: 796, 172
+  size: 20, 160
+  orig: 20, 160
+  offset: 0, 0
+  index: -1

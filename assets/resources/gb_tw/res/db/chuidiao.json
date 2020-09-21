@@ -1,0 +1,42 @@
+{
+    "chuidiao_point":[
+        {"id":0,"type":0,"name":"順天府","x":96,"y":396,"icon":1},
+        {"id":1,"type":1,"name":"盛京府","x":371,"y":446,"icon":8},
+        {"id":2,"type":1,"name":"開封府","x":78,"y":63,"icon":7},
+        {"id":3,"type":2,"name":"濟南府","x":78,"y":261,"icon":3},
+        {"id":4,"type":2,"name":"江寧府","x":348,"y":49,"icon":4},
+        {"id":5,"type":2,"name":"南昌府","x":179,"y":-100,"icon":10},
+        {"id":6,"type":2,"name":"長沙府","x":78,"y":-240,"icon":11},
+        {"id":7,"type":2,"name":"杭州府","x":456,"y":-46,"icon":9},
+        {"id":8,"type":2,"name":"福州府","x":478,"y":-229,"icon":12},
+        {"id":9,"type":2,"name":"廣州府","x":232,"y":-410,"icon":14}
+    ],
+    "chuidiao_msg":[
+        {"id":1,"name":"盛京府","msg":"盛京為關外之首，又稱瀋陽或奉天。此乃大清龍興發跡之地，多代先祖皇陵皆葬於此。", "des":"", "desFood":""},
+        {"id":2,"name":"開封府","msg":"開封為河南之首，自古既有“琪樹明霞五鳳樓，夷門自古帝王州”的美譽。", "des":"", "desFood":""},
+        {"id":3,"name":"濟南府","msg":"濟南為山東之首，素有“四面荷花三面柳，一城山色半城湖”的美譽。", "des":"該地必得鱸魚", "desFood":"該地必得八寶飯"},
+        {"id":4,"name":"江寧府","msg":"江寧為江南之首，論文學之昌盛，人物之俊彥，山川之靈秀，氣象之宏偉，以其為南方之最。", "des":"該地必得鱸魚", "desFood":"該地必得八寶飯"},
+        {"id":5,"name":"南昌府","msg":"南昌為江西之首，地處長江以南，水陸交通發達，形勢險要，自古有“襟三江而帶五湖”之稱。", "des":"該地必得鯉魚", "desFood":"該地必得臭豆腐"},
+        {"id":6,"name":"長沙府","msg":"長沙為湖南之首，其有萬里沙祠，自湘州至東萊可萬里，故此得名。", "des":"該地必得鯉魚", "desFood":"該地必得臭豆腐"},
+        {"id":7,"name":"杭州府","msg":"杭州為江浙之首，湖光山色，風景秀麗，素有“人間天堂”的美譽。", "des":"該地可獲得鱸魚、鯉魚或桂花魚", "desFood":"該地可獲得八寶飯、臭豆腐或西湖醋魚"},
+        {"id":8,"name":"福州府","msg":"福州為福建首府，別名榕城，素有“茶筍山木之饒遍天下，魚鹽蜃蛤匹富齊青”的美譽。", "des":"該地可獲得鱸魚、鯉魚或狀元魚", "desFood":"該地可獲得八寶飯、臭豆腐或佛跳牆"},
+        {"id":9,"name":"廣州府","msg":"廣州為兩廣之首，又稱為五羊城或穗城，是大清對外唯一的商貿港，海外諸藩均從此上岸朝貢。", "des":"該地可獲得鱸魚、鯉魚或白甲魚", "desFood":"該地可獲得八寶飯、臭豆腐或木瓜雪蛤"}
+    ],
+    "chuidiao_fish":[
+        {"fishid":1, "itemid":1054},
+        {"fishid":2, "itemid":1055},
+        {"fishid":3, "itemid":1056},
+        {"fishid":4, "itemid":1057},
+        {"fishid":5, "itemid":1058}
+    ],
+    "chuidiao_exchange":[
+        {"clotheid":72, "components": [{"fishid":1,"count":1},{"fishid":2,"count":1},{"fishid":3,"count":1},{"fishid":4,"count":1},{"fishid":5,"count":1}]},
+        {"clotheid":272, "components": [{"fishid":1,"count":1},{"fishid":2,"count":1},{"fishid":3,"count":1},{"fishid":4,"count":1},{"fishid":5,"count":1}]},
+        {"clotheid":372, "components": [{"fishid":1,"count":1},{"fishid":2,"count":1},{"fishid":3,"count":1},{"fishid":4,"count":1},{"fishid":5,"count":1}]},
+        {"clotheid":1022, "components": [{"fishid":1,"count":1},{"fishid":2,"count":1},{"fishid":3,"count":1},{"fishid":4,"count":1},{"fishid":5,"count":1}]},
+        {"clotheid":2013, "components": [{"fishid":1,"count":1},{"fishid":2,"count":1},{"fishid":3,"count":1},{"fishid":4,"count":1},{"fishid":5,"count":1}]},
+        {"clotheid":3066, "components": [{"fishid":1,"count":1},{"fishid":2,"count":1},{"fishid":3,"count":1},{"fishid":4,"count":1},{"fishid":5,"count":1}]}
+    ]
+}
+
+

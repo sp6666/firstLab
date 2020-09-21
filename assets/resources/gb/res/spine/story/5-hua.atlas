@@ -1,0 +1,13 @@
+
+5-hua.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+前景动态花
+  rotate: false
+  xy: 2, 2
+  size: 385, 416
+  orig: 385, 416
+  offset: 0, 0
+  index: -1

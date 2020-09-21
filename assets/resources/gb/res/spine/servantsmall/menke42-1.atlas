@@ -1,0 +1,55 @@
+
+menke42-1.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 2, 10
+  size: 102, 343
+  orig: 102, 343
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 586, 27
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+xie
+  rotate: false
+  xy: 674, 53
+  size: 85, 59
+  orig: 85, 59
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 347, 27
+  size: 85, 122
+  orig: 85, 122
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 2, 2
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 471, 34
+  size: 78, 113
+  orig: 78, 113
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 347, 19
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1

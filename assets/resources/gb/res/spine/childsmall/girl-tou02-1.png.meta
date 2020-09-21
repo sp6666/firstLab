@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "712b4f65-ed8e-4dcd-af51-a0cfdf6d0cb0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "girl-tou02-1": {
+      "ver": "1.0.3",
+      "uuid": "0ac89b1f-aab7-4e83-bdbb-313033818278",
+      "rawTextureUuid": "712b4f65-ed8e-4dcd-af51-a0cfdf6d0cb0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -27.5,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 69,
+      "height": 60,
+      "rawWidth": 128,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

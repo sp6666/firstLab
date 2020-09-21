@@ -1,0 +1,83 @@
+
+menke40-1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erhuan
+  rotate: false
+  xy: 2, 2
+  size: 4, 14
+  orig: 4, 14
+  offset: 0, 0
+  index: -1
+erhuan2
+  rotate: false
+  xy: 2, 2
+  size: 4, 14
+  orig: 4, 14
+  offset: 0, 0
+  index: -1
+lingzi
+  rotate: true
+  xy: 101, 72
+  size: 45, 108
+  orig: 45, 108
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 119
+  size: 132, 355
+  orig: 132, 355
+  offset: 0, 0
+  index: -1
+shoujuan
+  rotate: true
+  xy: 359, 127
+  size: 41, 80
+  orig: 41, 80
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 359, 170
+  size: 83, 81
+  orig: 83, 81
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 101, 43
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 444, 181
+  size: 61, 70
+  orig: 61, 70
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 444, 174
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 2, 18
+  size: 97, 99
+  orig: 97, 99
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 211, 111
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+menke39.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao
+  rotate: false
+  xy: 1136, 321
+  size: 278, 177
+  orig: 278, 177
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 107
+  size: 391, 924
+  orig: 391, 924
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1416, 356
+  size: 142, 190
+  orig: 142, 190
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 928, 160
+  size: 206, 338
+  orig: 206, 338
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 1136, 167
+  size: 212, 152
+  orig: 212, 152
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 1350, 306
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 2, 2
+  size: 103, 229
+  orig: 103, 229
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 928, 144
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+xy-shu.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/动态
+  rotate: false
+  xy: 826, 153
+  size: 707, 822
+  orig: 707, 822
+  offset: 0, 0
+  index: -1
+images/动态树
+  rotate: false
+  xy: 2, 2
+  size: 822, 973
+  orig: 822, 973
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+Y-boy-tou04.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+by04-youyan
+  rotate: false
+  xy: 151, 83
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+by04-zuoyan
+  rotate: false
+  xy: 151, 100
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+yb04
+  rotate: true
+  xy: 2, 2
+  size: 113, 147
+  orig: 113, 147
+  offset: 0, 0
+  index: -1

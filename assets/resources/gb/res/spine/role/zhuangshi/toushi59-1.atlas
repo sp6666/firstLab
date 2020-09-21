@@ -1,0 +1,55 @@
+
+toushi59-1.png
+size: 766,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bz1
+  rotate: true
+  xy: 295, 145
+  size: 38, 456
+  orig: 38, 456
+  offset: 0, 0
+  index: -1
+bz2
+  rotate: true
+  xy: 295, 185
+  size: 45, 469
+  orig: 45, 469
+  offset: 0, 0
+  index: -1
+dz1
+  rotate: true
+  xy: 295, 94
+  size: 49, 269
+  orig: 49, 269
+  offset: 0, 0
+  index: -1
+dz2
+  rotate: true
+  xy: 295, 47
+  size: 45, 259
+  orig: 45, 259
+  offset: 0, 0
+  index: -1
+mz
+  rotate: true
+  xy: 2, 2
+  size: 228, 291
+  orig: 228, 291
+  offset: 0, 0
+  index: -1
+zz1
+  rotate: false
+  xy: 566, 130
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+zz2
+  rotate: false
+  xy: 566, 130
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1

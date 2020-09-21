@@ -1,0 +1,69 @@
+
+menke43-1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guashi2
+  rotate: true
+  xy: 2, 79
+  size: 34, 159
+  orig: 34, 159
+  offset: 0, 0
+  index: -1
+guazhu
+  rotate: false
+  xy: 453, 213
+  size: 7, 29
+  orig: 7, 29
+  offset: 0, 0
+  index: -1
+shenti2
+  rotate: true
+  xy: 2, 115
+  size: 127, 353
+  orig: 127, 353
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 357, 92
+  size: 78, 72
+  orig: 78, 72
+  offset: 0, 0
+  index: -1
+xiezi2
+  rotate: false
+  xy: 2, 30
+  size: 106, 47
+  orig: 106, 47
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: true
+  xy: 2, 2
+  size: 26, 99
+  orig: 26, 99
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 110, 70
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: false
+  xy: 357, 166
+  size: 94, 76
+  orig: 94, 76
+  offset: 0, 0
+  index: -1
+zy
+  rotate: false
+  xy: 163, 107
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1

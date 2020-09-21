@@ -1,0 +1,55 @@
+
+menke38.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao
+  rotate: false
+  xy: 896, 247
+  size: 303, 194
+  orig: 303, 194
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 72
+  size: 369, 892
+  orig: 369, 892
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1201, 243
+  size: 198, 221
+  orig: 198, 221
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: true
+  xy: 2, 2
+  size: 68, 191
+  orig: 68, 191
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 1625, 430
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 1424, 245
+  size: 199, 196
+  orig: 199, 196
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 896, 232
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1

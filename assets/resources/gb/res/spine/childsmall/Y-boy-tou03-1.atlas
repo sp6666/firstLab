@@ -1,0 +1,27 @@
+
+Y-boy-tou03-1.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yb03
+  rotate: false
+  xy: 2, 2
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+yb03-youyan
+  rotate: false
+  xy: 49, 57
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+yb03-zuoyan
+  rotate: false
+  xy: 49, 50
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1

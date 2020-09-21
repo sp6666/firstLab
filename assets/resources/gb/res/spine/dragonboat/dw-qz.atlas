@@ -1,0 +1,20 @@
+
+dw-qz.png
+size: 128,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+旗子
+  rotate: false
+  xy: 2, 2
+  size: 89, 150
+  orig: 89, 150
+  offset: 0, 0
+  index: -1
+旗子2
+  rotate: false
+  xy: 2, 154
+  size: 88, 152
+  orig: 88, 152
+  offset: 0, 0
+  index: -1

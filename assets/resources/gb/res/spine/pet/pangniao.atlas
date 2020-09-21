@@ -1,0 +1,97 @@
+
+pangniao.png
+size: 1540,578
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body1
+  rotate: false
+  xy: 1129, 102
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 1129, 349
+  size: 227, 255
+  orig: 227, 255
+  offset: 0, 0
+  index: -1
+chibang1
+  rotate: true
+  xy: 1376, 208
+  size: 105, 142
+  orig: 105, 142
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: true
+  xy: 1386, 315
+  size: 114, 146
+  orig: 114, 146
+  offset: 0, 0
+  index: -1
+chibang3
+  rotate: true
+  xy: 1234, 18
+  size: 82, 135
+  orig: 82, 135
+  offset: 0, 0
+  index: -1
+chibang4
+  rotate: false
+  xy: 1416, 99
+  size: 121, 107
+  orig: 121, 107
+  offset: 0, 0
+  index: -1
+shuzhi
+  rotate: false
+  xy: 2, 4
+  size: 1125, 572
+  orig: 1125, 572
+  offset: 0, 0
+  index: -1
+weiba1
+  rotate: false
+  xy: 1386, 431
+  size: 152, 145
+  orig: 152, 145
+  offset: 0, 0
+  index: -1
+weiba2
+  rotate: false
+  xy: 1129, 2
+  size: 103, 98
+  orig: 103, 98
+  offset: 0, 0
+  index: -1
+zhu4
+  rotate: false
+  xy: 1371, 36
+  size: 43, 64
+  orig: 43, 64
+  offset: 0, 0
+  index: -1
+zhua1
+  rotate: true
+  xy: 1472, 47
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+zhua2
+  rotate: true
+  xy: 1371, 9
+  size: 25, 56
+  orig: 25, 56
+  offset: 0, 0
+  index: -1
+zhua3
+  rotate: false
+  xy: 1416, 36
+  size: 54, 61
+  orig: 54, 61
+  offset: 0, 0
+  index: -1

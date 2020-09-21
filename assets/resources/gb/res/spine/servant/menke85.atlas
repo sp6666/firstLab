@@ -1,0 +1,69 @@
+
+menke85.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右眼
+  rotate: false
+  xy: 1295, 201
+  size: 26, 10
+  orig: 26, 10
+  offset: 0, 0
+  index: -1
+头
+  rotate: true
+  xy: 404, 33
+  size: 118, 151
+  orig: 118, 151
+  offset: 0, 0
+  index: -1
+左眼
+  rotate: false
+  xy: 1918, 487
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+手臂
+  rotate: true
+  xy: 840, 138
+  size: 362, 453
+  orig: 362, 453
+  offset: 0, 0
+  index: -1
+武器
+  rotate: true
+  xy: 1295, 213
+  size: 64, 220
+  orig: 64, 220
+  offset: 0, 0
+  index: -1
+肩甲
+  rotate: false
+  xy: 2, 2
+  size: 400, 149
+  orig: 400, 149
+  offset: 0, 0
+  index: -1
+裙子
+  rotate: false
+  xy: 1295, 279
+  size: 332, 221
+  orig: 332, 221
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 2, 153
+  size: 347, 836
+  orig: 347, 836
+  offset: 0, 0
+  index: -1
+鞋
+  rotate: false
+  xy: 1629, 284
+  size: 287, 216
+  orig: 287, 216
+  offset: 0, 0
+  index: -1

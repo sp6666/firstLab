@@ -1,0 +1,440 @@
+{
+    "param": [
+        {
+            "id": "zw_cost_item_id",
+            "param": "121"
+        },
+        {
+            "id": "jy_cost_item_silver",
+            "param": "122"
+        },
+        {
+            "id": "jy_cost_item_food",
+            "param": "122"
+        },
+        {
+            "id": "jy_cost_item_soldier",
+            "param": "122"
+        },
+        {
+            "id": "hg_cost_item_jl",
+            "param": "71"
+        },
+        {
+            "id": "xf_cost_item_tl",
+            "param": "72"
+        },
+        {
+            "id": "zs_cost_item_hl",
+            "param": "73"
+        },
+        {
+            "id": "hg_cost_item_sc1",
+            "param": "91"
+        },
+        {
+            "id": "hg_cost_item_sc2",
+            "param": "92"
+        },
+        {
+            "id": "hg_cost_item_sc3",
+            "param": "93"
+        },
+        {
+            "id": "hg_cost_item_sc4",
+            "param": "94"
+        },
+        {
+            "id": "child_cost_gold",
+            "param": "20"
+        },
+        {
+            "id": "show_slider_count",
+            "param": "1"
+        },
+        {
+            "id": "jiulou_daodan_id",
+            "param": "146"
+        },
+        {
+            "id": "jiulou_item_id",
+            "param": "145"
+        },
+        {
+            "id": "jiulou_nor_count",
+            "param": "1"
+        },
+        {
+            "id": "jiulou_guan_count",
+            "param": "999"
+        },
+        {
+            "id": "look_cost_gold",
+            "param": "61,10|81,30|0,50"
+        },
+        {
+            "id": "ep_wl_item",
+            "param": "11|12|13|14|15"
+        },
+        {
+            "id": "ep_zl_item",
+            "param": "21|22|23|24|25"
+        },
+        {
+            "id": "ep_zz_item",
+            "param": "31|32|33|34|35"
+        },
+        {
+            "id": "ep_ml_item",
+            "param": "41|42|43|44|45"
+        },
+        {
+            "id": "ep_all_item",
+            "param": "51|52|53|54|55"
+        },
+        {
+            "id": "guide_first_femaleid1",
+            "param": "1"
+        },
+        {
+            "id": "guide_first_femaleid2",
+            "param": "1"
+        },
+        {
+            "id": "guide_first_maleid1",
+            "param": "1"
+        },
+        {
+            "id": "guide_first_maleid2",
+            "param": "1"
+        },
+        {
+            "id": "SHOW_GUAN_TASK_ID",
+            "param": "100"
+        },
+        {
+            "id": "guide_first_id",
+            "param": "1"
+        },
+        {
+            "id": "chat_item",
+            "param": "270"
+        },
+        {
+            "id": "renmai_task",
+            "param": "40|0|180|460|610|580|530|350|560"
+        },
+        {
+            "id": "world_boss_start_hour",
+            "param": "19"
+        },
+        {
+            "id": "world_boss_end_hour",
+            "param": "23"
+        },
+        {
+            "id": "world_boss_cost_src",
+            "param": "10000"
+        },
+        {
+            "id": "world_boss_cost_gold",
+            "param": "100"
+        },
+        {
+            "id": "world_boss_cost_number",
+            "param": "1"
+        },
+        {
+            "id": "world_boss_cost_numberbuy",
+            "param": "1"
+        },
+        {
+            "id": "world_boss_cost_numberbuycost",
+            "param": "100"
+        },
+        {
+            "id": "world_boss_cost_numberparam",
+            "param": "1|2|3|4|5"
+        },
+        {
+            "id": "world_boss_cost_numberbuyparam",
+            "param": "1|2|3|4|5"
+        },
+        {
+            "id": "world_boss_awardxishu1",
+            "param": "1"
+        },
+        {
+            "id": "world_boss_awardxishu2",
+            "param": "2"
+        },
+        {
+            "id": "world_boss_haogan",
+            "param": "1"
+        },
+        {
+            "id": "world_boss_jiban",
+            "param": "5"
+        },
+        {
+            "id": "world_boss_ids",
+            "param": "10|18|11|17|15|14|13|16|12"
+        },
+        {
+            "id": "world_boss_maxHp",
+            "param": "2500000000"
+        },
+        {
+            "id": "world_boss_minHp",
+            "param": "500000"
+        },
+        {
+            "id": "first_recharge_hero",
+            "param": "45"
+        },
+        {
+            "id": "first_recharge_item",
+            "param": "77,4|2,100000|4,100000"
+        },
+        {
+            "id": "mooncard_price",
+            "param": "28"
+        },
+        {
+            "id": "yearcard_price",
+            "param": "288"
+        },
+        {
+            "id": "mooncard_everyday",
+            "param": "100"
+        },
+        {
+            "id": "yearcard_everyday",
+            "param": "100"
+        },
+        {
+            "id":"weekcard_everyday",
+            "param":"100"
+        },
+        {
+            "id": "mooncard_gain",
+            "param": "280"
+        },
+        {
+            "id": "yearcard_gain",
+            "param": "2880"
+        },
+        {
+            "id":"weekcard_gain",
+            "param":"60"
+        },
+        {
+            "id": "xunfang_city_jiage",
+            "param": "2"
+        },
+        {
+            "id": "xunfang_city_jiage_add",
+            "param": "2"
+        },
+        {
+            "id": "jiaqi_cost_item_chuyou",
+            "param": "150"
+        },
+        {
+            "id": "qifu_free_time",
+            "param": "10"
+        },
+        {
+            "id": "qifu_ten",
+            "param": "5"
+        },
+        {
+            "id": "qifu_ten_pro",
+            "param": "500"
+        },
+        {
+            "id": "qifu_ten_count",
+            "param": "15"
+        },
+        {
+            "id": "qifu_base_prop",
+            "param": "10000"
+        },
+        {
+            "id": "share_gold",
+            "param": "20"
+        },
+        {
+            "id": "school_skill_exp",
+            "param": "500"
+        },
+        {
+            "id": "school_study_exp",
+            "param": "40"
+        },
+        {
+            "id": "treasure_com_item",
+            "param": "21110"
+        },
+        {
+            "id": "FIRST_RECHARGE_SHOW",
+            "param": "5"
+        },
+        {
+            "id": "main_sound_id",
+            "param": "7"
+        },
+        {
+            "id": "gongdou_unlock_servant",
+            "param": "6"
+        },
+        {
+            "id": "gongdou_unlock_level",
+            "param": "50"
+        },
+        {
+            "id": "gongdou_add_count_id",
+            "param": "123"
+        },
+        {
+            "id": "gongdou_attack_id",
+            "param": "125"
+        },
+        {
+            "id": "gongdou_zhuisha_id",
+            "param": "131"
+        },
+        {
+            "id": "gongdou_shangbang_id",
+            "param": "8"
+        },
+        {
+            "id": "tidy_change_max",
+            "param": "5"
+        },
+        {
+            "id": "union_build_cost",
+            "param": "200"
+        },
+        {
+            "id": "clother_item",
+            "param": "1001"
+        },
+        {
+            "id": "clothe_cost",
+            "param": "10"
+        },
+        {
+            "id": "clothe_score_item",
+            "param": "10200"
+        },
+        {
+            "id": "clothe_dui_item",
+            "param": "905"
+        },
+        {
+            "id": "clothepvp_count",
+            "param": "30"
+        },
+        {
+            "id": "clothepvp_time",
+            "param": "180"
+        },
+        {
+            "id": "clotheyear_head",
+            "param": "232"
+        },
+        {
+            "id": "clotheyear_body",
+            "param": "32"
+        },
+        {
+            "id": "clotheyear_ear",
+            "param": "332"
+        },
+        {
+            "id": "test_update",
+            "param": "123456"
+        },
+        {
+            "id": "flower_time",
+            "param": "10800"
+        },
+        {
+            "id": "flower_count",
+            "param": "25"
+        },
+        {
+            "id": "flower_visit_time",
+            "param": "900"
+        },
+        {
+            "id": "school_exp",
+            "param": "6"
+        },
+        {
+            "id": "kitchen_exp",
+            "param": "1"
+        },
+        {
+            "id": "speaker_itemid",
+            "param": "1260"
+        },
+        {
+            "id": "auto_lookout_lv",
+            "param": "10"
+        },
+        {
+            "id": "tree_story_id",
+            "param": "tree_001"
+        },
+        {
+            "id": "pet_eat_like",
+            "param": "7500"
+        },
+        {
+            "id": "pet_eat_happy",
+            "param": "2000"
+        },
+        {
+            "id": "pet_eat_change",
+            "param": "500"
+        },
+        {
+            "id": "pet_levelup",
+            "param": "50"
+        },
+        {
+            "id": "qingming_story_id",
+            "param": "qingming_001"
+        },
+        {
+            "id": "chuyou_vip_level",
+            "param": "5"
+        },
+        {
+            "id": "wenhou_vip_level",
+            "param": "5"
+        },
+        {
+            "id": "reqiqiu_story_id",
+            "param": "reqiqiu_001"
+        },
+        {
+            "id": "hedanri_story_id",
+            "param": "hedanri_001"
+        },
+        {
+            "id": "oldusers_story_day_1",
+            "param": "hg1_001"
+        },
+        {
+            "id": "oldusers_story_day_2",
+            "param": "hg2_001"
+        },
+        {
+            "id": "oldusers_story_day_3",
+            "param": "hg3_001"
+        }
+    ]
+}

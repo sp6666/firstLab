@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "arrowTipRT",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.25,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 54,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            120,
+            120
+          ]
+        },
+        {
+          "frame": 0.25,
+          "value": [
+            30,
+            30
+          ]
+        }
+      ],
+      "rotation": [
+        {
+          "frame": 0,
+          "value": 135
+        }
+      ]
+    }
+  },
+  "events": []
+}

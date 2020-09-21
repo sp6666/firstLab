@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4e146fa8-2316-4e47-ad4a-e603322f1f68",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "img_hh_juanz": {
+      "ver": "1.0.3",
+      "uuid": "d0a0bc9b-179a-4796-947b-497ebdcdcec7",
+      "rawTextureUuid": "4e146fa8-2316-4e47-ad4a-e603322f1f68",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 690,
+      "height": 1205,
+      "rawWidth": 690,
+      "rawHeight": 1205,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

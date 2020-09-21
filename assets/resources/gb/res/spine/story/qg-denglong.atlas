@@ -1,0 +1,20 @@
+
+qg-denglong.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+灯笼1
+  rotate: false
+  xy: 2, 2
+  size: 143, 200
+  orig: 143, 200
+  offset: 0, 0
+  index: -1
+灯笼1-1
+  rotate: false
+  xy: 147, 2
+  size: 98, 200
+  orig: 98, 200
+  offset: 0, 0
+  index: -1

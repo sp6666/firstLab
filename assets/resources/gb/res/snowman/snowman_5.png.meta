@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "17209073-a5b2-4336-912d-8c3f2f4c91bf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "snowman_5": {
+      "ver": "1.0.3",
+      "uuid": "81edb600-a2c6-45e2-8f49-4bbf81e45067",
+      "rawTextureUuid": "17209073-a5b2-4336-912d-8c3f2f4c91bf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -11.5,
+      "offsetY": -8,
+      "trimX": 0,
+      "trimY": 19,
+      "width": 545,
+      "height": 679,
+      "rawWidth": 568,
+      "rawHeight": 701,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

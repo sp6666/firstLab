@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "be113ee1-5b42-4fa0-bb59-c268cc94e153",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "touzi_1": {
+      "ver": "1.0.3",
+      "uuid": "d8ca3161-9ffd-49cb-a965-f16e39ba183b",
+      "rawTextureUuid": "be113ee1-5b42-4fa0-bb59-c268cc94e153",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -0.5,
+      "trimX": 4,
+      "trimY": 2,
+      "width": 68,
+      "height": 71,
+      "rawWidth": 74,
+      "rawHeight": 74,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

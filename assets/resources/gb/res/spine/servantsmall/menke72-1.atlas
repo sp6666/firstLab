@@ -1,0 +1,76 @@
+
+menke72-1.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右手
+  rotate: true
+  xy: 382, 16
+  size: 53, 168
+  orig: 53, 168
+  offset: 0, 0
+  index: -1
+右眼
+  rotate: false
+  xy: 2, 2
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+头
+  rotate: true
+  xy: 708, 3
+  size: 78, 86
+  orig: 78, 86
+  offset: 0, 0
+  index: -1
+左手
+  rotate: true
+  xy: 566, 36
+  size: 90, 140
+  orig: 90, 140
+  offset: 0, 0
+  index: -1
+左眼
+  rotate: false
+  xy: 552, 63
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 2, 9
+  size: 117, 378
+  orig: 117, 378
+  offset: 0, 0
+  index: -1
+身体2
+  rotate: false
+  xy: 708, 83
+  size: 145, 43
+  orig: 145, 43
+  offset: 0, 0
+  index: -1
+身体3
+  rotate: false
+  xy: 382, 71
+  size: 182, 55
+  orig: 182, 55
+  offset: 0, 0
+  index: -1
+鞋子
+  rotate: true
+  xy: 796, 13
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+顶戴花翎
+  rotate: true
+  xy: 855, 102
+  size: 24, 68
+  orig: 24, 68
+  offset: 0, 0
+  index: -1

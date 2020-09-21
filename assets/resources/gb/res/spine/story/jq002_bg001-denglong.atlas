@@ -1,0 +1,13 @@
+
+jq002_bg001-denglong.png
+size: 128,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+动态灯笼
+  rotate: false
+  xy: 2, 2
+  size: 113, 401
+  orig: 113, 401
+  offset: 0, 0
+  index: -1

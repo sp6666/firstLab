@@ -1,0 +1,20 @@
+
+boy04-1.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bb04-1
+  rotate: true
+  xy: 2, 2
+  size: 101, 228
+  orig: 101, 228
+  offset: 0, 0
+  index: -1
+bb04-2
+  rotate: false
+  xy: 232, 61
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1

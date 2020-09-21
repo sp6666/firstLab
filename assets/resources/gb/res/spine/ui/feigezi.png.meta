@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b66ed50a-7203-4ceb-88e2-44ab631eee58",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "feigezi": {
+      "ver": "1.0.3",
+      "uuid": "e1f43d5b-c5c9-4496-8e84-fc8afcc27cea",
+      "rawTextureUuid": "b66ed50a-7203-4ceb-88e2-44ab631eee58",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -346.5,
+      "offsetY": 36,
+      "trimX": 9,
+      "trimY": 8,
+      "width": 1337,
+      "height": 424,
+      "rawWidth": 2048,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

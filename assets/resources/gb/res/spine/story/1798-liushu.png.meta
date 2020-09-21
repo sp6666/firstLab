@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "669195f5-65a6-465e-b545-c9aaf7e26967",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "1798-liushu": {
+      "ver": "1.0.3",
+      "uuid": "34d11505-c600-4bcc-8132-7bebbc95b617",
+      "rawTextureUuid": "669195f5-65a6-465e-b545-c9aaf7e26967",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -153,
+      "offsetY": 252.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 714,
+      "height": 515,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

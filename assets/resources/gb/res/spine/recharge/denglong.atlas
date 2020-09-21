@@ -1,0 +1,27 @@
+
+denglong.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nianka
+  rotate: true
+  xy: 87, 2
+  size: 32, 83
+  orig: 32, 83
+  offset: 0, 0
+  index: -1
+yueka
+  rotate: true
+  xy: 2, 2
+  size: 32, 83
+  orig: 32, 83
+  offset: 0, 0
+  index: -1
+灯笼
+  rotate: true
+  xy: 2, 36
+  size: 61, 235
+  orig: 61, 235
+  offset: 0, 0
+  index: -1

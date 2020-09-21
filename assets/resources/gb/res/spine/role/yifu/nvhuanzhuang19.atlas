@@ -1,0 +1,41 @@
+
+nvhuanzhuang19.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti4-4-1
+  rotate: false
+  xy: 905, 332
+  size: 225, 178
+  orig: 225, 178
+  offset: 0, 0
+  index: -1
+shenti4-4-2
+  rotate: true
+  xy: 905, 161
+  size: 169, 188
+  orig: 169, 188
+  offset: 0, 0
+  index: -1
+shenti4-4-3
+  rotate: true
+  xy: 2, 60
+  size: 92, 395
+  orig: 92, 395
+  offset: 0, 0
+  index: -1
+shenti4-4-4
+  rotate: true
+  xy: 2, 154
+  size: 356, 901
+  orig: 356, 901
+  offset: 0, 0
+  index: -1
+shenti4-4-5
+  rotate: false
+  xy: 2, 2
+  size: 125, 56
+  orig: 125, 56
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+d3.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao
+  rotate: false
+  xy: 2, 2
+  size: 233, 63
+  orig: 233, 63
+  offset: 0, 0
+  index: -1
+piaodai1
+  rotate: true
+  xy: 2, 67
+  size: 43, 337
+  orig: 43, 337
+  offset: 0, 0
+  index: -1
+piaodai2
+  rotate: true
+  xy: 1109, 433
+  size: 53, 319
+  orig: 53, 319
+  offset: 0, 0
+  index: -1
+shanzi
+  rotate: false
+  xy: 944, 255
+  size: 163, 231
+  orig: 163, 231
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 112
+  size: 374, 940
+  orig: 374, 940
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 944, 141
+  size: 112, 163
+  orig: 112, 163
+  offset: 0, 0
+  index: -1

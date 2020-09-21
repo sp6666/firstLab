@@ -1,0 +1,62 @@
+
+menke60.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shoupa
+  rotate: true
+  xy: 760, 87
+  size: 91, 183
+  orig: 91, 183
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 557, 45
+  size: 133, 201
+  orig: 133, 201
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: true
+  xy: 942, 385
+  size: 116, 68
+  orig: 116, 68
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: true
+  xy: 2, 180
+  size: 321, 938
+  orig: 321, 938
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 306, 18
+  size: 160, 249
+  orig: 160, 249
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 2, 2
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 2, 17
+  size: 161, 302
+  orig: 161, 302
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 557, 29
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1

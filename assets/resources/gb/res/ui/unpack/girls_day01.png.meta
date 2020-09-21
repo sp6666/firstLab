@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c0bbde0e-ab6c-47a2-aeae-31f7b5c41996",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "girls_day01": {
+      "ver": "1.0.3",
+      "uuid": "668b24f9-4a70-4925-929c-81034293063b",
+      "rawTextureUuid": "c0bbde0e-ab6c-47a2-aeae-31f7b5c41996",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -6.5,
+      "trimX": 0,
+      "trimY": 13,
+      "width": 1080,
+      "height": 1623,
+      "rawWidth": 1080,
+      "rawHeight": 1636,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

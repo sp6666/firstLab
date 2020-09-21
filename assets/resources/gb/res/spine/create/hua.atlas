@@ -1,0 +1,55 @@
+
+hua.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ziteng1
+  rotate: true
+  xy: 1257, 305
+  size: 123, 242
+  orig: 123, 242
+  offset: 0, 0
+  index: -1
+ziteng2
+  rotate: false
+  xy: 2, 2
+  size: 333, 426
+  orig: 333, 426
+  offset: 0, 0
+  index: -1
+ziteng3
+  rotate: false
+  xy: 660, 57
+  size: 110, 371
+  orig: 110, 371
+  offset: 0, 0
+  index: -1
+ziteng4
+  rotate: false
+  xy: 337, 18
+  size: 321, 410
+  orig: 321, 410
+  offset: 0, 0
+  index: -1
+ziteng5
+  rotate: false
+  xy: 923, 220
+  size: 165, 208
+  orig: 165, 208
+  offset: 0, 0
+  index: -1
+ziteng6
+  rotate: false
+  xy: 1090, 222
+  size: 165, 206
+  orig: 165, 206
+  offset: 0, 0
+  index: -1
+ziteng7
+  rotate: false
+  xy: 772, 116
+  size: 149, 312
+  orig: 149, 312
+  offset: 0, 0
+  index: -1

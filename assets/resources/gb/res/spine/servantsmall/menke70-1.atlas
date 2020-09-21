@@ -1,0 +1,118 @@
+
+menke70-1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+剑
+  rotate: false
+  xy: 2, 8
+  size: 239, 137
+  orig: 239, 137
+  offset: 0, 0
+  index: -1
+右手臂
+  rotate: false
+  xy: 487, 240
+  size: 82, 89
+  orig: 82, 89
+  offset: 0, 0
+  index: -1
+右眼
+  rotate: false
+  xy: 2, 2
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+右肩甲
+  rotate: true
+  xy: 473, 331
+  size: 41, 94
+  orig: 41, 94
+  offset: 0, 0
+  index: -1
+右裙摆
+  rotate: false
+  xy: 258, 291
+  size: 95, 205
+  orig: 95, 205
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 355, 177
+  size: 56, 143
+  orig: 56, 143
+  offset: 0, 0
+  index: -1
+头2
+  rotate: false
+  xy: 413, 170
+  size: 73, 55
+  orig: 73, 55
+  offset: 0, 0
+  index: -1
+左手臂
+  rotate: true
+  xy: 680, 456
+  size: 40, 126
+  orig: 40, 126
+  offset: 0, 0
+  index: -1
+左眼
+  rotate: true
+  xy: 487, 227
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+左肩甲
+  rotate: false
+  xy: 413, 227
+  size: 72, 93
+  orig: 72, 93
+  offset: 0, 0
+  index: -1
+左裙摆
+  rotate: true
+  xy: 473, 449
+  size: 47, 205
+  orig: 47, 205
+  offset: 0, 0
+  index: -1
+披风
+  rotate: false
+  xy: 2, 147
+  size: 254, 349
+  orig: 254, 349
+  offset: 0, 0
+  index: -1
+脸
+  rotate: false
+  xy: 632, 405
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+裙
+  rotate: true
+  xy: 473, 374
+  size: 73, 157
+  orig: 73, 157
+  offset: 0, 0
+  index: -1
+身体
+  rotate: false
+  xy: 355, 322
+  size: 116, 174
+  orig: 116, 174
+  offset: 0, 0
+  index: -1
+鞋子
+  rotate: true
+  xy: 258, 165
+  size: 124, 95
+  orig: 124, 95
+  offset: 0, 0
+  index: -1

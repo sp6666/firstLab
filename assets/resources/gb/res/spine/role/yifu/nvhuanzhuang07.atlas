@@ -1,0 +1,34 @@
+
+nvhuanzhuang07.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti-3-1
+  rotate: false
+  xy: 899, 250
+  size: 225, 260
+  orig: 225, 260
+  offset: 0, 0
+  index: -1
+shenti-3-2
+  rotate: true
+  xy: 2, 2
+  size: 194, 626
+  orig: 194, 626
+  offset: 0, 0
+  index: -1
+shenti-3-3
+  rotate: false
+  xy: 630, 92
+  size: 87, 104
+  orig: 87, 104
+  offset: 0, 0
+  index: -1
+shenti-3-4
+  rotate: true
+  xy: 2, 198
+  size: 312, 895
+  orig: 312, 895
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "033f3ff2-2cfc-41ff-b1ba-c3f5f69f5b9b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "icon_chengjiu1": {
+      "ver": "1.0.3",
+      "uuid": "3649c254-ba3d-45ff-91a7-884afe61d344",
+      "rawTextureUuid": "033f3ff2-2cfc-41ff-b1ba-c3f5f69f5b9b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 1,
+      "trimX": 4,
+      "trimY": 4,
+      "width": 99,
+      "height": 116,
+      "rawWidth": 107,
+      "rawHeight": 126,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

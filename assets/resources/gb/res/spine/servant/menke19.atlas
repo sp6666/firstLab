@@ -1,0 +1,48 @@
+
+menke19.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 2, 166
+  size: 339, 805
+  orig: 339, 805
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 809, 27
+  size: 188, 201
+  orig: 188, 201
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: true
+  xy: 809, 230
+  size: 275, 142
+  orig: 275, 142
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 419, 150
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 2, 17
+  size: 147, 415
+  orig: 147, 415
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 2, 2
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1

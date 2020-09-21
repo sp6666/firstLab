@@ -1,0 +1,48 @@
+
+menke44.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 2, 164
+  size: 325, 845
+  orig: 325, 845
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 849, 286
+  size: 338, 203
+  orig: 338, 203
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 19
+  size: 143, 288
+  orig: 143, 288
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 1189, 319
+  size: 141, 170
+  orig: 141, 170
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 849, 267
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 2, 2
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+nvhuanzhuang55.png
+size: 936,472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 468, 724
+  orig: 468, 724
+  offset: 0, 0
+  index: -1
+diaosui
+  rotate: true
+  xy: 728, 79
+  size: 81, 170
+  orig: 81, 170
+  offset: 0, 0
+  index: -1
+gebo
+  rotate: false
+  xy: 728, 162
+  size: 206, 308
+  orig: 206, 308
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 728, 34
+  size: 97, 43
+  orig: 97, 43
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+hudie01.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+蝴蝶1
+  rotate: true
+  xy: 2, 2
+  size: 54, 86
+  orig: 54, 86
+  offset: 0, 0
+  index: -1
+蝴蝶1-1
+  rotate: false
+  xy: 172, 24
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+蝴蝶1-2
+  rotate: true
+  xy: 90, 7
+  size: 49, 80
+  orig: 49, 80
+  offset: 0, 0
+  index: -1

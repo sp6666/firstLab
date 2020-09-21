@@ -1,0 +1,76 @@
+
+menke24.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 2, 150
+  size: 348, 951
+  orig: 348, 951
+  offset: 0, 0
+  index: -1
+shoujuan
+  rotate: false
+  xy: 1175, 367
+  size: 59, 131
+  orig: 59, 131
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 955, 274
+  size: 218, 224
+  orig: 218, 224
+  offset: 0, 0
+  index: -1
+youerhuan
+  rotate: true
+  xy: 302, 22
+  size: 13, 38
+  orig: 13, 38
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 955, 198
+  size: 74, 156
+  orig: 74, 156
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: true
+  xy: 302, 37
+  size: 111, 242
+  orig: 111, 242
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 955, 181
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+zuoerhuan
+  rotate: false
+  xy: 546, 110
+  size: 13, 38
+  orig: 13, 38
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 2, 2
+  size: 146, 298
+  orig: 146, 298
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 1113, 259
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1

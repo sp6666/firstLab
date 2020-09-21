@@ -1,0 +1,34 @@
+
+nvhuanzhuang4012.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+六月-右手
+  rotate: false
+  xy: 926, 202
+  size: 247, 263
+  orig: 247, 263
+  offset: 0, 0
+  index: -1
+六月-左手
+  rotate: true
+  xy: 1175, 250
+  size: 215, 266
+  orig: 215, 266
+  offset: 0, 0
+  index: -1
+六月-身体
+  rotate: true
+  xy: 2, 111
+  size: 354, 922
+  orig: 354, 922
+  offset: 0, 0
+  index: -1
+六月-鞋子
+  rotate: false
+  xy: 2, 2
+  size: 161, 107
+  orig: 161, 107
+  offset: 0, 0
+  index: -1

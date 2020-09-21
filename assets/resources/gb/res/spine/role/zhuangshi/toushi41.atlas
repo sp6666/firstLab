@@ -1,0 +1,20 @@
+
+toushi41.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diaozui
+  rotate: true
+  xy: 2, 2
+  size: 9, 142
+  orig: 9, 142
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 13
+  size: 189, 210
+  orig: 189, 210
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+menke46-1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diaozhui
+  rotate: false
+  xy: 465, 191
+  size: 9, 58
+  orig: 9, 58
+  offset: 0, 0
+  index: -1
+erzhui1
+  rotate: false
+  xy: 124, 20
+  size: 5, 18
+  orig: 5, 18
+  offset: 0, 0
+  index: -1
+erzhui2
+  rotate: false
+  xy: 211, 88
+  size: 5, 17
+  orig: 5, 17
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 107
+  size: 142, 364
+  orig: 142, 364
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 368, 168
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 368, 154
+  size: 59, 12
+  orig: 59, 12
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 124, 40
+  size: 85, 65
+  orig: 85, 65
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 368, 146
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 2, 2
+  size: 103, 120
+  orig: 103, 120
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 429, 160
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1

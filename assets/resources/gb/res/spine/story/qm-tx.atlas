@@ -1,0 +1,117 @@
+
+qm-tx.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+清明4_00000
+  rotate: false
+  xy: 2, 364
+  size: 360, 750
+  orig: 360, 750
+  offset: 0, 0
+  index: -1
+清明4_00001
+  rotate: false
+  xy: 364, 1116
+  size: 360, 750
+  orig: 360, 750
+  offset: 0, 0
+  index: -1
+清明4_00002
+  rotate: false
+  xy: 364, 364
+  size: 360, 750
+  orig: 360, 750
+  offset: 0, 0
+  index: -1
+清明4_00003
+  rotate: false
+  xy: 726, 1116
+  size: 360, 750
+  orig: 360, 750
+  offset: 0, 0
+  index: -1
+清明4_00004
+  rotate: false
+  xy: 726, 364
+  size: 360, 750
+  orig: 360, 750
+  offset: 0, 0
+  index: -1
+清明4_00005
+  rotate: true
+  xy: 2, 2
+  size: 360, 750
+  orig: 360, 750
+  offset: 0, 0
+  index: -1
+清明4_00006
+  rotate: false
+  xy: 1088, 1116
+  size: 360, 750
+  orig: 360, 750
+  offset: 0, 0
+  index: -1
+清明4_00007
+  rotate: false
+  xy: 1088, 364
+  size: 360, 750
+  orig: 360, 750
+  offset: 0, 0
+  index: -1
+清明4_00008
+  rotate: false
+  xy: 1450, 1116
+  size: 360, 750
+  orig: 360, 750
+  offset: 0, 0
+  index: -1
+清明4_00009
+  rotate: false
+  xy: 1450, 364
+  size: 360, 750
+  orig: 360, 750
+  offset: 0, 0
+  index: -1
+清明4_00010
+  rotate: true
+  xy: 754, 2
+  size: 360, 750
+  orig: 360, 750
+  offset: 0, 0
+  index: -1
+清明4_00014
+  rotate: false
+  xy: 2, 1116
+  size: 360, 750
+  orig: 360, 750
+  offset: 0, 0
+  index: -1
+
+qm-tx2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+清明4_00011
+  rotate: false
+  xy: 2, 2
+  size: 360, 750
+  orig: 360, 750
+  offset: 0, 0
+  index: -1
+清明4_00012
+  rotate: false
+  xy: 364, 2
+  size: 360, 750
+  orig: 360, 750
+  offset: 0, 0
+  index: -1
+清明4_00013
+  rotate: false
+  xy: 726, 2
+  size: 360, 750
+  orig: 360, 750
+  offset: 0, 0
+  index: -1

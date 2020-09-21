@@ -1,0 +1,27 @@
+
+toushi79.png
+size: 47,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ts3
+  rotate: true
+  xy: 2, 2
+  size: 75, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+tx1
+  rotate: false
+  xy: 2, 178
+  size: 43, 92
+  orig: 43, 92
+  offset: 0, 0
+  index: -1
+tx2
+  rotate: false
+  xy: 2, 79
+  size: 34, 97
+  orig: 34, 97
+  offset: 0, 0
+  index: -1

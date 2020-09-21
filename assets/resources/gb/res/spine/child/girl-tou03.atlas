@@ -1,0 +1,27 @@
+
+girl-tou03.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g03
+  rotate: false
+  xy: 2, 18
+  size: 136, 151
+  orig: 136, 151
+  offset: 0, 0
+  index: -1
+g03-youyan
+  rotate: false
+  xy: 140, 154
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+g03-zuoyan
+  rotate: false
+  xy: 2, 2
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1

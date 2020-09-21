@@ -1,0 +1,41 @@
+
+toushi5004-1.png
+size: 535,150
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs1
+  rotate: true
+  xy: 271, 9
+  size: 139, 126
+  orig: 139, 126
+  offset: 0, 0
+  index: -1
+fs2
+  rotate: true
+  xy: 399, 27
+  size: 121, 134
+  orig: 121, 134
+  offset: 0, 0
+  index: -1
+tf2
+  rotate: false
+  xy: 2, 9
+  size: 267, 139
+  orig: 267, 139
+  offset: 0, 0
+  index: -1
+tl1
+  rotate: true
+  xy: 399, 2
+  size: 23, 84
+  orig: 23, 84
+  offset: 0, 0
+  index: -1
+tl2
+  rotate: true
+  xy: 485, 15
+  size: 10, 45
+  orig: 10, 45
+  offset: 0, 0
+  index: -1

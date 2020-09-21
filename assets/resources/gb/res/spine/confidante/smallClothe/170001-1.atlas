@@ -1,0 +1,55 @@
+
+170001-1.png
+size: 1618,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 271, 876
+  orig: 271, 876
+  offset: 0, 0
+  index: -1
+s1
+  rotate: true
+  xy: 880, 107
+  size: 166, 391
+  orig: 166, 391
+  offset: 0, 0
+  index: -1
+s2
+  rotate: true
+  xy: 1273, 195
+  size: 78, 343
+  orig: 78, 343
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1273, 73
+  size: 98, 120
+  orig: 98, 120
+  offset: 0, 0
+  index: -1
+x1
+  rotate: false
+  xy: 1273, 37
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 1373, 138
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+yz1
+  rotate: false
+  xy: 880, 4
+  size: 391, 101
+  orig: 391, 101
+  offset: 0, 0
+  index: -1

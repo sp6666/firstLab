@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b29052ef-280d-45b7-b2c8-ed5844708d3b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "nianka": {
+      "ver": "1.0.3",
+      "uuid": "359fa715-012a-4c5f-ae3f-f5226b12f986",
+      "rawTextureUuid": "b29052ef-280d-45b7-b2c8-ed5844708d3b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 295,
+      "height": 190,
+      "rawWidth": 295,
+      "rawHeight": 190,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

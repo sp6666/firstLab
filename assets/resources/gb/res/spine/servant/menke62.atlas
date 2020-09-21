@@ -1,0 +1,34 @@
+
+menke62.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右手
+  rotate: true
+  xy: 2, 2
+  size: 131, 440
+  orig: 131, 440
+  offset: 0, 0
+  index: -1
+左手
+  rotate: true
+  xy: 950, 381
+  size: 119, 414
+  orig: 119, 414
+  offset: 0, 0
+  index: -1
+身子
+  rotate: true
+  xy: 2, 135
+  size: 365, 946
+  orig: 365, 946
+  offset: 0, 0
+  index: -1
+鞋子
+  rotate: false
+  xy: 444, 4
+  size: 340, 129
+  orig: 340, 129
+  offset: 0, 0
+  index: -1

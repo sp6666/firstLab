@@ -1,0 +1,55 @@
+
+170001.png
+size: 1768,908
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 365
+  size: 541, 1752
+  orig: 541, 1752
+  offset: 0, 0
+  index: -1
+s1
+  rotate: true
+  xy: 2, 32
+  size: 331, 782
+  orig: 331, 782
+  offset: 0, 0
+  index: -1
+s2
+  rotate: true
+  xy: 786, 2
+  size: 157, 686
+  orig: 157, 686
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1569, 123
+  size: 197, 240
+  orig: 197, 240
+  offset: 0, 0
+  index: -1
+x1
+  rotate: true
+  xy: 1474, 3
+  size: 156, 69
+  orig: 156, 69
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 1545, 11
+  size: 106, 110
+  orig: 106, 110
+  offset: 0, 0
+  index: -1
+yz1
+  rotate: false
+  xy: 786, 161
+  size: 781, 202
+  orig: 781, 202
+  offset: 0, 0
+  index: -1

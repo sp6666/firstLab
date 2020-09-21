@@ -1,0 +1,55 @@
+
+menke35-1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guashi
+  rotate: true
+  xy: 2, 39
+  size: 30, 144
+  orig: 30, 144
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 71
+  size: 165, 373
+  orig: 165, 373
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 377, 127
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 2, 2
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 148, 64
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 377, 188
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 443, 231
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1

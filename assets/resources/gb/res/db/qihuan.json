@@ -1,0 +1,63 @@
+{
+    "qihuan_candy": [{
+            "id": 1,
+            "itemid": 1070,
+            "icon": 1,
+            "costType": 3,
+            "cost": 10000,
+            "name": "太妃糖",
+            "like": ""
+        },
+        {
+            "id": 2,
+            "itemid": 1071,
+            "icon": 4,
+            "costType": 1,
+            "cost": 100,
+            "name": "心型糖",
+            "like": "粉色娇俏，本王觉得衬你正好。"
+        },
+        {
+            "id": 3,
+            "itemid": 1072,
+            "icon": 2,
+            "costType": 1,
+            "cost": 100,
+            "name": "薄荷糖",
+            "like": "你身上似是有清新的甜香？"
+        },
+        {
+            "id": 4,
+            "itemid": 1073,
+            "icon": 3,
+            "costType": 1,
+            "cost": 100,
+            "name": "南瓜棒棒糖",
+            "like": "那南瓜做成的糖果甚是精巧。"
+        }
+    ],
+    "qihuan_person": [{
+            "id": 1,
+            "name": "直郡王",
+            "hid": 1061,
+            "head": 10
+        },
+        {
+            "id": 2,
+            "name": "诚亲王",
+            "hid": 1062,
+            "head": 11
+        },
+        {
+            "id": 3,
+            "name": "皇太子",
+            "hid": 1063,
+            "head": 18
+        }
+    ],
+    "qihuan_text": [{
+        "id": 1,
+        "liketxt": "投之以桃，报之以李",
+        "disliketxt": "看来你还不了解本王的心意呢"
+    }]
+}

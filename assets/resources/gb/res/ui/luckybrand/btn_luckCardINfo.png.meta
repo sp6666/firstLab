@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "71167866-8d86-4854-9608-f4b144fae7d2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "btn_luckCardINfo": {
+      "ver": "1.0.3",
+      "uuid": "64c8bfc8-0d82-4263-8fc0-d338f1ead429",
+      "rawTextureUuid": "71167866-8d86-4854-9608-f4b144fae7d2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 46,
+      "height": 46,
+      "rawWidth": 46,
+      "rawHeight": 46,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

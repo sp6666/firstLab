@@ -1,0 +1,27 @@
+
+cnhk-shu.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右树
+  rotate: true
+  xy: 1160, 229
+  size: 271, 573
+  orig: 271, 573
+  offset: 0, 0
+  index: -1
+左树
+  rotate: false
+  xy: 726, 34
+  size: 432, 466
+  orig: 432, 466
+  offset: 0, 0
+  index: -1
+飘叶
+  rotate: false
+  xy: 2, 2
+  size: 722, 498
+  orig: 722, 498
+  offset: 0, 0
+  index: -1

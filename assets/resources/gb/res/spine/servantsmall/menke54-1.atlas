@@ -1,0 +1,76 @@
+
+menke54-1.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diaopei
+  rotate: true
+  xy: 1321, 74
+  size: 35, 82
+  orig: 35, 82
+  offset: 0, 0
+  index: -1
+jian
+  rotate: true
+  xy: 950, 58
+  size: 51, 177
+  orig: 51, 177
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 9
+  size: 100, 344
+  orig: 100, 344
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 1129, 57
+  size: 109, 52
+  orig: 109, 52
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1405, 66
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+xie
+  rotate: true
+  xy: 1240, 46
+  size: 63, 79
+  orig: 63, 79
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 348, 11
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+youyi
+  rotate: true
+  xy: 653, 41
+  size: 68, 295
+  orig: 68, 295
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 2, 2
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+zuoyi
+  rotate: true
+  xy: 348, 18
+  size: 91, 303
+  orig: 91, 303
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+gou.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+后身
+  rotate: false
+  xy: 2, 496
+  size: 545, 518
+  orig: 545, 518
+  offset: 0, 0
+  index: -1
+尾巴
+  rotate: false
+  xy: 367, 344
+  size: 122, 150
+  orig: 122, 150
+  offset: 0, 0
+  index: -1
+眼睛
+  rotate: false
+  xy: 2, 2
+  size: 129, 54
+  orig: 129, 54
+  offset: 0, 0
+  index: -1
+身子
+  rotate: false
+  xy: 2, 58
+  size: 363, 436
+  orig: 363, 436
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 549, 825
+  size: 430, 189
+  orig: 430, 189
+  offset: 0, 0
+  index: -1

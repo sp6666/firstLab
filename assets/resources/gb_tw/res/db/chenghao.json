@@ -1,0 +1,30 @@
+{
+    "fashion": [
+        {"id":1,"name":"衣冠楚楚","type":1,"img":193,"simg":"s193","show_time":"2021-09-15 08:00:00","show_avid":0,"des":"華服值超過200獲得","display":[],"limtime":720,"kuatype":0},
+        {"id":2,"name":"綺羅珠履","type":1,"img":194,"simg":"s194","show_time":"2021-09-15 08:00:00","show_avid":0,"des":"華服值超過800獲得","display":[],"limtime":720,"kuatype":0},
+        {"id":3,"name":"美若天仙","type":1,"img":195,"simg":"s195","show_time":"2021-09-15 08:00:00","show_avid":0,"des":"華服值超過1500獲得","display":[],"limtime":720,"kuatype":0},
+        {"id":4,"name":"平易近人","type":1,"img":196,"simg":"s196","show_time":"2021-09-15 08:00:00","show_avid":0,"des":"擁有夥伴數超過10獲得","display":[],"limtime":720,"kuatype":0},
+        {"id":5,"name":"人見人愛","type":1,"img":197,"simg":"s197","show_time":"2021-09-15 08:00:00","show_avid":0,"des":"擁有夥伴數超過20獲得","display":[],"limtime":720,"kuatype":0},
+        {"id":6,"name":"勝友如雲","type":1,"img":198,"simg":"s198","show_time":"2021-09-15 08:00:00","show_avid":0,"des":"擁有夥伴數超過30獲得","display":[],"limtime":720,"kuatype":0},
+        {"id":7,"name":"一呼百應","type":1,"img":199,"simg":"s199","show_time":"2021-09-15 08:00:00","show_avid":0,"des":"擁有夥伴數超過50獲得","display":[],"limtime":720,"kuatype":0},
+        {"id":8,"name":"收藏家","type":1,"img":200,"simg":"s200","show_time":"2021-09-15 08:00:00","show_avid":0,"des":"解鎖1件珍寶獲得","display":[],"limtime":720,"kuatype":0},
+        {"id":9,"name":"琳琅滿目","type":1,"img":201,"simg":"s201","show_time":"2021-09-15 08:00:00","show_avid":0,"des":"解鎖超過15件珍寶獲得","display":[],"limtime":720,"kuatype":0},
+        {"id":10,"name":"文玩大家","type":1,"img":202,"simg":"s202","show_time":"2021-09-15 08:00:00","show_avid":0,"des":"解鎖超過35件珍寶獲得","display":[],"limtime":720,"kuatype":0},
+        {"id":11,"name":"五月端陽","type":1,"img":203,"simg":"s203","show_time":"2021-09-15 08:00:00","show_avid":0,"des":"收集“端午賽龍舟”活動的所有服裝獲得","display":[],"limtime":720,"kuatype":0},
+        {"id":101,"name":"權勢滔天","type":1,"img":204,"simg":"s204","show_time":"2001-09-15 08:00:00","show_avid":81,"des":"在跨服勢力榜中獲得第一名","display":[],"limtime":720,"kuatype":1},
+        {"id":102,"name":"聲勢浩大","type":1,"img":205,"simg":"s205","show_time":"2001-09-15 08:00:00","show_avid":81,"des":"在跨服勢力榜中獲得第二至十名","display":[],"limtime":720,"kuatype":0},
+        {"id":103,"name":"才辯無雙","type":1,"img":206,"simg":"s206","show_time":"2001-09-15 08:00:00","show_avid":81,"des":"在跨服廷鬥榜中獲得第一名，限時30天","display":[],"limtime":720,"kuatype":3},
+        {"id":104,"name":"舌燦蓮花","type":1,"img":207,"simg":"s207","show_time":"2001-09-15 08:00:00","show_avid":81,"des":"在跨服廷鬥榜中獲得第二至十名，限時30天","display":[],"limtime":720,"kuatype":0},
+        {"id":105,"name":"情深潭水","type":1,"img":208,"simg":"s208","show_time":"2001-09-15 08:00:00","show_avid":81,"des":"在跨服知己好感榜中獲得第一名","display":[],"limtime":720,"kuatype":2},
+        {"id":106,"name":"高山流水","type":1,"img":209,"simg":"s209","show_time":"2001-09-15 08:00:00","show_avid":81,"des":"在跨服知己好感榜中獲得第二至十名","display":[],"limtime":720,"kuatype":0},
+        {"id":107,"name":"千里共嬋娟","type":1,"img":210,"simg":"s210","show_time":"2001-09-15 08:00:00","show_avid":81,"des":"“明月良宵”活動商城兌換獲得","display":[],"limtime":8640,"kuatype":0},
+        {"id":108,"name":"巧奪天工","type":1,"img":211,"simg":"s211","show_time":"2001-09-15 08:00:00","show_avid":81,"des":"“秋水芙蓉”活動獲得，限時92天","display":[],"limtime":2208,"kuatype":0},
+        {"id":109,"name":"韶光贈酒","type":1,"img":212,"simg":"s212","show_time":"2019-11-25 00:00:00","show_avid":81,"des":"“感恩節”活動獲得，限時92天","display":[],"limtime":2208,"kuatype":0},
+        {"id":110,"name":"緣鵠飾玉","type":1,"img":213,"simg":"s213","show_time":"2019-11-21 00:00:00","show_avid":81,"des":"“攜手同心”活動獲得，限時365天","display":[],"limtime":8760,"kuatype":0},
+        {"id":111,"name":"晝錦榮歸","type":1,"img":214,"simg":"s214","show_time":"2019-12-11 00:00:00","show_avid":81,"des":"“攜君一夢”活動邀請好友回歸獲得，限時365天","display":[],"limtime":8760,"kuatype":0},
+        {"id":112,"name":"朝花暮雪","type":1,"img":215,"simg":"s215","show_time":"2019-12-11 00:00:00","show_avid":81,"des":"“攜君一夢”活動回歸玩家獲得，限時365天","display":[],"limtime":8760,"kuatype":0},
+        {"id":113,"name":"鹿鈴幻夜","type":1,"img":216,"simg":"s216","show_time":"2019-12-18 00:00:00","show_avid":81,"des":"“聖誕漫遊記”活動獲得，限時180天","display":[],"limtime":4320,"kuatype":0},
+        {"id":114,"name":"緣定三生","type":1,"img":217,"simg":"s217","show_time":"2020-02-12 00:00:00","show_avid":6509,"des":"“情人心”活動獲得，限時92天","display":[],"limtime":2208,"kuatype":0},
+        {"id":115,"name":"櫻花少女","type":1,"img":218,"simg":"s218","show_time":"2020-02-19 00:00:00","show_avid":6510,"des":"“浪漫櫻花行”活動獲得，限時180天","display":[],"limtime":4320,"kuatype":0}
+    ]
+}

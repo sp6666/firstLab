@@ -1,0 +1,34 @@
+
+nvhuanzhuang09.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h3-shenti
+  rotate: true
+  xy: 2, 76
+  size: 384, 883
+  orig: 384, 883
+  offset: 0, 0
+  index: -1
+h3-shoujuan
+  rotate: true
+  xy: 2, 2
+  size: 72, 228
+  orig: 72, 228
+  offset: 0, 0
+  index: -1
+h3-xiezi
+  rotate: false
+  xy: 887, 186
+  size: 120, 124
+  orig: 120, 124
+  offset: 0, 0
+  index: -1
+h3-youshou
+  rotate: false
+  xy: 887, 312
+  size: 169, 148
+  orig: 169, 148
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+menke09.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guashi
+  rotate: true
+  xy: 2, 19
+  size: 105, 322
+  orig: 105, 322
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 987, 340
+  size: 276, 152
+  orig: 276, 152
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 126
+  size: 366, 983
+  orig: 366, 983
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1265, 382
+  size: 110, 155
+  orig: 110, 155
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 987, 234
+  size: 261, 104
+  orig: 261, 104
+  offset: 0, 0
+  index: -1
+youyanpi
+  rotate: false
+  xy: 2, 2
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+zuoyanpi
+  rotate: false
+  xy: 326, 112
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1

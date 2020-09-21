@@ -1,0 +1,62 @@
+
+menke18.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erhuan
+  rotate: false
+  xy: 1439, 303
+  size: 10, 35
+  orig: 10, 35
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 116
+  size: 394, 888
+  orig: 394, 888
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 892, 119
+  size: 154, 258
+  orig: 154, 258
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 892, 275
+  size: 235, 545
+  orig: 235, 545
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 1439, 340
+  size: 288, 170
+  orig: 288, 170
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 2, 2
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 2, 19
+  size: 95, 185
+  orig: 95, 185
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 1729, 496
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1

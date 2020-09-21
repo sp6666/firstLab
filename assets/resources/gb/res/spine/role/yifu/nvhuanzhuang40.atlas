@@ -1,0 +1,41 @@
+
+nvhuanzhuang40.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 2, 206
+  size: 285, 926
+  orig: 285, 926
+  offset: 0, 0
+  index: -1
+shoupa
+  rotate: true
+  xy: 1235, 402
+  size: 89, 291
+  orig: 89, 291
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 2, 2
+  size: 113, 52
+  orig: 113, 52
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 2, 56
+  size: 148, 287
+  orig: 148, 287
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 930, 230
+  size: 261, 303
+  orig: 261, 303
+  offset: 0, 0
+  index: -1

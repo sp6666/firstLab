@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7a8778d4-bad4-4228-868c-15de3af70e92",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "tagView_topic_bg": {
+      "ver": "1.0.3",
+      "uuid": "506e1a4f-14c2-41e9-a90a-f1c7cbd56227",
+      "rawTextureUuid": "7a8778d4-bad4-4228-868c-15de3af70e92",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 5,
+      "offsetY": 0,
+      "trimX": 10,
+      "trimY": 0,
+      "width": 256,
+      "height": 107,
+      "rawWidth": 266,
+      "rawHeight": 107,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,656 @@
+{
+    "qingyuan": [
+        {
+            "qingyuan_level": 1,
+            "qingyuan_gather": 10,
+            "qingyuan_exp": 60,
+            "qingyuan_banchai": 0,
+            "qingyuan_prob": [{ "1": 0, "3": 0, "2": 0, "4": 0 }],
+            "qingyuan_chenlu": 0
+        },
+        {
+            "qingyuan_level": 2,
+            "qingyuan_gather": 10,
+            "qingyuan_exp": 80,
+            "qingyuan_banchai": 5000,
+            "qingyuan_prob": [{ "1": 5, "3": 0, "2": 0, "4": 0 }],
+            "qingyuan_chenlu": 1
+        },
+        {
+            "qingyuan_level": 3,
+            "qingyuan_gather": 10,
+            "qingyuan_exp": 100,
+            "qingyuan_banchai": 5100,
+            "qingyuan_prob": [{ "1": 5, "3": 0, "2": 5, "4": 0 }],
+            "qingyuan_chenlu": 1
+        },
+        {
+            "qingyuan_level": 4,
+            "qingyuan_gather": 10,
+            "qingyuan_exp": 120,
+            "qingyuan_banchai": 5200,
+            "qingyuan_prob": [{ "1": 5, "3": 5, "2": 5, "4": 0 }],
+            "qingyuan_chenlu": 2
+        },
+        {
+            "qingyuan_level": 5,
+            "qingyuan_gather": 10,
+            "qingyuan_exp": 160,
+            "qingyuan_banchai": 5300,
+            "qingyuan_prob": [{ "1": 5, "3": 5, "2": 5, "4": 5 }],
+            "qingyuan_chenlu": 2
+        },
+        {
+            "qingyuan_level": 6,
+            "qingyuan_gather": 10,
+            "qingyuan_exp": 185,
+            "qingyuan_banchai": 5400,
+            "qingyuan_prob": [{ "1": 6, "3": 5, "2": 5, "4": 5 }],
+            "qingyuan_chenlu": 3
+        },
+        {
+            "qingyuan_level": 7,
+            "qingyuan_gather": 10,
+            "qingyuan_exp": 210,
+            "qingyuan_banchai": 5500,
+            "qingyuan_prob": [{ "1": 6, "3": 5, "2": 6, "4": 5 }],
+            "qingyuan_chenlu": 3
+        },
+        {
+            "qingyuan_level": 8,
+            "qingyuan_gather": 10,
+            "qingyuan_exp": 235,
+            "qingyuan_banchai": 5600,
+            "qingyuan_prob": [{ "1": 6, "3": 6, "2": 6, "4": 5 }],
+            "qingyuan_chenlu": 4
+        },
+        {
+            "qingyuan_level": 9,
+            "qingyuan_gather": 10,
+            "qingyuan_exp": 260,
+            "qingyuan_banchai": 5700,
+            "qingyuan_prob": [{ "1": 6, "3": 6, "2": 6, "4": 6 }],
+            "qingyuan_chenlu": 4
+        },
+        {
+            "qingyuan_level": 10,
+            "qingyuan_gather": 10,
+            "qingyuan_exp": 375,
+            "qingyuan_banchai": 5800,
+            "qingyuan_prob": [{ "1": 7, "3": 6, "2": 6, "4": 6 }],
+            "qingyuan_chenlu": 5
+        },
+        {
+            "qingyuan_level": 11,
+            "qingyuan_gather": 12,
+            "qingyuan_exp": 470,
+            "qingyuan_banchai": 5900,
+            "qingyuan_prob": [{ "1": 7, "3": 6, "2": 7, "4": 6 }],
+            "qingyuan_chenlu": 5
+        },
+        {
+            "qingyuan_level": 12,
+            "qingyuan_gather": 12,
+            "qingyuan_exp": 585,
+            "qingyuan_banchai": 6000,
+            "qingyuan_prob": [{ "1": 7, "3": 7, "2": 7, "4": 6 }],
+            "qingyuan_chenlu": 6
+        },
+        {
+            "qingyuan_level": 13,
+            "qingyuan_gather": 12,
+            "qingyuan_exp": 710,
+            "qingyuan_banchai": 6100,
+            "qingyuan_prob": [{ "1": 7, "3": 7, "2": 7, "4": 7 }],
+            "qingyuan_chenlu": 6
+        },
+        {
+            "qingyuan_level": 14,
+            "qingyuan_gather": 12,
+            "qingyuan_exp": 850,
+            "qingyuan_banchai": 6200,
+            "qingyuan_prob": [{ "1": 8, "3": 7, "2": 7, "4": 7 }],
+            "qingyuan_chenlu": 7
+        },
+        {
+            "qingyuan_level": 15,
+            "qingyuan_gather": 12,
+            "qingyuan_exp": 1005,
+            "qingyuan_banchai": 6300,
+            "qingyuan_prob": [{ "1": 8, "3": 7, "2": 8, "4": 7 }],
+            "qingyuan_chenlu": 7
+        },
+        {
+            "qingyuan_level": 16,
+            "qingyuan_gather": 13,
+            "qingyuan_exp": 1170,
+            "qingyuan_banchai": 6400,
+            "qingyuan_prob": [{ "1": 8, "3": 8, "2": 8, "4": 7 }],
+            "qingyuan_chenlu": 8
+        },
+        {
+            "qingyuan_level": 17,
+            "qingyuan_gather": 13,
+            "qingyuan_exp": 1345,
+            "qingyuan_banchai": 6500,
+            "qingyuan_prob": [{ "1": 8, "3": 8, "2": 8, "4": 8 }],
+            "qingyuan_chenlu": 8
+        },
+        {
+            "qingyuan_level": 18,
+            "qingyuan_gather": 13,
+            "qingyuan_exp": 1525,
+            "qingyuan_banchai": 6600,
+            "qingyuan_prob": [{ "1": 9, "3": 8, "2": 8, "4": 8 }],
+            "qingyuan_chenlu": 9
+        },
+        {
+            "qingyuan_level": 19,
+            "qingyuan_gather": 13,
+            "qingyuan_exp": 1720,
+            "qingyuan_banchai": 6700,
+            "qingyuan_prob": [{ "1": 9, "3": 8, "2": 9, "4": 8 }],
+            "qingyuan_chenlu": 9
+        },
+        {
+            "qingyuan_level": 20,
+            "qingyuan_gather": 13,
+            "qingyuan_exp": 1925,
+            "qingyuan_banchai": 6800,
+            "qingyuan_prob": [{ "1": 9, "3": 9, "2": 9, "4": 8 }],
+            "qingyuan_chenlu": 10
+        },
+        {
+            "qingyuan_level": 21,
+            "qingyuan_gather": 14,
+            "qingyuan_exp": 2135,
+            "qingyuan_banchai": 6900,
+            "qingyuan_prob": [{ "1": 9, "3": 9, "2": 9, "4": 9 }],
+            "qingyuan_chenlu": 10
+        },
+        {
+            "qingyuan_level": 22,
+            "qingyuan_gather": 14,
+            "qingyuan_exp": 2360,
+            "qingyuan_banchai": 7000,
+            "qingyuan_prob": [{ "1": 10, "3": 9, "2": 9, "4": 9 }],
+            "qingyuan_chenlu": 10
+        },
+        {
+            "qingyuan_level": 23,
+            "qingyuan_gather": 14,
+            "qingyuan_exp": 2585,
+            "qingyuan_banchai": 7100,
+            "qingyuan_prob": [{ "1": 10, "3": 9, "2": 10, "4": 9 }],
+            "qingyuan_chenlu": 10
+        },
+        {
+            "qingyuan_level": 24,
+            "qingyuan_gather": 14,
+            "qingyuan_exp": 2825,
+            "qingyuan_banchai": 7200,
+            "qingyuan_prob": [{ "1": 10, "3": 10, "2": 10, "4": 9 }],
+            "qingyuan_chenlu": 11
+        },
+        {
+            "qingyuan_level": 25,
+            "qingyuan_gather": 14,
+            "qingyuan_exp": 3030,
+            "qingyuan_banchai": 7300,
+            "qingyuan_prob": [{ "1": 10, "3": 10, "2": 10, "4": 10 }],
+            "qingyuan_chenlu": 11
+        },
+        {
+            "qingyuan_level": 26,
+            "qingyuan_gather": 15,
+            "qingyuan_exp": 3255,
+            "qingyuan_banchai": 7400,
+            "qingyuan_prob": [{ "1": 11, "3": 10, "2": 10, "4": 10 }],
+            "qingyuan_chenlu": 11
+        },
+        {
+            "qingyuan_level": 27,
+            "qingyuan_gather": 15,
+            "qingyuan_exp": 3550,
+            "qingyuan_banchai": 7500,
+            "qingyuan_prob": [{ "1": 11, "3": 10, "2": 11, "4": 10 }],
+            "qingyuan_chenlu": 11
+        },
+        {
+            "qingyuan_level": 28,
+            "qingyuan_gather": 15,
+            "qingyuan_exp": 3910,
+            "qingyuan_banchai": 7600,
+            "qingyuan_prob": [{ "1": 11, "3": 11, "2": 11, "4": 10 }],
+            "qingyuan_chenlu": 12
+        },
+        {
+            "qingyuan_level": 29,
+            "qingyuan_gather": 15,
+            "qingyuan_exp": 4330,
+            "qingyuan_banchai": 7700,
+            "qingyuan_prob": [{ "1": 11, "3": 11, "2": 11, "4": 11 }],
+            "qingyuan_chenlu": 12
+        },
+        {
+            "qingyuan_level": 30,
+            "qingyuan_gather": 15,
+            "qingyuan_exp": 4815,
+            "qingyuan_banchai": 7800,
+            "qingyuan_prob": [{ "1": 12, "3": 11, "2": 11, "4": 11 }],
+            "qingyuan_chenlu": 12
+        },
+        {
+            "qingyuan_level": 31,
+            "qingyuan_gather": 18,
+            "qingyuan_exp": 5355,
+            "qingyuan_banchai": 7900,
+            "qingyuan_prob": [{ "1": 12, "3": 11, "2": 12, "4": 11 }],
+            "qingyuan_chenlu": 12
+        },
+        {
+            "qingyuan_level": 32,
+            "qingyuan_gather": 18,
+            "qingyuan_exp": 5955,
+            "qingyuan_banchai": 8000,
+            "qingyuan_prob": [{ "1": 12, "3": 12, "2": 12, "4": 11 }],
+            "qingyuan_chenlu": 13
+        },
+        {
+            "qingyuan_level": 33,
+            "qingyuan_gather": 18,
+            "qingyuan_exp": 6610,
+            "qingyuan_banchai": 8100,
+            "qingyuan_prob": [{ "1": 12, "3": 12, "2": 12, "4": 12 }],
+            "qingyuan_chenlu": 13
+        },
+        {
+            "qingyuan_level": 34,
+            "qingyuan_gather": 18,
+            "qingyuan_exp": 7315,
+            "qingyuan_banchai": 8200,
+            "qingyuan_prob": [{ "1": 13, "3": 12, "2": 12, "4": 12 }],
+            "qingyuan_chenlu": 13
+        },
+        {
+            "qingyuan_level": 35,
+            "qingyuan_gather": 18,
+            "qingyuan_exp": 8080,
+            "qingyuan_banchai": 8300,
+            "qingyuan_prob": [{ "1": 13, "3": 12, "2": 13, "4": 12 }],
+            "qingyuan_chenlu": 13
+        },
+        {
+            "qingyuan_level": 36,
+            "qingyuan_gather": 25,
+            "qingyuan_exp": 8895,
+            "qingyuan_banchai": 8400,
+            "qingyuan_prob": [{ "1": 13, "3": 13, "2": 13, "4": 12 }],
+            "qingyuan_chenlu": 14
+        },
+        {
+            "qingyuan_level": 37,
+            "qingyuan_gather": 25,
+            "qingyuan_exp": 9760,
+            "qingyuan_banchai": 8500,
+            "qingyuan_prob": [{ "1": 13, "3": 13, "2": 13, "4": 13 }],
+            "qingyuan_chenlu": 14
+        },
+        {
+            "qingyuan_level": 38,
+            "qingyuan_gather": 25,
+            "qingyuan_exp": 10675,
+            "qingyuan_banchai": 8600,
+            "qingyuan_prob": [{ "1": 14, "3": 13, "2": 13, "4": 13 }],
+            "qingyuan_chenlu": 14
+        },
+        {
+            "qingyuan_level": 39,
+            "qingyuan_gather": 25,
+            "qingyuan_exp": 11645,
+            "qingyuan_banchai": 8700,
+            "qingyuan_prob": [{ "1": 14, "3": 13, "2": 14, "4": 13 }],
+            "qingyuan_chenlu": 14
+        },
+        {
+            "qingyuan_level": 40,
+            "qingyuan_gather": 25,
+            "qingyuan_exp": 12660,
+            "qingyuan_banchai": 8800,
+            "qingyuan_prob": [{ "1": 14, "3": 14, "2": 14, "4": 13 }],
+            "qingyuan_chenlu": 15
+        },
+        {
+            "qingyuan_level": 41,
+            "qingyuan_gather": 35,
+            "qingyuan_exp": 13730,
+            "qingyuan_banchai": 8900,
+            "qingyuan_prob": [{ "1": 14, "3": 14, "2": 14, "4": 14 }],
+            "qingyuan_chenlu": 15
+        },
+        {
+            "qingyuan_level": 42,
+            "qingyuan_gather": 35,
+            "qingyuan_exp": 14845,
+            "qingyuan_banchai": 9000,
+            "qingyuan_prob": [{ "1": 15, "3": 14, "2": 14, "4": 14 }],
+            "qingyuan_chenlu": 16
+        },
+        {
+            "qingyuan_level": 43,
+            "qingyuan_gather": 35,
+            "qingyuan_exp": 16005,
+            "qingyuan_banchai": 9100,
+            "qingyuan_prob": [{ "1": 15, "3": 14, "2": 15, "4": 14 }],
+            "qingyuan_chenlu": 16
+        },
+        {
+            "qingyuan_level": 44,
+            "qingyuan_gather": 35,
+            "qingyuan_exp": 17215,
+            "qingyuan_banchai": 9200,
+            "qingyuan_prob": [{ "1": 15, "3": 15, "2": 15, "4": 14 }],
+            "qingyuan_chenlu": 17
+        },
+        {
+            "qingyuan_level": 45,
+            "qingyuan_gather": 35,
+            "qingyuan_exp": 18470,
+            "qingyuan_banchai": 9300,
+            "qingyuan_prob": [{ "1": 15, "3": 15, "2": 15, "4": 15 }],
+            "qingyuan_chenlu": 17
+        },
+        {
+            "qingyuan_level": 46,
+            "qingyuan_gather": 50,
+            "qingyuan_exp": 19775,
+            "qingyuan_banchai": 9400,
+            "qingyuan_prob": [{ "1": 16, "3": 15, "2": 15, "4": 15 }],
+            "qingyuan_chenlu": 18
+        },
+        {
+            "qingyuan_level": 47,
+            "qingyuan_gather": 50,
+            "qingyuan_exp": 21125,
+            "qingyuan_banchai": 9500,
+            "qingyuan_prob": [{ "1": 16, "3": 15, "2": 16, "4": 15 }],
+            "qingyuan_chenlu": 18
+        },
+        {
+            "qingyuan_level": 48,
+            "qingyuan_gather": 50,
+            "qingyuan_exp": 22520,
+            "qingyuan_banchai": 9600,
+            "qingyuan_prob": [{ "1": 16, "3": 16, "2": 16, "4": 15 }],
+            "qingyuan_chenlu": 19
+        },
+        {
+            "qingyuan_level": 49,
+            "qingyuan_gather": 50,
+            "qingyuan_exp": 23960,
+            "qingyuan_banchai": 9700,
+            "qingyuan_prob": [{ "1": 16, "3": 16, "2": 16, "4": 16 }],
+            "qingyuan_chenlu": 19
+        },
+        {
+            "qingyuan_level": 50,
+            "qingyuan_gather": 50,
+            "qingyuan_exp": 25450,
+            "qingyuan_banchai": 9800,
+            "qingyuan_prob": [{ "1": 17, "3": 16, "2": 16, "4": 16 }],
+            "qingyuan_chenlu": 20
+        }
+    ],
+    "friendPray": [
+        {
+            "itemxy_num": 2,
+            "itemxy_id": 11,
+            "itemxy_give": 10,
+            "itemxy_name": "氣勢藥水"
+        },
+        {
+            "itemxy_num": 2,
+            "itemxy_id": 21,
+            "itemxy_give": 10,
+            "itemxy_name": "智謀藥水"
+        },
+        {
+            "itemxy_num": 2,
+            "itemxy_id": 31,
+            "itemxy_give": 10,
+            "itemxy_name": "政略藥水"
+        },
+        {
+            "itemxy_num": 2,
+            "itemxy_id": 41,
+            "itemxy_give": 10,
+            "itemxy_name": "魅力藥水"
+        },
+        {
+            "itemxy_num": 10,
+            "itemxy_id": 95,
+            "itemxy_give": 10,
+            "itemxy_name": "徵收手劄"
+        },
+        {
+            "itemxy_num": 10,
+            "itemxy_id": 96,
+            "itemxy_give": 10,
+            "itemxy_name": "徵收銀票"
+        },
+        {
+            "itemxy_num": 10,
+            "itemxy_id": 97,
+            "itemxy_give": 10,
+            "itemxy_name": "徵收名帖"
+        },
+        {
+            "itemxy_num": 1,
+            "itemxy_id": 101,
+            "itemxy_give": 10,
+            "itemxy_name": "定情珠"
+        },
+        {
+            "itemxy_num": 1,
+            "itemxy_id": 157,
+            "itemxy_give": 8,
+            "itemxy_name": "黃銅腰牌"
+        },
+        {
+            "itemxy_num": 1,
+            "itemxy_id": 77,
+            "itemxy_give": 8,
+            "itemxy_name": "書卷禮包"
+        }
+    ],
+    "friendship_level":[
+		{"level":1,"need":1, "days": 3.4,
+			"ep_type":[{"ep_type":1,"ep":0},{"ep_type":2,"ep":0},{"ep_type":3,"ep":0},{"ep_type":4,"ep":0}]
+		},
+		{"level":2,"need":2300, "days": 3.4,
+			"ep_type":[{"ep_type":1,"ep":5},{"ep_type":2,"ep":5},{"ep_type":3,"ep":5},{"ep_type":4,"ep":5}]
+		},
+		{"level":3,"need":4600, "days": 3.4,
+			"ep_type":[{"ep_type":1,"ep":10},{"ep_type":2,"ep":10},{"ep_type":3,"ep":10},{"ep_type":4,"ep":10}]
+		},
+		{"level":4,"need":6900, "days": 3.4,
+			"ep_type":[{"ep_type":1,"ep":15},{"ep_type":2,"ep":15},{"ep_type":3,"ep":15},{"ep_type":4,"ep":15}]
+		},
+		{"level":5,"need":9200, "days": 3.4,
+			"ep_type":[{"ep_type":1,"ep":20},{"ep_type":2,"ep":20},{"ep_type":3,"ep":20},{"ep_type":4,"ep":20}]
+		},
+		{"level":6,"need":13100, "days": 3.4,
+			"ep_type":[{"ep_type":1,"ep":25},{"ep_type":2,"ep":25},{"ep_type":3,"ep":25},{"ep_type":4,"ep":25}]
+		},
+		{"level":7,"need":16300, "days": 5,
+			"ep_type":[{"ep_type":1,"ep":30},{"ep_type":2,"ep":30},{"ep_type":3,"ep":30},{"ep_type":4,"ep":30}]
+		},
+		{"level":8,"need":19500, "days": 5,
+			"ep_type":[{"ep_type":1,"ep":35},{"ep_type":2,"ep":35},{"ep_type":3,"ep":35},{"ep_type":4,"ep":35}]
+		},
+		{"level":9,"need":22800, "days": 5,
+			"ep_type":[{"ep_type":1,"ep":40},{"ep_type":2,"ep":40},{"ep_type":3,"ep":40},{"ep_type":4,"ep":40}]
+		},
+		{"level":10,"need":29300, "days": 5,
+			"ep_type":[{"ep_type":1,"ep":45},{"ep_type":2,"ep":45},{"ep_type":3,"ep":45},{"ep_type":4,"ep":45}]
+		},
+		{"level":11,"need":36600, "days": 5,
+			"ep_type":[{"ep_type":1,"ep":50},{"ep_type":2,"ep":50},{"ep_type":3,"ep":50},{"ep_type":4,"ep":50}]
+		},
+		{"level":12,"need":43200, "days": 9,
+			"ep_type":[{"ep_type":1,"ep":55},{"ep_type":2,"ep":55},{"ep_type":3,"ep":55},{"ep_type":4,"ep":55}]
+		},
+		{"level":13,"need":50000, "days": 9,
+			"ep_type":[{"ep_type":1,"ep":60},{"ep_type":2,"ep":60},{"ep_type":3,"ep":60},{"ep_type":4,"ep":60}]
+		},
+		{"level":14,"need":58400, "days": 9,
+			"ep_type":[{"ep_type":1,"ep":65},{"ep_type":2,"ep":65},{"ep_type":3,"ep":65},{"ep_type":4,"ep":65}]
+		},
+		{"level":15,"need":66900, "days": 9,
+			"ep_type":[{"ep_type":1,"ep":70},{"ep_type":2,"ep":70},{"ep_type":3,"ep":70},{"ep_type":4,"ep":70}]
+		},
+		{"level":16,"need":77100, "days": 9,
+			"ep_type":[{"ep_type":1,"ep":75},{"ep_type":2,"ep":75},{"ep_type":3,"ep":75},{"ep_type":4,"ep":75}]
+		},
+		{"level":17,"need":89100, "days": 18,
+			"ep_type":[{"ep_type":1,"ep":80},{"ep_type":2,"ep":80},{"ep_type":3,"ep":80},{"ep_type":4,"ep":80}]
+		},
+		{"level":18,"need":103000, "days": 18,
+			"ep_type":[{"ep_type":1,"ep":85},{"ep_type":2,"ep":85},{"ep_type":3,"ep":85},{"ep_type":4,"ep":85}]
+		},
+		{"level":19,"need":116900, "days": 18,
+			"ep_type":[{"ep_type":1,"ep":90},{"ep_type":2,"ep":90},{"ep_type":3,"ep":90},{"ep_type":4,"ep":90}]
+		},
+		{"level":20,"need":134400, "days": 18,
+			"ep_type":[{"ep_type":1,"ep":95},{"ep_type":2,"ep":95},{"ep_type":3,"ep":95},{"ep_type":4,"ep":95}]
+		},
+		{"level":21,"need":152100, "days": 18,
+			"ep_type":[{"ep_type":1,"ep":100},{"ep_type":2,"ep":100},{"ep_type":3,"ep":100},{"ep_type":4,"ep":100}]
+		},
+		{"level":22,"need":170000, "days": 18,
+			"ep_type":[{"ep_type":1,"ep":105},{"ep_type":2,"ep":105},{"ep_type":3,"ep":105},{"ep_type":4,"ep":105}]
+		},
+		{"level":23,"need":188100, "days": 18,
+			"ep_type":[{"ep_type":1,"ep":110},{"ep_type":2,"ep":110},{"ep_type":3,"ep":110},{"ep_type":4,"ep":110}]
+		},
+		{"level":24,"need":206400, "days": 18,
+			"ep_type":[{"ep_type":1,"ep":115},{"ep_type":2,"ep":115},{"ep_type":3,"ep":115},{"ep_type":4,"ep":115}]
+		},
+		{"level":25,"need":224900, "days": 18,
+			"ep_type":[{"ep_type":1,"ep":120},{"ep_type":2,"ep":120},{"ep_type":3,"ep":120},{"ep_type":4,"ep":120}]
+		},
+		{"level":26,"need":243600, "days": 18,
+			"ep_type":[{"ep_type":1,"ep":125},{"ep_type":2,"ep":125},{"ep_type":3,"ep":125},{"ep_type":4,"ep":125}]
+		},
+		{"level":27,"need":262500, "days": 20,
+			"ep_type":[{"ep_type":1,"ep":130},{"ep_type":2,"ep":130},{"ep_type":3,"ep":130},{"ep_type":4,"ep":130}]
+		},
+		{"level":28,"need":281600, "days": 20,
+			"ep_type":[{"ep_type":1,"ep":135},{"ep_type":2,"ep":135},{"ep_type":3,"ep":135},{"ep_type":4,"ep":135}]
+		},
+		{"level":29,"need":300900, "days": 20,
+			"ep_type":[{"ep_type":1,"ep":140},{"ep_type":2,"ep":140},{"ep_type":3,"ep":140},{"ep_type":4,"ep":140}]
+		},
+		{"level":30,"need":320400, "days": 20,
+			"ep_type":[{"ep_type":1,"ep":145},{"ep_type":2,"ep":145},{"ep_type":3,"ep":145},{"ep_type":4,"ep":145}]
+		},
+		{"level":31,"need":340100, "days": 20,
+			"ep_type":[{"ep_type":1,"ep":150},{"ep_type":2,"ep":150},{"ep_type":3,"ep":150},{"ep_type":4,"ep":150}]
+		},
+		{"level":32,"need":360000, "days": 20,
+			"ep_type":[{"ep_type":1,"ep":155},{"ep_type":2,"ep":155},{"ep_type":3,"ep":155},{"ep_type":4,"ep":155}]
+		},
+		{"level":33,"need":380100, "days": 20,
+			"ep_type":[{"ep_type":1,"ep":160},{"ep_type":2,"ep":160},{"ep_type":3,"ep":160},{"ep_type":4,"ep":160}]
+		},
+		{"level":34,"need":400400, "days": 20,
+			"ep_type":[{"ep_type":1,"ep":165},{"ep_type":2,"ep":165},{"ep_type":3,"ep":165},{"ep_type":4,"ep":165}]
+		},
+		{"level":35,"need":420900, "days": 20,
+			"ep_type":[{"ep_type":1,"ep":170},{"ep_type":2,"ep":170},{"ep_type":3,"ep":170},{"ep_type":4,"ep":170}]
+		},
+		{"level":36,"need":441600, "days": 20,
+			"ep_type":[{"ep_type":1,"ep":175},{"ep_type":2,"ep":175},{"ep_type":3,"ep":175},{"ep_type":4,"ep":175}]
+		},
+		{"level":37,"need":462500, "days": 0,
+			"ep_type":[{"ep_type":1,"ep":180},{"ep_type":2,"ep":180},{"ep_type":3,"ep":180},{"ep_type":4,"ep":180}]
+		},
+		{"level":38,"need":483600, "days": 0,
+			"ep_type":[{"ep_type":1,"ep":185},{"ep_type":2,"ep":185},{"ep_type":3,"ep":185},{"ep_type":4,"ep":185}]
+		},
+		{"level":39,"need":504900, "days": 0,
+			"ep_type":[{"ep_type":1,"ep":190},{"ep_type":2,"ep":190},{"ep_type":3,"ep":190},{"ep_type":4,"ep":190}]
+		},
+		{"level":40,"need":526400, "days": 0,
+			"ep_type":[{"ep_type":1,"ep":195},{"ep_type":2,"ep":195},{"ep_type":3,"ep":195},{"ep_type":4,"ep":195}]
+		},
+		{"level":41,"need":548100, "days": 0,
+			"ep_type":[{"ep_type":1,"ep":200},{"ep_type":2,"ep":200},{"ep_type":3,"ep":200},{"ep_type":4,"ep":200}]
+		}
+	],
+    "friendship_class":[
+        {"fs_class": 1, "need":1, "fs_name": "一見如故",
+            "rwd":[{"id":1,"count":50,"kind":1},{"id":77,"count":1,"kind":1},{"id":93,"count":1,"kind":1},{"id":91,"count":1,"kind":1},{"id":900,"count":1,"kind":1}]
+        },
+        {"fs_class": 2, "need":10500, "fs_name": "相見恨晚",
+            "rwd":[{"id":1,"count":100,"kind":1},{"id":77,"count":2,"kind":1},{"id":93,"count":2,"kind":1},{"id":91,"count":2,"kind":1},{"id":900,"count":2,"kind":1}]
+        },
+        {"fs_class": 3, "need":27000, "fs_name": "志同道合",
+            "rwd":[{"id":1,"count":300,"kind":1},{"id":77,"count":3,"kind":1},{"id":94,"count":3,"kind":1},{"id":92,"count":3,"kind":1},{"id":900,"count":3,"kind":1}]
+        },
+        {"fs_class": 4, "need":54000, "fs_name": "道義之交",
+            "rwd":[{"id":1,"count":500,"kind":1},{"id":77,"count":5,"kind":1},{"id":94,"count":5,"kind":1},{"id":92,"count":5,"kind":1},{"id":901,"count":5,"kind":1}]
+        },
+        {"fs_class": 5, "need":150000, "fs_name": "相視莫逆",
+            "rwd":[{"id":1,"count":800,"kind":1},{"id":77,"count":10,"kind":1},{"id":107,"count":10,"kind":1},{"id":106,"count":10,"kind":1},{"id":901,"count":10,"kind":1}]
+        },
+        {"fs_class": 6, "need":250000, "fs_name": "心照情交",
+            "rwd":[{"id":1,"count":1000,"kind":1},{"id":77,"count":15,"kind":1},{"id":107,"count":15,"kind":1},{"id":106,"count":15,"kind":1},{"id":901,"count":15,"kind":1}]
+        }
+    ],
+    "friendship_other_level":[
+        {"level":1,"need":1},
+        {"level":2,"need":1500},
+        {"level":3,"need":3000},
+        {"level":4,"need":4500},
+        {"level":5,"need":6000},
+        {"level":6,"need":8500},
+        {"level":7,"need":10500},
+        {"level":8,"need":12500},
+        {"level":9,"need":14500},
+        {"level":10,"need":18500},
+        {"level":11,"need":23000},
+        {"level":12,"need":27000},
+        {"level":13,"need":31000},
+        {"level":14,"need":36000},
+        {"level":15,"need":41000},
+        {"level":16,"need":47000},
+        {"level":17,"need":54000},
+        {"level":18,"need":62000},
+        {"level":19,"need":70000},
+        {"level":20,"need":80000},
+        {"level":21,"need":90000},
+        {"level":22,"need":100000},
+        {"level":23,"need":110000},
+        {"level":24,"need":120000},
+        {"level":25,"need":130000},
+        {"level":26,"need":140000},
+        {"level":27,"need":150000},
+        {"level":28,"need":160000},
+        {"level":29,"need":170000},
+        {"level":30,"need":180000},
+        {"level":31,"need":190000},
+        {"level":32,"need":200000},
+        {"level":33,"need":210000},
+        {"level":34,"need":220000},
+        {"level":35,"need":230000},
+        {"level":36,"need":240000},
+        {"level":37,"need":250000},
+        {"level":38,"need":260000},
+        {"level":39,"need":270000},
+        {"level":40,"need":280000},
+        {"level":41,"need":290000}
+    ]
+
+
+}

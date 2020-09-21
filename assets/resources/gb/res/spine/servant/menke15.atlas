@@ -1,0 +1,62 @@
+
+menke15.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 2, 104
+  size: 392, 942
+  orig: 392, 942
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 946, 218
+  size: 115, 150
+  orig: 115, 150
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 946, 370
+  size: 278, 126
+  orig: 278, 126
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 2, 2
+  size: 100, 192
+  orig: 100, 192
+  offset: 0, 0
+  index: -1
+youshouzhang
+  rotate: false
+  xy: 1226, 383
+  size: 59, 113
+  orig: 59, 113
+  offset: 0, 0
+  index: -1
+youshouzhi
+  rotate: false
+  xy: 196, 35
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 946, 203
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 1063, 355
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1

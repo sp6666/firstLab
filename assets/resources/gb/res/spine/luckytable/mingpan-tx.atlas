@@ -1,0 +1,111 @@
+
+mingpan-tx.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sh_00000
+  rotate: false
+  xy: 2, 265
+  size: 261, 347
+  orig: 261, 347
+  offset: 0, 0
+  index: -1
+sh_00001
+  rotate: false
+  xy: 265, 614
+  size: 261, 347
+  orig: 261, 347
+  offset: 0, 0
+  index: -1
+sh_00002
+  rotate: false
+  xy: 265, 265
+  size: 261, 347
+  orig: 261, 347
+  offset: 0, 0
+  index: -1
+sh_00003
+  rotate: true
+  xy: 2, 2
+  size: 261, 347
+  orig: 261, 347
+  offset: 0, 0
+  index: -1
+sh_00004
+  rotate: false
+  xy: 528, 614
+  size: 261, 347
+  orig: 261, 347
+  offset: 0, 0
+  index: -1
+sh_00005
+  rotate: false
+  xy: 528, 265
+  size: 261, 347
+  orig: 261, 347
+  offset: 0, 0
+  index: -1
+sh_00006
+  rotate: true
+  xy: 351, 2
+  size: 261, 347
+  orig: 261, 347
+  offset: 0, 0
+  index: -1
+sh_00007
+  rotate: false
+  xy: 791, 614
+  size: 261, 347
+  orig: 261, 347
+  offset: 0, 0
+  index: -1
+sh_00008
+  rotate: false
+  xy: 791, 265
+  size: 261, 347
+  orig: 261, 347
+  offset: 0, 0
+  index: -1
+sh_00009
+  rotate: true
+  xy: 700, 2
+  size: 261, 347
+  orig: 261, 347
+  offset: 0, 0
+  index: -1
+sh_00010
+  rotate: false
+  xy: 1054, 614
+  size: 261, 347
+  orig: 261, 347
+  offset: 0, 0
+  index: -1
+sh_00011
+  rotate: false
+  xy: 1054, 265
+  size: 261, 347
+  orig: 261, 347
+  offset: 0, 0
+  index: -1
+sh_00012
+  rotate: false
+  xy: 1317, 614
+  size: 261, 347
+  orig: 261, 347
+  offset: 0, 0
+  index: -1
+sh_00013
+  rotate: false
+  xy: 1317, 265
+  size: 261, 347
+  orig: 261, 347
+  offset: 0, 0
+  index: -1
+sh_00014
+  rotate: false
+  xy: 2, 614
+  size: 261, 347
+  orig: 261, 347
+  offset: 0, 0
+  index: -1

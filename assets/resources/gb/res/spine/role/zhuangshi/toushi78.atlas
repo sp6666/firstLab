@@ -1,0 +1,41 @@
+
+toushi78.png
+size: 418,426
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tsq1
+  rotate: false
+  xy: 2, 56
+  size: 319, 368
+  orig: 319, 368
+  offset: 0, 0
+  index: -1
+tz1
+  rotate: false
+  xy: 365, 207
+  size: 51, 217
+  orig: 51, 217
+  offset: 0, 0
+  index: -1
+tz2
+  rotate: false
+  xy: 365, 2
+  size: 48, 203
+  orig: 48, 203
+  offset: 0, 0
+  index: -1
+tzzz1
+  rotate: true
+  xy: 2, 10
+  size: 44, 257
+  orig: 44, 257
+  offset: 0, 0
+  index: -1
+tzzz2
+  rotate: false
+  xy: 323, 163
+  size: 40, 261
+  orig: 40, 261
+  offset: 0, 0
+  index: -1

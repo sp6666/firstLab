@@ -1,0 +1,636 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mainoepn",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.55,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "topBox/top": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "curve": "cubicOut",
+              "value": 204
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": -19.5
+            }
+          ]
+        }
+      },
+      "scene": {
+        "props": {}
+      },
+      "bottomBox/imgBg/task/extra90": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.3333333333333333,
+              "curve": "cubicOut",
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.3333333333333333,
+              "curve": "cubicOut",
+              "value": 62
+            },
+            {
+              "frame": 0.5,
+              "value": 12
+            }
+          ]
+        }
+      },
+      "topBox/top/role": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.3333333333333333,
+              "curve": "cubicOut",
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.3333333333333333,
+              "curve": "cubicOut",
+              "value": -225.6
+            },
+            {
+              "frame": 0.5,
+              "value": -148.4
+            }
+          ]
+        }
+      },
+      "bottomBox/imgBg/gButton/imgBtn2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.3333333333333333,
+              "curve": "cubicOut",
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.3333333333333333,
+              "curve": "cubicOut",
+              "value": 107
+            },
+            {
+              "frame": 0.5,
+              "value": 53.4
+            },
+            {
+              "frame": 0.55,
+              "value": 60
+            }
+          ]
+        }
+      },
+      "bottomBox/imgBg/gButton/imgBtn3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.2833333333333333,
+              "curve": "cubicOut",
+              "value": 0
+            },
+            {
+              "frame": 0.45,
+              "value": 255
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.2833333333333333,
+              "curve": "cubicOut",
+              "value": 104
+            },
+            {
+              "frame": 0.45,
+              "value": 50.4
+            },
+            {
+              "frame": 0.55,
+              "value": 52
+            }
+          ]
+        }
+      },
+      "bottomBox/imgBg/gButton/imgBtn4": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.26666666666666666,
+              "curve": "cubicOut",
+              "value": 0
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": 255
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.26666666666666666,
+              "curve": "cubicOut",
+              "value": 109
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": 55
+            }
+          ]
+        }
+      },
+      "bottomBox/imgBg/gButton/imgBtn5": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.25,
+              "curve": "cubicOut",
+              "value": 0
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 255
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.25,
+              "curve": "cubicOut",
+              "value": 105
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 50.7
+            },
+            {
+              "frame": 0.55,
+              "value": 56
+            }
+          ]
+        }
+      },
+      "bottomBox/imgBg/gButton/imgBtn6": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.21666666666666667,
+              "curve": "cubicOut",
+              "value": 0
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": 255
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.21666666666666667,
+              "curve": "cubicOut",
+              "value": 109
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": 55
+            }
+          ]
+        }
+      },
+      "bottomBox/imgBg/chatPanel/chatImg": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.3,
+              "curve": "cubicOut",
+              "value": 0
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": 255
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.3,
+              "curve": "cubicOut",
+              "value": -223
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": -192
+            }
+          ]
+        }
+      },
+      "bottomBox/imgBg/task/task": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.4,
+              "curve": "cubicOut",
+              "value": 0
+            },
+            {
+              "frame": 0.48333333333333334,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "bottomBox/imgBg/chatPanel": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "curve": "cubicOut",
+              "value": 281
+            },
+            {
+              "frame": 0.2833333333333333,
+              "value": 131.3
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": 150
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "curve": "cubicOut",
+              "value": 0
+            },
+            {
+              "frame": 0.11666666666666667,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "topBox": {
+        "comps": {
+          "cc.Widget": {}
+        },
+        "props": {}
+      },
+      "bottomBox/imgBg/task": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.15,
+              "curve": "cubicOut",
+              "value": 0
+            },
+            {
+              "frame": 0.31666666666666665,
+              "value": 255
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.15,
+              "curve": "cubicOut",
+              "value": 328
+            },
+            {
+              "frame": 0.48333333333333334,
+              "value": 200
+            }
+          ]
+        }
+      },
+      "topBox/top/imgRes2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.35,
+              "curve": "cubicOut",
+              "value": 0
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": 255
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.35,
+              "curve": "cubicOut",
+              "value": -231
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": -215.8
+            }
+          ]
+        }
+      },
+      "topBox/top/imgRes3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.36666666666666664,
+              "curve": "cubicOut",
+              "value": 0
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 255
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.36666666666666664,
+              "curve": "cubicOut",
+              "value": -88
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": -76.4
+            }
+          ]
+        }
+      },
+      "topBox/top/imgRes4": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.36666666666666664,
+              "curve": "cubicOut",
+              "value": 0
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 255
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.36666666666666664,
+              "curve": "cubicOut",
+              "value": 200
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 198.2
+            }
+          ]
+        }
+      },
+      "bottomBox": {
+        "comps": {
+          "cc.Widget": {}
+        },
+        "props": {}
+      },
+      "actleft": {
+        "comps": {
+          "cc.Widget": {}
+        },
+        "props": {}
+      },
+      "bottomBox/imgBg/gButton/imgBtn": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.3333333333333333,
+              "curve": "cubicOut",
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.3333333333333333,
+              "curve": "cubicOut",
+              "value": 125
+            },
+            {
+              "frame": 0.5,
+              "value": 75
+            }
+          ]
+        }
+      },
+      "bottomBox/imgBg/chatPanel/richtext": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.31666666666666665,
+              "curve": "cubicOut",
+              "value": 0
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": 255
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.31666666666666665,
+              "curve": "cubicOut",
+              "value": -200
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": -171
+            }
+          ]
+        }
+      },
+      "bottomBox/imgBg": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "curve": "cubicOut",
+              "value": -234
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "curve": "cubicOut",
+              "value": 0
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "topBox/top/imgRes": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.38333333333333336,
+              "curve": "cubicOut",
+              "value": 0
+            },
+            {
+              "frame": 0.55,
+              "value": 255
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.38333333333333336,
+              "curve": "cubicOut",
+              "value": 65
+            },
+            {
+              "frame": 0.55,
+              "value": 63
+            }
+          ]
+        }
+      },
+      "right/item": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.06666666666666667,
+              "curve": "cubicOut",
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 255
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.08333333333333333,
+              "curve": "cubicOut",
+              "value": 187
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "topBox/top/VIP": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.23333333333333334,
+              "curve": "cubicOut",
+              "value": 0
+            },
+            {
+              "frame": 0.55,
+              "value": 255
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.23333333333333334,
+              "curve": "cubicOut",
+              "value": 0.9
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": 1.05
+            },
+            {
+              "frame": 0.55,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.23333333333333334,
+              "curve": "cubicOut",
+              "value": 0.9
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": 1.05
+            },
+            {
+              "frame": 0.55,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "actleft/item": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "curve": "cubicOut",
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 255
+            }
+          ],
+          "x": [
+            {
+              "frame": 0,
+              "curve": "cubicOut",
+              "value": -176
+            },
+            {
+              "frame": 0.25,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "actTop": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.31666666666666665,
+              "value": 0
+            },
+            {
+              "frame": 0.55,
+              "value": 255
+            }
+          ]
+        }
+      }
+    },
+    "props": {}
+  },
+  "events": []
+}

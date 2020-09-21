@@ -1,0 +1,48 @@
+
+xn-denglong.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+小灯
+  rotate: false
+  xy: 315, 61
+  size: 354, 129
+  orig: 354, 129
+  offset: 0, 0
+  index: -1
+小灯3
+  rotate: true
+  xy: 2, 2
+  size: 188, 311
+  orig: 188, 311
+  offset: 0, 0
+  index: -1
+小灯4
+  rotate: true
+  xy: 1571, 246
+  size: 180, 312
+  orig: 180, 312
+  offset: 0, 0
+  index: -1
+灯笼
+  rotate: true
+  xy: 1571, 66
+  size: 178, 203
+  orig: 178, 203
+  offset: 0, 0
+  index: -1
+灯笼3
+  rotate: true
+  xy: 2, 192
+  size: 234, 867
+  orig: 234, 867
+  offset: 0, 0
+  index: -1
+灯笼5
+  rotate: true
+  xy: 871, 119
+  size: 307, 698
+  orig: 307, 698
+  offset: 0, 0
+  index: -1

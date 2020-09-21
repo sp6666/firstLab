@@ -1,0 +1,69 @@
+
+menke29-1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+piaodai
+  rotate: true
+  xy: 378, 215
+  size: 23, 132
+  orig: 23, 132
+  offset: 0, 0
+  index: -1
+piaodai2
+  rotate: true
+  xy: 2, 51
+  size: 30, 138
+  orig: 30, 138
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 83
+  size: 155, 374
+  orig: 155, 374
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 450, 111
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 378, 171
+  size: 117, 42
+  orig: 117, 42
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 378, 93
+  size: 70, 76
+  orig: 70, 76
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 142, 76
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 2, 2
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 497, 209
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1

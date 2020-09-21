@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "db022c87-e4f3-40d1-a9da-2b9d0f3207ea",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "pvp_libao": {
+      "ver": "1.0.3",
+      "uuid": "cb43082d-3c5f-453e-a5ae-d7c6b9c5bc95",
+      "rawTextureUuid": "db022c87-e4f3-40d1-a9da-2b9d0f3207ea",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 44,
+      "height": 44,
+      "rawWidth": 45,
+      "rawHeight": 45,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

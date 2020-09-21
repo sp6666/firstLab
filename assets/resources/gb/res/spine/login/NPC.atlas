@@ -1,0 +1,41 @@
+
+NPC.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 432, 14
+  size: 252, 307
+  orig: 252, 307
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1553, 559
+  size: 264, 422
+  orig: 264, 422
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 2
+  size: 264, 428
+  orig: 264, 428
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 2, 268
+  size: 713, 1549
+  orig: 713, 1549
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1553, 374
+  size: 171, 183
+  orig: 171, 183
+  offset: 0, 0
+  index: -1

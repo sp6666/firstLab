@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ClotheTagShow",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.25,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -471,
+            119
+          ]
+        },
+        {
+          "frame": 0.25,
+          "value": [
+            -218,
+            119
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

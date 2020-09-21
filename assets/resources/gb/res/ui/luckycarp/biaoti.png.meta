@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "fa62086b-5c1b-4ae0-9c87-2671ee147ca9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "biaoti": {
+      "ver": "1.0.3",
+      "uuid": "c8653853-2ca4-4602-9e43-5b69919a16cf",
+      "rawTextureUuid": "fa62086b-5c1b-4ae0-9c87-2671ee147ca9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 5,
+      "trimY": 5,
+      "width": 308,
+      "height": 55,
+      "rawWidth": 318,
+      "rawHeight": 63,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

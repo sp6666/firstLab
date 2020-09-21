@@ -1,0 +1,55 @@
+
+menke65-1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右手
+  rotate: false
+  xy: 266, 369
+  size: 57, 116
+  orig: 57, 116
+  offset: 0, 0
+  index: -1
+右手2
+  rotate: true
+  xy: 2, 9
+  size: 71, 161
+  orig: 71, 161
+  offset: 0, 0
+  index: -1
+右眼
+  rotate: false
+  xy: 2, 2
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+头
+  rotate: true
+  xy: 165, 9
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+左眼
+  rotate: false
+  xy: 266, 362
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+身体
+  rotate: false
+  xy: 2, 82
+  size: 262, 403
+  orig: 262, 403
+  offset: 0, 0
+  index: -1
+鞋
+  rotate: false
+  xy: 325, 381
+  size: 60, 104
+  orig: 60, 104
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+3yuekuang.png
+size: 261,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+die1
+  rotate: true
+  xy: 209, 205
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+die2
+  rotate: true
+  xy: 216, 39
+  size: 60, 34
+  orig: 60, 34
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: false
+  xy: 2, 331
+  size: 180, 188
+  orig: 180, 188
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: true
+  xy: 173, 2
+  size: 97, 41
+  orig: 97, 41
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 2, 16
+  size: 121, 163
+  orig: 121, 163
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: false
+  xy: 151, 201
+  size: 56, 128
+  orig: 56, 128
+  offset: 0, 0
+  index: -1
+hua4
+  rotate: true
+  xy: 209, 232
+  size: 99, 50
+  orig: 99, 50
+  offset: 0, 0
+  index: -1
+hua5
+  rotate: true
+  xy: 173, 101
+  size: 98, 79
+  orig: 98, 79
+  offset: 0, 0
+  index: -1
+huaduo
+  rotate: false
+  xy: 216, 9
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 181
+  size: 147, 148
+  orig: 147, 148
+  offset: 0, 0
+  index: -1
+piaodai1
+  rotate: false
+  xy: 125, 13
+  size: 46, 166
+  orig: 46, 166
+  offset: 0, 0
+  index: -1
+piaodai2
+  rotate: true
+  xy: 184, 333
+  size: 186, 74
+  orig: 186, 74
+  offset: 0, 0
+  index: -1

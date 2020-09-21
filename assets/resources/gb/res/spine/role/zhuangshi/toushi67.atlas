@@ -1,0 +1,27 @@
+
+toushi67.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shipinyou
+  rotate: false
+  xy: 2, 2
+  size: 134, 366
+  orig: 134, 366
+  offset: 0, 0
+  index: -1
+shipinzuo
+  rotate: false
+  xy: 774, 650
+  size: 88, 371
+  orig: 88, 371
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 2, 370
+  size: 770, 651
+  orig: 770, 651
+  offset: 0, 0
+  index: -1

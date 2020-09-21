@@ -1,0 +1,27 @@
+
+qiandao-tx.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 20
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 152, 159
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1

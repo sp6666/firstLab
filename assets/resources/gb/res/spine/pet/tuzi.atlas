@@ -1,0 +1,34 @@
+
+tuzi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+兔子2_03
+  rotate: false
+  xy: 2, 145
+  size: 356, 353
+  orig: 356, 353
+  offset: 0, 0
+  index: -1
+兔子_03
+  rotate: false
+  xy: 532, 357
+  size: 188, 141
+  orig: 188, 141
+  offset: 0, 0
+  index: -1
+兔子_032
+  rotate: false
+  xy: 2, 2
+  size: 188, 141
+  orig: 188, 141
+  offset: 0, 0
+  index: -1
+兔子_06
+  rotate: false
+  xy: 360, 328
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1

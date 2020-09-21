@@ -1,0 +1,27 @@
+
+girl-tou01.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl-2
+  rotate: false
+  xy: 2, 17
+  size: 130, 156
+  orig: 130, 156
+  offset: 0, 0
+  index: -1
+girl-youyan
+  rotate: false
+  xy: 2, 2
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+girl-zuoyan
+  rotate: false
+  xy: 134, 161
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1

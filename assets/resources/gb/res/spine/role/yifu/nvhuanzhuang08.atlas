@@ -1,0 +1,34 @@
+
+nvhuanzhuang08.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2jiao
+  rotate: false
+  xy: 891, 207
+  size: 152, 37
+  orig: 152, 37
+  offset: 0, 0
+  index: -1
+2shenti
+  rotate: true
+  xy: 2, 140
+  size: 324, 887
+  orig: 324, 887
+  offset: 0, 0
+  index: -1
+2youshou
+  rotate: false
+  xy: 891, 246
+  size: 254, 218
+  orig: 254, 218
+  offset: 0, 0
+  index: -1
+2zuoshou
+  rotate: true
+  xy: 2, 2
+  size: 136, 235
+  orig: 136, 235
+  offset: 0, 0
+  index: -1

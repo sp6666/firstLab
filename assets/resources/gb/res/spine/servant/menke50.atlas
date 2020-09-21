@@ -1,0 +1,83 @@
+
+menke50.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chaohzu
+  rotate: true
+  xy: 1342, 371
+  size: 134, 371
+  orig: 134, 371
+  offset: 0, 0
+  index: -1
+hualing
+  rotate: true
+  xy: 385, 35
+  size: 68, 180
+  orig: 68, 180
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 2, 17
+  size: 381, 86
+  orig: 381, 86
+  offset: 0, 0
+  index: -1
+jian2
+  rotate: false
+  xy: 948, 321
+  size: 392, 184
+  orig: 392, 184
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 1715, 330
+  size: 275, 175
+  orig: 275, 175
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 105
+  size: 400, 944
+  orig: 400, 944
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1314, 41
+  size: 155, 202
+  orig: 155, 202
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 948, 112
+  size: 207, 364
+  orig: 207, 364
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 2, 2
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 1342, 198
+  size: 231, 171
+  orig: 231, 171
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 1314, 307
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1

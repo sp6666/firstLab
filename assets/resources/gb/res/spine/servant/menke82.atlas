@@ -1,0 +1,76 @@
+
+menke82.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+下身
+  rotate: true
+  xy: 2, 196
+  size: 307, 517
+  orig: 307, 517
+  offset: 0, 0
+  index: -1
+右手
+  rotate: true
+  xy: 1445, 399
+  size: 104, 458
+  orig: 104, 458
+  offset: 0, 0
+  index: -1
+右眼
+  rotate: false
+  xy: 1905, 491
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+头
+  rotate: true
+  xy: 1445, 240
+  size: 157, 335
+  orig: 157, 335
+  offset: 0, 0
+  index: -1
+左手
+  rotate: true
+  xy: 521, 40
+  size: 257, 282
+  orig: 257, 282
+  offset: 0, 0
+  index: -1
+左眼
+  rotate: false
+  xy: 1445, 226
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+武器
+  rotate: false
+  xy: 521, 299
+  size: 523, 204
+  orig: 523, 204
+  offset: 0, 0
+  index: -1
+肩甲
+  rotate: false
+  xy: 2, 2
+  size: 412, 192
+  orig: 412, 192
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 1046, 223
+  size: 280, 397
+  orig: 280, 397
+  offset: 0, 0
+  index: -1
+鞋子
+  rotate: true
+  xy: 805, 18
+  size: 279, 143
+  orig: 279, 143
+  offset: 0, 0
+  index: -1

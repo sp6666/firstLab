@@ -1,0 +1,20 @@
+
+ft-tx.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 3
+  rotate: false
+  xy: 2, 25
+  size: 195, 196
+  orig: 195, 196
+  offset: 0, 0
+  index: -1
+图层 4
+  rotate: true
+  xy: 2, 2
+  size: 21, 163
+  orig: 21, 163
+  offset: 0, 0
+  index: -1

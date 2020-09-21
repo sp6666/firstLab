@@ -1,0 +1,13 @@
+
+girl01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gb01
+  rotate: true
+  xy: 2, 2
+  size: 314, 633
+  orig: 314, 633
+  offset: 0, 0
+  index: -1

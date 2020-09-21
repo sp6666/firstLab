@@ -1,0 +1,83 @@
+
+menke33-1.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guazhui
+  rotate: true
+  xy: 2, 2
+  size: 8, 53
+  orig: 8, 53
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 12
+  size: 114, 370
+  orig: 114, 370
+  offset: 0, 0
+  index: -1
+shoupa
+  rotate: true
+  xy: 710, 90
+  size: 36, 116
+  orig: 36, 116
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 497, 39
+  size: 94, 87
+  orig: 94, 87
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 593, 44
+  size: 45, 21
+  orig: 45, 21
+  offset: 0, 0
+  index: -1
+youerhuan
+  rotate: true
+  xy: 497, 33
+  size: 4, 17
+  orig: 4, 17
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 593, 67
+  size: 59, 115
+  orig: 59, 115
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 828, 121
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+zuoerhuan
+  rotate: true
+  xy: 374, 14
+  size: 5, 17
+  orig: 5, 17
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 374, 21
+  size: 105, 121
+  orig: 105, 121
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 710, 82
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1

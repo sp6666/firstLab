@@ -1,0 +1,27 @@
+
+Y-boy-tou02-1.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yb02
+  rotate: false
+  xy: 2, 2
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+yb02-youyan
+  rotate: false
+  xy: 49, 48
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+yb02-zuoyan
+  rotate: false
+  xy: 49, 55
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1

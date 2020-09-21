@@ -1,0 +1,27 @@
+
+shuye_1024.png
+size: 799,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hd1
+  rotate: false
+  xy: 2, 25
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+y1
+  rotate: true
+  xy: 518, 2
+  size: 248, 279
+  orig: 248, 279
+  offset: 0, 0
+  index: -1
+y2
+  rotate: true
+  xy: 2, 69
+  size: 181, 514
+  orig: 181, 514
+  offset: 0, 0
+  index: -1

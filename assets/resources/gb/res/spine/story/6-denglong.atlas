@@ -1,0 +1,132 @@
+
+6-denglong.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+灯笼1
+  rotate: true
+  xy: 2, 7
+  size: 119, 213
+  orig: 119, 213
+  offset: 0, 0
+  index: -1
+灯笼1-1
+  rotate: true
+  xy: 217, 30
+  size: 20, 108
+  orig: 20, 108
+  offset: 0, 0
+  index: -1
+灯笼1-2
+  rotate: true
+  xy: 217, 8
+  size: 20, 108
+  orig: 20, 108
+  offset: 0, 0
+  index: -1
+灯笼2
+  rotate: true
+  xy: 217, 52
+  size: 74, 138
+  orig: 74, 138
+  offset: 0, 0
+  index: -1
+灯笼2-1
+  rotate: true
+  xy: 357, 54
+  size: 14, 70
+  orig: 14, 70
+  offset: 0, 0
+  index: -1
+灯笼2-2
+  rotate: true
+  xy: 357, 38
+  size: 14, 70
+  orig: 14, 70
+  offset: 0, 0
+  index: -1
+灯笼3
+  rotate: true
+  xy: 357, 70
+  size: 56, 99
+  orig: 56, 99
+  offset: 0, 0
+  index: -1
+灯笼3-1
+  rotate: false
+  xy: 442, 2
+  size: 12, 49
+  orig: 12, 49
+  offset: 0, 0
+  index: -1
+灯笼3-2
+  rotate: false
+  xy: 456, 2
+  size: 12, 49
+  orig: 12, 49
+  offset: 0, 0
+  index: -1
+灯笼4
+  rotate: false
+  xy: 458, 53
+  size: 41, 73
+  orig: 41, 73
+  offset: 0, 0
+  index: -1
+灯笼4-1
+  rotate: false
+  xy: 501, 90
+  size: 8, 36
+  orig: 8, 36
+  offset: 0, 0
+  index: -1
+灯笼4-2
+  rotate: false
+  xy: 470, 15
+  size: 8, 36
+  orig: 8, 36
+  offset: 0, 0
+  index: -1
+灯笼5
+  rotate: true
+  xy: 327, 3
+  size: 33, 58
+  orig: 33, 58
+  offset: 0, 0
+  index: -1
+灯笼5-1
+  rotate: false
+  xy: 501, 59
+  size: 8, 29
+  orig: 8, 29
+  offset: 0, 0
+  index: -1
+灯笼5-2
+  rotate: false
+  xy: 429, 39
+  size: 8, 29
+  orig: 8, 29
+  offset: 0, 0
+  index: -1
+灯笼6
+  rotate: true
+  xy: 387, 5
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+灯笼6-1
+  rotate: false
+  xy: 480, 25
+  size: 7, 26
+  orig: 7, 26
+  offset: 0, 0
+  index: -1
+灯笼6-2
+  rotate: true
+  xy: 327, 43
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1

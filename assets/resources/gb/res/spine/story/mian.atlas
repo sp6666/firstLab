@@ -1,0 +1,20 @@
+
+mian.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+动态灯笼 副本
+  rotate: true
+  xy: 2, 2
+  size: 10, 33
+  orig: 10, 33
+  offset: 0, 0
+  index: -1
+动态灯笼 副本 2
+  rotate: false
+  xy: 2, 14
+  size: 79, 99
+  orig: 79, 99
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+boy01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boy-lianzi
+  rotate: false
+  xy: 622, 232
+  size: 24, 115
+  orig: 24, 115
+  offset: 0, 0
+  index: -1
+boy-shenti
+  rotate: true
+  xy: 2, 58
+  size: 289, 618
+  orig: 289, 618
+  offset: 0, 0
+  index: -1
+boy-xiezi
+  rotate: false
+  xy: 2, 2
+  size: 144, 54
+  orig: 144, 54
+  offset: 0, 0
+  index: -1

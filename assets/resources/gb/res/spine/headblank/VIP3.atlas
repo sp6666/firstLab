@@ -1,0 +1,83 @@
+
+VIP3.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3底花
+  rotate: false
+  xy: 117, 66
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+3扇子
+  rotate: false
+  xy: 177, 91
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+3树枝
+  rotate: true
+  xy: 177, 54
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+3树枝2
+  rotate: false
+  xy: 117, 21
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+3框
+  rotate: false
+  xy: 2, 17
+  size: 113, 109
+  orig: 113, 109
+  offset: 0, 0
+  index: -1
+3花
+  rotate: true
+  xy: 240, 106
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+3花瓣
+  rotate: true
+  xy: 2, 2
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+3花瓣2
+  rotate: false
+  xy: 16, 2
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+3花瓣3
+  rotate: false
+  xy: 222, 107
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+3花瓣4
+  rotate: false
+  xy: 44, 4
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+3花瓣5
+  rotate: false
+  xy: 30, 2
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1

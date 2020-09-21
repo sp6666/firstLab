@@ -1,0 +1,34 @@
+
+nvhuanzhuang47.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+七夕--身子
+  rotate: true
+  xy: 664, 2
+  size: 429, 468
+  orig: 429, 468
+  offset: 0, 0
+  index: -1
+七夕--鞋子
+  rotate: false
+  xy: 2, 40
+  size: 146, 68
+  orig: 146, 68
+  offset: 0, 0
+  index: -1
+七夕-下身
+  rotate: true
+  xy: 2, 110
+  size: 321, 660
+  orig: 321, 660
+  offset: 0, 0
+  index: -1
+七夕-左手
+  rotate: false
+  xy: 1134, 74
+  size: 271, 357
+  orig: 271, 357
+  offset: 0, 0
+  index: -1

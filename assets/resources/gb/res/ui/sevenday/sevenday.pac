@@ -1,0 +1,1 @@
+{"__type__": "cc.SpriteAtlas", "_spriteFrames": {"7day_51": {"__uuid__": "a4770709-eb99-4560-99ab-eb6d4fd9494d"}, "day_diban1": {"__uuid__": "c35a9083-df33-453e-82da-c66d62d0b9bb"}, "jiangli": {"__uuid__": "94f3674e-4010-4383-b180-05c01c3bcbfc"}, "7day_51-22": {"__uuid__": "c9733288-e27e-49d1-a094-d0fd87df7e88"}}}

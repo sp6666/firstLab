@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7dc8bfcd-0d6f-4a0e-b7f4-546548b26a8b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "btn_kaixue_zidong": {
+      "ver": "1.0.3",
+      "uuid": "06a02d33-523d-484e-a421-ec2a8bcae1eb",
+      "rawTextureUuid": "7dc8bfcd-0d6f-4a0e-b7f4-546548b26a8b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 177,
+      "height": 41,
+      "rawWidth": 177,
+      "rawHeight": 41,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

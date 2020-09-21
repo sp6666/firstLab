@@ -1,0 +1,34 @@
+
+nvhuanzhuang04.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti-2-1
+  rotate: true
+  xy: 2, 2
+  size: 204, 372
+  orig: 204, 372
+  offset: 0, 0
+  index: -1
+shenti-2-2
+  rotate: true
+  xy: 376, 34
+  size: 172, 278
+  orig: 172, 278
+  offset: 0, 0
+  index: -1
+shenti-2-3
+  rotate: false
+  xy: 910, 56
+  size: 103, 395
+  orig: 103, 395
+  offset: 0, 0
+  index: -1
+shenti-2-4
+  rotate: true
+  xy: 2, 208
+  size: 243, 906
+  orig: 243, 906
+  offset: 0, 0
+  index: -1

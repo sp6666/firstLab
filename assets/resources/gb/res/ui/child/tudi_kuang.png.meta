@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4cb75c17-6c35-42c7-bb02-207f4c4cdc46",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "tudi_kuang": {
+      "ver": "1.0.3",
+      "uuid": "546a827d-6d4a-4e17-80dd-7aa16f19387a",
+      "rawTextureUuid": "4cb75c17-6c35-42c7-bb02-207f4c4cdc46",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 2.5,
+      "trimX": 3,
+      "trimY": 0,
+      "width": 130,
+      "height": 361,
+      "rawWidth": 133,
+      "rawHeight": 366,
+      "borderTop": 26,
+      "borderBottom": 26,
+      "borderLeft": 16,
+      "borderRight": 16,
+      "subMetas": {}
+    }
+  }
+}

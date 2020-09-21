@@ -1,0 +1,26 @@
+{
+	"dailyTask":[
+		{"id":1,"title":"剧情推进","num":3,"rwd":[{"kind":2,"id":7,"count":10},{"kind":1,"id":5,"count":2}],"jumpTo":2},
+		{"id":2,"title":"强化资质","num":1,"rwd":[{"kind":2,"id":7,"count":10},{"kind":1,"id":5,"count":2}],"jumpTo":15},
+		{"id":3,"title":"随机问候","num":12,"rwd":[{"kind":2,"id":7,"count":10},{"kind":1,"id":5,"count":2}],"jumpTo":13},
+		{"id":4,"title":"每日出城","num":12,"rwd":[{"kind":2,"id":7,"count":10},{"kind":1,"id":5,"count":2}],"jumpTo":11},
+		{"id":9,"title":"伙伴升级","num":5,"rwd":[{"kind":2,"id":7,"count":10},{"kind":1,"id":5,"count":2}],"jumpTo":15},
+		{"id":10,"title":"获得阅历","num":12,"rwd":[{"kind":2,"id":7,"count":10},{"kind":1,"id":5,"count":2}],"jumpTo":17},
+		{"id":11,"title":"赚取银两","num":12,"rwd":[{"kind":2,"id":7,"count":10},{"kind":1,"id":5,"count":2}],"jumpTo":17},
+		{"id":12,"title":"获取名声","num":12,"rwd":[{"kind":2,"id":7,"count":10},{"kind":1,"id":5,"count":2}],"jumpTo":17},
+		{"id":13,"title":"处理日常","num":12,"rwd":[{"kind":2,"id":7,"count":10},{"kind":1,"id":5,"count":2}],"jumpTo":16},
+		{"id":17,"title":"培养徒弟","num":4,"rwd":[{"kind":2,"id":7,"count":10},{"kind":1,"id":5,"count":2}],"jumpTo":14},
+		{"id":18,"title":"书院学习","num":4,"rwd":[{"kind":2,"id":7,"count":10},{"kind":1,"id":5,"count":2}],"jumpTo":28},
+		{"id":19,"title":"通过整理珍宝关卡数","num":4,"rwd":[{"kind":2,"id":7,"count":10},{"kind":1,"id":5,"count":2}],"jumpTo":53},
+		{"id":20,"title":"充值元宝","num":1,"rwd":[{"kind":2,"id":7,"count":40},{"kind":1,"id":5,"count":2}],"jumpTo":51},
+		{"id":21,"title":"元宝祈福","num":3,"rwd":[{"kind":2,"id":7,"count":40},{"kind":1,"id":5,"count":2}],"jumpTo":52},
+		{"id":22,"title":"领取周卡/月卡/年卡","num":1,"rwd":[{"kind":2,"id":7,"count":40},{"kind":1,"id":5,"count":2}],"jumpTo":46}
+	],
+	"dailyRwd":[
+		{"id":1,"need":10,"rwd_q":[{"kind":1,"itemid":5},{"kind":1,"itemid":2},{"kind":1,"itemid":3},{"kind":1,"itemid":4},{"kind":1,"itemid":121},{"kind":1,"itemid":122}]},
+		{"id":2,"need":30,"rwd_q":[{"kind":1,"itemid":5},{"kind":1,"itemid":2},{"kind":1,"itemid":3},{"kind":1,"itemid":4},{"kind":1,"itemid":121},{"kind":1,"itemid":122}]},
+		{"id":3,"need":60,"rwd_q":[{"kind":1,"itemid":5},{"kind":1,"itemid":2},{"kind":1,"itemid":3},{"kind":1,"itemid":4},{"kind":1,"itemid":121},{"kind":1,"itemid":122}]},
+		{"id":4,"need":90,"rwd_q":[{"kind":1,"itemid":5},{"kind":1,"itemid":2},{"kind":1,"itemid":3},{"kind":1,"itemid":4},{"kind":1,"itemid":121},{"kind":1,"itemid":122}]},
+		{"id":5,"need":110,"rwd_q":[{"kind":1,"itemid":5},{"kind":1,"itemid":2},{"kind":1,"itemid":3},{"kind":1,"itemid":4},{"kind":1,"itemid":121},{"kind":1,"itemid":122}]}
+	]
+}

@@ -1,0 +1,83 @@
+
+menke57.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erhuan1
+  rotate: false
+  xy: 1635, 440
+  size: 17, 52
+  orig: 17, 52
+  offset: 0, 0
+  index: -1
+erhuan2
+  rotate: true
+  xy: 2, 2
+  size: 15, 43
+  orig: 15, 43
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 160
+  size: 332, 937
+  orig: 332, 937
+  offset: 0, 0
+  index: -1
+shoujuan
+  rotate: true
+  xy: 2, 19
+  size: 139, 240
+  orig: 139, 240
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1430, 311
+  size: 203, 181
+  orig: 203, 181
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: true
+  xy: 941, 176
+  size: 12, 70
+  orig: 12, 70
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 1159, 235
+  size: 129, 61
+  orig: 129, 61
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 1159, 298
+  size: 269, 194
+  orig: 269, 194
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 244, 143
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 941, 190
+  size: 216, 302
+  orig: 216, 302
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 1159, 220
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1

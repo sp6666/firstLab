@@ -1,0 +1,20 @@
+
+toushi35.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+suran-头饰
+  rotate: false
+  xy: 2, 16
+  size: 174, 98
+  orig: 174, 98
+  offset: 0, 0
+  index: -1
+suran-头饰2
+  rotate: true
+  xy: 2, 2
+  size: 12, 60
+  orig: 12, 60
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+menke13-1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guashi
+  rotate: false
+  xy: 2, 2
+  size: 23, 111
+  orig: 23, 111
+  offset: 0, 0
+  index: -1
+shanzi
+  rotate: false
+  xy: 391, 155
+  size: 63, 43
+  orig: 63, 43
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 115
+  size: 135, 387
+  orig: 135, 387
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 27, 47
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 75, 88
+  size: 68, 25
+  orig: 68, 25
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 457, 213
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+youshouzhi
+  rotate: false
+  xy: 27, 27
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 391, 147
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 391, 200
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 500, 245
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1

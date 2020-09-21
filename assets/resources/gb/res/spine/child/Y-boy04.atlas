@@ -1,0 +1,20 @@
+
+Y-boy04.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Y-boy-xiezi
+  rotate: false
+  xy: 2, 2
+  size: 140, 65
+  orig: 140, 65
+  offset: 0, 0
+  index: -1
+ybb04
+  rotate: true
+  xy: 2, 69
+  size: 387, 815
+  orig: 387, 815
+  offset: 0, 0
+  index: -1

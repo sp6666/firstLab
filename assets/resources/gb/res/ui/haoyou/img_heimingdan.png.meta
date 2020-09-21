@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "22502c4b-c9d2-4c10-8c68-09a7a58bd9cf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "img_heimingdan": {
+      "ver": "1.0.3",
+      "uuid": "8732f244-8d7a-44a7-bf30-415b473868d1",
+      "rawTextureUuid": "22502c4b-c9d2-4c10-8c68-09a7a58bd9cf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 102,
+      "height": 102,
+      "rawWidth": 102,
+      "rawHeight": 102,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

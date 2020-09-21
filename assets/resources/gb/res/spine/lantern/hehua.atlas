@@ -1,0 +1,34 @@
+
+hehua.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+大荷花
+  rotate: false
+  xy: 2, 54
+  size: 207, 186
+  orig: 207, 186
+  offset: 0, 0
+  index: -1
+荷花1
+  rotate: false
+  xy: 78, 2
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+荷花2
+  rotate: false
+  xy: 148, 6
+  size: 65, 46
+  orig: 65, 46
+  offset: 0, 0
+  index: -1
+荷花3
+  rotate: false
+  xy: 2, 3
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1

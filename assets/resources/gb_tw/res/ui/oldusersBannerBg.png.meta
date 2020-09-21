@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4e780c37-a3e9-4e47-aa29-250d5d874280",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "oldusersBannerBg": {
+      "ver": "1.0.3",
+      "uuid": "d54f4b64-7a36-4334-ad63-1123453e735f",
+      "rawTextureUuid": "4e780c37-a3e9-4e47-aa29-250d5d874280",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 688,
+      "height": 601,
+      "rawWidth": 688,
+      "rawHeight": 601,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+
+menke62-tou04.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+头4
+  rotate: false
+  xy: 2, 17
+  size: 178, 237
+  orig: 178, 237
+  offset: 0, 0
+  index: -1
+头4-右眼
+  rotate: false
+  xy: 2, 2
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+头4-左眼
+  rotate: false
+  xy: 182, 242
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1

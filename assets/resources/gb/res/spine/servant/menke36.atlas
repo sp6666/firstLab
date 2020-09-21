@@ -1,0 +1,62 @@
+
+menke36.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 2, 220
+  size: 285, 969
+  orig: 285, 969
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1208, 278
+  size: 225, 227
+  orig: 225, 227
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 973, 264
+  size: 233, 241
+  orig: 233, 241
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 1435, 422
+  size: 152, 83
+  orig: 152, 83
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 367, 81
+  size: 137, 262
+  orig: 137, 262
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 973, 244
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 2, 16
+  size: 202, 363
+  orig: 202, 363
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 2, 2
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1

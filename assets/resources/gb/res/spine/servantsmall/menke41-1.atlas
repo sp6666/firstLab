@@ -1,0 +1,69 @@
+
+menke41-1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 2, 89
+  size: 158, 416
+  orig: 158, 416
+  offset: 0, 0
+  index: -1
+shoupa
+  rotate: true
+  xy: 2, 9
+  size: 32, 98
+  orig: 32, 98
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 420, 160
+  size: 69, 87
+  orig: 69, 87
+  offset: 0, 0
+  index: -1
+weijin
+  rotate: true
+  xy: 2, 43
+  size: 44, 161
+  orig: 44, 161
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 251, 40
+  size: 68, 47
+  orig: 68, 47
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 420, 91
+  size: 84, 67
+  orig: 84, 67
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 2, 2
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 165, 22
+  size: 84, 65
+  orig: 84, 65
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 491, 240
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1

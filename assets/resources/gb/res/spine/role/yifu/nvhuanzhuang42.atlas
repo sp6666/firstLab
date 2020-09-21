@@ -1,0 +1,34 @@
+
+nvhuanzhuang42.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 2, 220
+  size: 259, 870
+  orig: 259, 870
+  offset: 0, 0
+  index: -1
+xie
+  rotate: false
+  xy: 603, 69
+  size: 215, 149
+  orig: 215, 149
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 2, 2
+  size: 216, 309
+  orig: 216, 309
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 313, 19
+  size: 199, 288
+  orig: 199, 288
+  offset: 0, 0
+  index: -1

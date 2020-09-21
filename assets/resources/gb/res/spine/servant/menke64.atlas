@@ -1,0 +1,55 @@
+
+menke64.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右手
+  rotate: false
+  xy: 947, 19
+  size: 163, 414
+  orig: 163, 414
+  offset: 0, 0
+  index: -1
+右眼
+  rotate: false
+  xy: 2, 2
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 1112, 67
+  size: 174, 194
+  orig: 174, 194
+  offset: 0, 0
+  index: -1
+左手
+  rotate: true
+  xy: 1391, 313
+  size: 120, 299
+  orig: 120, 299
+  offset: 0, 0
+  index: -1
+左眼
+  rotate: false
+  xy: 1391, 303
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 2, 17
+  size: 416, 943
+  orig: 416, 943
+  offset: 0, 0
+  index: -1
+鞋子
+  rotate: false
+  xy: 1112, 263
+  size: 277, 170
+  orig: 277, 170
+  offset: 0, 0
+  index: -1

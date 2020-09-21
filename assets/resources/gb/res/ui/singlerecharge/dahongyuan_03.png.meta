@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2befc410-85ea-4ecb-9e7f-bc3107fa4014",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dahongyuan_03": {
+      "ver": "1.0.3",
+      "uuid": "20f12348-21d7-4611-aef3-e55ba6ccc158",
+      "rawTextureUuid": "2befc410-85ea-4ecb-9e7f-bc3107fa4014",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2,
+      "offsetY": 0.5,
+      "trimX": 4,
+      "trimY": 2,
+      "width": 162,
+      "height": 177,
+      "rawWidth": 166,
+      "rawHeight": 182,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+
+menke62-1-tou02.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+头2
+  rotate: false
+  xy: 2, 9
+  size: 71, 95
+  orig: 71, 95
+  offset: 0, 0
+  index: -1
+头2-右眼
+  rotate: false
+  xy: 2, 2
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+头2-左眼
+  rotate: false
+  xy: 75, 99
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1

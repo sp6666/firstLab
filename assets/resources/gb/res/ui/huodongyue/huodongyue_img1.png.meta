@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c96763ea-ef6f-4e27-b95e-c079170afa7c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "huodongyue_img1": {
+      "ver": "1.0.3",
+      "uuid": "a97a86ba-e5e7-478f-90c5-001ca315742d",
+      "rawTextureUuid": "c96763ea-ef6f-4e27-b95e-c079170afa7c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 134,
+      "height": 41,
+      "rawWidth": 134,
+      "rawHeight": 41,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,20 @@
+
+nvhuanzhuang45.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+跨服--手
+  rotate: false
+  xy: 2, 2
+  size: 364, 146
+  orig: 364, 146
+  offset: 0, 0
+  index: -1
+跨服-身体
+  rotate: true
+  xy: 2, 150
+  size: 339, 933
+  orig: 339, 933
+  offset: 0, 0
+  index: -1

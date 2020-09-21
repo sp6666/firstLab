@@ -1,0 +1,13 @@
+
+0002-shuying.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+动态阴影
+  rotate: false
+  xy: 2, 2
+  size: 556, 223
+  orig: 556, 223
+  offset: 0, 0
+  index: -1

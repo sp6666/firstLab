@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7f0380c5-59d1-4429-9f51-f637269fdb9b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "btn_girls1": {
+      "ver": "1.0.3",
+      "uuid": "cc27f2f6-b131-48fd-896c-5e14a0fb335a",
+      "rawTextureUuid": "7f0380c5-59d1-4429-9f51-f637269fdb9b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1.5,
+      "trimX": 2,
+      "trimY": 8,
+      "width": 107,
+      "height": 92,
+      "rawWidth": 111,
+      "rawHeight": 105,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

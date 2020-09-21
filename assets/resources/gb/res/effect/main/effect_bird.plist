@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{193, 182}, {61, 84}}</string>
+			<key>offset</key>
+			<string>{847, 199}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceSize</key>
+			<string>{1755, 482}</string>
+		</dict>
+		<key>1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{86, 325}, {81, 74}}</string>
+			<key>offset</key>
+			<string>{751, 75}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceSize</key>
+			<string>{1755, 482}</string>
+		</dict>
+		<key>10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 340}, {77, 68}}</string>
+			<key>offset</key>
+			<string>{-514, -39}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceSize</key>
+			<string>{1755, 482}</string>
+		</dict>
+		<key>11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{104, 91}, {89, 94}}</string>
+			<key>offset</key>
+			<string>{-626, 91}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceSize</key>
+			<string>{1755, 482}</string>
+		</dict>
+		<key>12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 89}, {85, 100}}</string>
+			<key>offset</key>
+			<string>{-742, 184}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceSize</key>
+			<string>{1755, 482}</string>
+		</dict>
+		<key>13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{200, 91}, {53, 64}}</string>
+			<key>offset</key>
+			<string>{-851, 209}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceSize</key>
+			<string>{1755, 482}</string>
+		</dict>
+		<key>2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 265}, {73, 82}}</string>
+			<key>offset</key>
+			<string>{635, -27}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceSize</key>
+			<string>{1755, 482}</string>
+		</dict>
+		<key>3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{184, 268}, {81, 70}}</string>
+			<key>offset</key>
+			<string>{499, -79}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceSize</key>
+			<string>{1755, 482}</string>
+		</dict>
+		<key>4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 2}, {85, 112}}</string>
+			<key>offset</key>
+			<string>{373, -114}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceSize</key>
+			<string>{1755, 482}</string>
+		</dict>
+		<key>5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{98, 182}, {93, 60}}</string>
+			<key>offset</key>
+			<string>{212, -179}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceSize</key>
+			<string>{1755, 482}</string>
+		</dict>
+		<key>6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{169, 351}, {73, 74}}</string>
+			<key>offset</key>
+			<string>{75, -204}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceSize</key>
+			<string>{1755, 482}</string>
+		</dict>
+		<key>7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 176}, {87, 94}}</string>
+			<key>offset</key>
+			<string>{-71, -170}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceSize</key>
+			<string>{1755, 482}</string>
+		</dict>
+		<key>8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{116, 2}, {87, 100}}</string>
+			<key>offset</key>
+			<string>{-222, -137}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceSize</key>
+			<string>{1755, 482}</string>
+		</dict>
+		<key>9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{98, 244}, {79, 84}}</string>
+			<key>offset</key>
+			<string>{-379, -125}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceSize</key>
+			<string>{1755, 482}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>effect_bird.png</string>
+		<key>size</key>
+		<string>{256, 512}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:241bb17f92f86f9916246fbaf8448136:1/1$</string>
+		<key>textureFileName</key>
+		<string>effect_bird.png</string>
+	</dict>
+</dict>
+</plist>

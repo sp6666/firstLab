@@ -1,0 +1,34 @@
+
+toushi53-1.png
+size: 353,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tf
+  rotate: false
+  xy: 301, 120
+  size: 50, 81
+  orig: 50, 81
+  offset: 0, 0
+  index: -1
+ts
+  rotate: true
+  xy: 2, 2
+  size: 24, 172
+  orig: 24, 172
+  offset: 0, 0
+  index: -1
+ts2
+  rotate: false
+  xy: 271, 19
+  size: 28, 182
+  orig: 28, 182
+  offset: 0, 0
+  index: -1
+ts3
+  rotate: false
+  xy: 2, 28
+  size: 267, 173
+  orig: 267, 173
+  offset: 0, 0
+  index: -1

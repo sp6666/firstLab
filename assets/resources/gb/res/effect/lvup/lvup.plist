@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{214, 450}, {406, 88}}</string>
+			<key>offset</key>
+			<string>{72, 3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceSize</key>
+			<string>{650, 250}</string>
+		</dict>
+		<key>1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 2}, {650, 210}}</string>
+			<key>offset</key>
+			<string>{0, 2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceSize</key>
+			<string>{650, 250}</string>
+		</dict>
+		<key>10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{778, 1038}, {552, 220}}</string>
+			<key>offset</key>
+			<string>{3, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceSize</key>
+			<string>{650, 250}</string>
+		</dict>
+		<key>11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{446, 1592}, {552, 220}}</string>
+			<key>offset</key>
+			<string>{3, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceSize</key>
+			<string>{650, 250}</string>
+		</dict>
+		<key>12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{224, 1492}, {552, 220}}</string>
+			<key>offset</key>
+			<string>{3, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceSize</key>
+			<string>{650, 250}</string>
+		</dict>
+		<key>13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 1492}, {552, 220}}</string>
+			<key>offset</key>
+			<string>{3, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceSize</key>
+			<string>{650, 250}</string>
+		</dict>
+		<key>14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 1492}, {552, 220}}</string>
+			<key>offset</key>
+			<string>{3, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceSize</key>
+			<string>{650, 250}</string>
+		</dict>
+		<key>15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 1492}, {552, 220}}</string>
+			<key>offset</key>
+			<string>{3, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceSize</key>
+			<string>{650, 250}</string>
+		</dict>
+		<key>2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{244, 540}, {538, 250}}</string>
+			<key>offset</key>
+			<string>{-4, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceSize</key>
+			<string>{650, 250}</string>
+		</dict>
+		<key>3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{214, 254}, {576, 194}}</string>
+			<key>offset</key>
+			<string>{14, 6}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceSize</key>
+			<string>{650, 250}</string>
+		</dict>
+		<key>4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 654}, {584, 240}}</string>
+			<key>offset</key>
+			<string>{-21, 5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceSize</key>
+			<string>{650, 250}</string>
+		</dict>
+		<key>5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{792, 2}, {552, 226}}</string>
+			<key>offset</key>
+			<string>{3, 12}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceSize</key>
+			<string>{650, 250}</string>
+		</dict>
+		<key>6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 1240}, {552, 250}}</string>
+			<key>offset</key>
+			<string>{3, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceSize</key>
+			<string>{650, 250}</string>
+		</dict>
+		<key>7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{214, 2}, {552, 250}}</string>
+			<key>offset</key>
+			<string>{3, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceSize</key>
+			<string>{650, 250}</string>
+		</dict>
+		<key>8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{244, 792}, {552, 244}}</string>
+			<key>offset</key>
+			<string>{3, -3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceSize</key>
+			<string>{650, 250}</string>
+		</dict>
+		<key>9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{556, 1038}, {552, 220}}</string>
+			<key>offset</key>
+			<string>{3, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceSize</key>
+			<string>{650, 250}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>lvup.png</string>
+		<key>size</key>
+		<string>{1024, 2048}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:241bb17f92f86f9916246fbaf8448136:1/1$</string>
+		<key>textureFileName</key>
+		<string>lvup.png</string>
+	</dict>
+</dict>
+</plist>

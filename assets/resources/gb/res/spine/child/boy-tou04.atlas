@@ -1,0 +1,27 @@
+
+boy-tou04.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b04
+  rotate: true
+  xy: 2, 2
+  size: 113, 141
+  orig: 113, 141
+  offset: 0, 0
+  index: -1
+b04-youyan
+  rotate: false
+  xy: 145, 101
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+b04-zuoyan
+  rotate: false
+  xy: 145, 86
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1

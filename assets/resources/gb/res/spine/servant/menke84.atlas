@@ -1,0 +1,62 @@
+
+menke84.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+下身
+  rotate: false
+  xy: 345, 485
+  size: 335, 531
+  orig: 335, 531
+  offset: 0, 0
+  index: -1
+剑
+  rotate: false
+  xy: 2, 479
+  size: 341, 537
+  orig: 341, 537
+  offset: 0, 0
+  index: -1
+右眼
+  rotate: false
+  xy: 2, 2
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+头部
+  rotate: false
+  xy: 753, 345
+  size: 210, 318
+  orig: 210, 318
+  offset: 0, 0
+  index: -1
+左眼
+  rotate: false
+  xy: 395, 89
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+手
+  rotate: true
+  xy: 395, 102
+  size: 381, 356
+  orig: 381, 356
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 2, 15
+  size: 462, 391
+  orig: 462, 391
+  offset: 0, 0
+  index: -1
+鞋子
+  rotate: true
+  xy: 682, 665
+  size: 351, 205
+  orig: 351, 205
+  offset: 0, 0
+  index: -1

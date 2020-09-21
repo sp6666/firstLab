@@ -1,0 +1,48 @@
+
+toushi72.png
+size: 842,194
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tdz1
+  rotate: true
+  xy: 405, 66
+  size: 20, 90
+  orig: 20, 90
+  offset: 0, 0
+  index: -1
+tdz2
+  rotate: true
+  xy: 405, 44
+  size: 20, 90
+  orig: 20, 90
+  offset: 0, 0
+  index: -1
+touhua
+  rotate: false
+  xy: 706, 5
+  size: 134, 187
+  orig: 134, 187
+  offset: 0, 0
+  index: -1
+toushifa
+  rotate: false
+  xy: 2, 2
+  size: 401, 190
+  orig: 401, 190
+  offset: 0, 0
+  index: -1
+tzhui01
+  rotate: true
+  xy: 405, 141
+  size: 51, 299
+  orig: 51, 299
+  offset: 0, 0
+  index: -1
+tzhui02
+  rotate: true
+  xy: 405, 88
+  size: 51, 299
+  orig: 51, 299
+  offset: 0, 0
+  index: -1

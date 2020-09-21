@@ -1,0 +1,55 @@
+
+menke64-1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右手
+  rotate: true
+  xy: 2, 9
+  size: 65, 166
+  orig: 65, 166
+  offset: 0, 0
+  index: -1
+右眼
+  rotate: false
+  xy: 2, 2
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 381, 94
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+左手
+  rotate: true
+  xy: 170, 26
+  size: 48, 120
+  orig: 48, 120
+  offset: 0, 0
+  index: -1
+左眼
+  rotate: false
+  xy: 494, 239
+  size: 8, 3
+  orig: 8, 3
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 2, 76
+  size: 166, 377
+  orig: 166, 377
+  offset: 0, 0
+  index: -1
+鞋子
+  rotate: false
+  xy: 381, 174
+  size: 111, 68
+  orig: 111, 68
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+menke12.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hualing
+  rotate: true
+  xy: 1219, 264
+  size: 81, 198
+  orig: 81, 198
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 161
+  size: 348, 1002
+  orig: 348, 1002
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1006, 150
+  size: 195, 211
+  orig: 195, 211
+  offset: 0, 0
+  index: -1
+xianliang
+  rotate: true
+  xy: 1006, 347
+  size: 162, 465
+  orig: 162, 465
+  offset: 0, 0
+  index: -1
+yandai
+  rotate: true
+  xy: 1715, 414
+  size: 95, 173
+  orig: 95, 173
+  offset: 0, 0
+  index: -1
+yangang
+  rotate: true
+  xy: 2, 2
+  size: 60, 115
+  orig: 60, 115
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 2, 64
+  size: 266, 95
+  orig: 266, 95
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 1473, 368
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 1473, 383
+  size: 126, 240
+  orig: 126, 240
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 270, 147
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1

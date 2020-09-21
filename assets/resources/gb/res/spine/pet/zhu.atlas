@@ -1,0 +1,62 @@
+
+zhu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+气泡
+  rotate: false
+  xy: 233, 43
+  size: 97, 83
+  orig: 97, 83
+  offset: 0, 0
+  index: -1
+眼睛
+  rotate: true
+  xy: 233, 2
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+耳朵1
+  rotate: true
+  xy: 409, 69
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+耳朵2
+  rotate: false
+  xy: 332, 70
+  size: 75, 56
+  orig: 75, 56
+  offset: 0, 0
+  index: -1
+身体
+  rotate: false
+  xy: 2, 24
+  size: 229, 214
+  orig: 229, 214
+  offset: 0, 0
+  index: -1
+铃铛
+  rotate: true
+  xy: 332, 25
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+闭眼
+  rotate: false
+  xy: 478, 225
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 233, 128
+  size: 243, 110
+  orig: 243, 110
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+dw-lz.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+桨
+  rotate: false
+  xy: 355, 47
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+龙舟
+  rotate: false
+  xy: 179, 40
+  size: 174, 54
+  orig: 174, 54
+  offset: 0, 0
+  index: -1
+龙舟 拷贝
+  rotate: false
+  xy: 2, 2
+  size: 175, 92
+  orig: 175, 92
+  offset: 0, 0
+  index: -1

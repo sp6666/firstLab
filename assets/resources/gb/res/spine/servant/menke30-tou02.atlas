@@ -1,0 +1,27 @@
+
+menke30-tou02.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2tou
+  rotate: false
+  xy: 2, 18
+  size: 156, 186
+  orig: 156, 186
+  offset: 0, 0
+  index: -1
+2youyan
+  rotate: false
+  xy: 160, 192
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+2zuoyan
+  rotate: false
+  xy: 2, 2
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1

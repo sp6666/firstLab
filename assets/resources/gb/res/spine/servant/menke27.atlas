@@ -1,0 +1,62 @@
+
+menke27.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+piaodai
+  rotate: true
+  xy: 1280, 418
+  size: 54, 370
+  orig: 54, 370
+  offset: 0, 0
+  index: -1
+piaodai2
+  rotate: true
+  xy: 2, 17
+  size: 73, 367
+  orig: 73, 367
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 92
+  size: 380, 946
+  orig: 380, 946
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 950, 154
+  size: 115, 145
+  orig: 115, 145
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 950, 301
+  size: 328, 171
+  orig: 328, 171
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 2, 2
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 1280, 312
+  size: 104, 118
+  orig: 104, 118
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 371, 77
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+toushi5006-1.png
+size: 327,161
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dz1
+  rotate: true
+  xy: 2, 11
+  size: 9, 157
+  orig: 9, 157
+  offset: 0, 0
+  index: -1
+dz2
+  rotate: true
+  xy: 2, 22
+  size: 29, 196
+  orig: 29, 196
+  offset: 0, 0
+  index: -1
+tf1
+  rotate: true
+  xy: 2, 53
+  size: 106, 219
+  orig: 106, 219
+  offset: 0, 0
+  index: -1
+ts1
+  rotate: false
+  xy: 223, 79
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+ts2
+  rotate: true
+  xy: 223, 2
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+ts3
+  rotate: false
+  xy: 262, 26
+  size: 62, 51
+  orig: 62, 51
+  offset: 0, 0
+  index: -1

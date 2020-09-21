@@ -1,0 +1,62 @@
+
+menke36-1.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 2, 11
+  size: 114, 388
+  orig: 114, 388
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 637, 34
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: true
+  xy: 539, 32
+  size: 93, 96
+  orig: 93, 96
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 729, 35
+  size: 61, 33
+  orig: 61, 33
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 729, 70
+  size: 55, 105
+  orig: 55, 105
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 2, 2
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 392, 44
+  size: 81, 145
+  orig: 81, 145
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 392, 37
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1

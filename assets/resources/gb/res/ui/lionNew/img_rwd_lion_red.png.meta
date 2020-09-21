@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "bd7782a7-cfe4-4559-b564-a733a5a7ee5b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "img_rwd_lion_red": {
+      "ver": "1.0.3",
+      "uuid": "7564df2c-6976-4452-8cd7-5bb48ebbcfb5",
+      "rawTextureUuid": "bd7782a7-cfe4-4559-b564-a733a5a7ee5b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 73,
+      "height": 117,
+      "rawWidth": 73,
+      "rawHeight": 118,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

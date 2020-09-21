@@ -1,0 +1,27 @@
+
+toushi5018.png
+size: 139,66
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs1
+  rotate: false
+  xy: 2, 21
+  size: 74, 43
+  orig: 74, 43
+  offset: 0, 0
+  index: -1
+tz1
+  rotate: true
+  xy: 78, 32
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+tz2
+  rotate: true
+  xy: 78, 2
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1

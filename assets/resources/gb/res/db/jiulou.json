@@ -1,0 +1,6 @@
+{
+	"feast":[
+		{"id":1,"name":"家宴","seats":10,"pay":[{"id":141,"count":5},{"id":142,"count":5}],"cost":100},
+		{"id":2,"name":"官宴","seats":50,"pay":[{"id":143,"count":5},{"id":144,"count":5}],"cost":500}
+	]
+}

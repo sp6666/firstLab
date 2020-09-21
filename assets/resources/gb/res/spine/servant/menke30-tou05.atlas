@@ -1,0 +1,27 @@
+
+menke30-tou05.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5tou
+  rotate: false
+  xy: 2, 19
+  size: 156, 187
+  orig: 156, 187
+  offset: 0, 0
+  index: -1
+5youyan
+  rotate: false
+  xy: 160, 193
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+5zuoyan
+  rotate: false
+  xy: 2, 2
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1

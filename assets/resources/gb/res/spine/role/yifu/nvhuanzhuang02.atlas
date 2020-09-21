@@ -1,0 +1,48 @@
+
+nvhuanzhuang02.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h1-shangshen
+  rotate: true
+  xy: 580, 49
+  size: 205, 359
+  orig: 205, 359
+  offset: 0, 0
+  index: -1
+h1-shoujuan
+  rotate: true
+  xy: 1732, 165
+  size: 89, 283
+  orig: 89, 283
+  offset: 0, 0
+  index: -1
+h1-xiashen
+  rotate: true
+  xy: 2, 2
+  size: 252, 576
+  orig: 252, 576
+  offset: 0, 0
+  index: -1
+h1-xiezi
+  rotate: false
+  xy: 941, 60
+  size: 122, 52
+  orig: 122, 52
+  offset: 0, 0
+  index: -1
+h1-youshou
+  rotate: true
+  xy: 941, 114
+  size: 140, 402
+  orig: 140, 402
+  offset: 0, 0
+  index: -1
+h1-zuoshou
+  rotate: true
+  xy: 1345, 115
+  size: 139, 385
+  orig: 139, 385
+  offset: 0, 0
+  index: -1

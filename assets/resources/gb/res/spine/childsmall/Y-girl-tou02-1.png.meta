@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f3f504af-b2d4-4d60-8a9c-79e78ab5e956",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Y-girl-tou02-1": {
+      "ver": "1.0.3",
+      "uuid": "759a898e-e1e7-4ed7-a2ea-4d1315c2f212",
+      "rawTextureUuid": "f3f504af-b2d4-4d60-8a9c-79e78ab5e956",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -25,
+      "offsetY": 27,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 74,
+      "height": 70,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

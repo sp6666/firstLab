@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2e20fe12-6ecd-4d80-b876-23bf939782bc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "toushi5007": {
+      "ver": "1.0.3",
+      "uuid": "bcd56d09-1cfb-4301-a77a-35b39f486afa",
+      "rawTextureUuid": "2e20fe12-6ecd-4d80-b876-23bf939782bc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 3,
+      "width": 198,
+      "height": 586,
+      "rawWidth": 202,
+      "rawHeight": 592,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

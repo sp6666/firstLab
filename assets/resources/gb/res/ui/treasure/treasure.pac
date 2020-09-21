@@ -1,0 +1,1 @@
+{"__type__": "cc.SpriteAtlas", "_spriteFrames": {"img_fm": {"__uuid__": "296f41ab-c55b-47c0-8953-c42721fe6794"}, "yinzhang": {"__uuid__": "498e7544-533f-4bec-aaba-6dfb5d7474ca"}, "toumingdi": {"__uuid__": "70622693-688b-45a9-90c7-71ca97b8fadf"}, "img_zm": {"__uuid__": "8db2a3e8-b88d-4bb5-9045-166bd88030ed"}}}

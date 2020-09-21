@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "33136ef0-c119-49ed-9b20-3176041cd314",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "clothe_pro_4_2": {
+      "ver": "1.0.3",
+      "uuid": "776b5bb4-dd20-4376-9ab8-c97f63d048b9",
+      "rawTextureUuid": "33136ef0-c119-49ed-9b20-3176041cd314",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 98,
+      "height": 27,
+      "rawWidth": 98,
+      "rawHeight": 27,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

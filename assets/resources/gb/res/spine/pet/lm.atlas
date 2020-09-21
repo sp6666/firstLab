@@ -1,0 +1,76 @@
+
+lm.png
+size: 1139,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 196
+  size: 262, 334
+  orig: 262, 334
+  offset: 0, 0
+  index: -1
+jz
+  rotate: true
+  xy: 266, 241
+  size: 289, 745
+  orig: 289, 745
+  offset: 0, 0
+  index: -1
+lb1
+  rotate: true
+  xy: 266, 198
+  size: 41, 82
+  orig: 41, 82
+  offset: 0, 0
+  index: -1
+s1
+  rotate: true
+  xy: 350, 202
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 1013, 331
+  size: 109, 82
+  orig: 109, 82
+  offset: 0, 0
+  index: -1
+s4
+  rotate: true
+  xy: 1013, 241
+  size: 88, 93
+  orig: 88, 93
+  offset: 0, 0
+  index: -1
+t
+  rotate: true
+  xy: 862, 18
+  size: 221, 253
+  orig: 221, 253
+  offset: 0, 0
+  index: -1
+w
+  rotate: false
+  xy: 1013, 415
+  size: 124, 115
+  orig: 124, 115
+  offset: 0, 0
+  index: -1
+yz
+  rotate: false
+  xy: 2, 34
+  size: 858, 160
+  orig: 858, 160
+  offset: 0, 0
+  index: -1

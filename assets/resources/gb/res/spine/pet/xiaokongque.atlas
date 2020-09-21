@@ -1,0 +1,20 @@
+
+xiaokongque.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xkq
+  rotate: true
+  xy: 2, 79
+  size: 163, 286
+  orig: 163, 286
+  offset: 0, 0
+  index: -1
+xkq-1
+  rotate: true
+  xy: 290, 2
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+boss-yinying.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+动态阴影
+  rotate: false
+  xy: 2, 2
+  size: 721, 327
+  orig: 721, 327
+  offset: 0, 0
+  index: -1

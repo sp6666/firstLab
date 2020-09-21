@@ -1,0 +1,20 @@
+
+boy03.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bb03-1
+  rotate: true
+  xy: 2, 58
+  size: 298, 635
+  orig: 298, 635
+  offset: 0, 0
+  index: -1
+boy-xiezi
+  rotate: false
+  xy: 2, 2
+  size: 144, 54
+  orig: 144, 54
+  offset: 0, 0
+  index: -1

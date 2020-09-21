@@ -1,0 +1,20 @@
+
+toushi74-1.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fabianB
+  rotate: true
+  xy: 2, 2
+  size: 32, 98
+  orig: 32, 98
+  offset: 0, 0
+  index: -1
+toushiB
+  rotate: true
+  xy: 102, 2
+  size: 32, 68
+  orig: 32, 68
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,15 @@
+{
+	"kite":[
+		{"id":1001,"name":"鹞鹰纸鸢","nameImg":"/res/ui/kite/font_yyzy","img":"/prefabs/ui/kite/kiteYY","des":"潍坊民间手艺,造型优美,形象生动"},
+		{"id":1002,"name":"彩蝶纸鸢","nameImg":"/res/ui/kite/font_cdzy","img":"/prefabs/ui/kite/kiteHuDie","des":"天津民间手艺,颜色鲜艳,栩栩如生"},
+		{"id":1003,"name":"金龙纸鸢","nameImg":"/res/ui/kite/font_jlzy","img":"/prefabs/ui/kite/kiteLong","des":"宫廷手艺,做工精致,用料讲究"}
+    ],
+    "kite_wind":[
+		{"id":1,"name":"东风"},
+		{"id":2,"name":"春风"},
+        {"id":3,"name":"夏风"},
+        {"id":4,"name":"秋风"},
+		{"id":5,"name":"冬风"},
+		{"id":6,"name":"西北风"}
+	]
+}

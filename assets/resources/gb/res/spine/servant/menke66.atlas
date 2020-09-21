@@ -1,0 +1,90 @@
+
+menke66.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+you肩bu
+  rotate: true
+  xy: 1281, 2
+  size: 246, 247
+  orig: 246, 247
+  offset: 0, 0
+  index: -1
+zuo肩部
+  rotate: false
+  xy: 1136, 49
+  size: 143, 213
+  orig: 143, 213
+  offset: 0, 0
+  index: -1
+剑
+  rotate: false
+  xy: 1605, 473
+  size: 109, 159
+  orig: 109, 159
+  offset: 0, 0
+  index: -1
+右上手臂
+  rotate: false
+  xy: 1851, 696
+  size: 148, 240
+  orig: 148, 240
+  offset: 0, 0
+  index: -1
+右下手臂
+  rotate: true
+  xy: 1330, 250
+  size: 207, 311
+  orig: 207, 311
+  offset: 0, 0
+  index: -1
+右眼
+  rotate: false
+  xy: 1851, 684
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+头
+  rotate: true
+  xy: 635, 39
+  size: 223, 499
+  orig: 223, 499
+  offset: 0, 0
+  index: -1
+左上手臂
+  rotate: true
+  xy: 635, 264
+  size: 193, 693
+  orig: 193, 693
+  offset: 0, 0
+  index: -1
+左眼
+  rotate: false
+  xy: 2001, 925
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+披肩
+  rotate: false
+  xy: 2, 33
+  size: 631, 903
+  orig: 631, 903
+  offset: 0, 0
+  index: -1
+箭袋
+  rotate: false
+  xy: 1605, 634
+  size: 244, 302
+  orig: 244, 302
+  offset: 0, 0
+  index: -1
+身甲
+  rotate: true
+  xy: 635, 459
+  size: 477, 968
+  orig: 477, 968
+  offset: 0, 0
+  index: -1

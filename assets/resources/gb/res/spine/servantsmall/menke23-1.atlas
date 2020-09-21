@@ -1,0 +1,83 @@
+
+menke23-1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+piaodai
+  rotate: true
+  xy: 2, 95
+  size: 23, 210
+  orig: 23, 210
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 120
+  size: 134, 290
+  orig: 134, 290
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 388, 52
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 294, 2
+  size: 92, 118
+  orig: 92, 118
+  offset: 0, 0
+  index: -1
+youerhuan
+  rotate: false
+  xy: 97, 10
+  size: 2, 12
+  orig: 2, 12
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 97, 24
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 294, 122
+  size: 158, 132
+  orig: 158, 132
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 454, 248
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+zuoerhuan
+  rotate: true
+  xy: 2, 2
+  size: 3, 12
+  orig: 3, 12
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 2, 7
+  size: 93, 86
+  orig: 93, 86
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 214, 112
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1

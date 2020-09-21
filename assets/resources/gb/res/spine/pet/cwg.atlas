@@ -1,0 +1,41 @@
+
+cwg.png
+size: 1172,541
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st
+  rotate: true
+  xy: 2, 2
+  size: 537, 670
+  orig: 537, 670
+  offset: 0, 0
+  index: -1
+t
+  rotate: true
+  xy: 674, 247
+  size: 292, 325
+  orig: 292, 325
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 1001, 199
+  size: 133, 340
+  orig: 133, 340
+  offset: 0, 0
+  index: -1
+t2
+  rotate: true
+  xy: 830, 92
+  size: 105, 340
+  orig: 105, 340
+  offset: 0, 0
+  index: -1
+wb
+  rotate: true
+  xy: 674, 20
+  size: 225, 154
+  orig: 225, 154
+  offset: 0, 0
+  index: -1

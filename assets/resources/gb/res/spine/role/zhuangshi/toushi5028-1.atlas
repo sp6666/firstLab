@@ -1,0 +1,27 @@
+
+toushi5028-1.png
+size: 205,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fasu1
+  rotate: true
+  xy: 120, 11
+  size: 15, 78
+  orig: 15, 78
+  offset: 0, 0
+  index: -1
+fasu2
+  rotate: true
+  xy: 2, 2
+  size: 24, 116
+  orig: 24, 116
+  offset: 0, 0
+  index: -1
+houga1
+  rotate: false
+  xy: 2, 28
+  size: 201, 198
+  orig: 201, 198
+  offset: 0, 0
+  index: -1

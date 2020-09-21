@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3176a29e-19ce-4451-9a85-5b8880f146f6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "lilian": {
+      "ver": "1.0.3",
+      "uuid": "1ec561db-0a17-40f0-b444-fe3eb0b6086b",
+      "rawTextureUuid": "3176a29e-19ce-4451-9a85-5b8880f146f6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 31,
+      "height": 175,
+      "rawWidth": 32,
+      "rawHeight": 176,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

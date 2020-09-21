@@ -1,0 +1,76 @@
+
+menke03.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian
+  rotate: false
+  xy: 2, 51
+  size: 547, 141
+  orig: 547, 141
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: true
+  xy: 2, 2
+  size: 47, 254
+  orig: 47, 254
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 194
+  size: 299, 946
+  orig: 299, 946
+  offset: 0, 0
+  index: -1
+shoubi
+  rotate: true
+  xy: 950, 199
+  size: 154, 252
+  orig: 154, 252
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 551, 86
+  size: 106, 143
+  orig: 106, 143
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 1204, 186
+  size: 174, 167
+  orig: 174, 167
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 950, 355
+  size: 489, 138
+  orig: 489, 138
+  offset: 0, 0
+  index: -1
+youyanpi
+  rotate: false
+  xy: 1441, 391
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 1441, 402
+  size: 91, 225
+  orig: 91, 225
+  offset: 0, 0
+  index: -1
+zuoyanpi
+  rotate: false
+  xy: 1380, 337
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1

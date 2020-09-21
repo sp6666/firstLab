@@ -1,0 +1,41 @@
+
+nvhuanzhuang20.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti6-2-1
+  rotate: false
+  xy: 915, 222
+  size: 47, 60
+  orig: 47, 60
+  offset: 0, 0
+  index: -1
+shenti6-2-2
+  rotate: true
+  xy: 1144, 397
+  size: 83, 241
+  orig: 83, 241
+  offset: 0, 0
+  index: -1
+shenti6-2-3
+  rotate: false
+  xy: 915, 284
+  size: 227, 196
+  orig: 227, 196
+  offset: 0, 0
+  index: -1
+shenti6-2-4
+  rotate: true
+  xy: 2, 2
+  size: 133, 256
+  orig: 133, 256
+  offset: 0, 0
+  index: -1
+shenti6-2-5
+  rotate: true
+  xy: 2, 137
+  size: 343, 911
+  orig: 343, 911
+  offset: 0, 0
+  index: -1

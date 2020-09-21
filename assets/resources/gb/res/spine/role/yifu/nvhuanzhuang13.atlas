@@ -1,0 +1,41 @@
+
+nvhuanzhuang13.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+piaodai
+  rotate: true
+  xy: 2, 2
+  size: 119, 562
+  orig: 119, 562
+  offset: 0, 0
+  index: -1
+pijian
+  rotate: false
+  xy: 834, 275
+  size: 362, 166
+  orig: 362, 166
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: true
+  xy: 2, 123
+  size: 318, 830
+  orig: 318, 830
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 1427, 240
+  size: 177, 201
+  orig: 177, 201
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 1198, 235
+  size: 206, 227
+  orig: 206, 227
+  offset: 0, 0
+  index: -1

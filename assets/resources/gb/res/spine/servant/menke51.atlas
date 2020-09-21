@@ -1,0 +1,76 @@
+
+menke51.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+piaodai1
+  rotate: false
+  xy: 935, 130
+  size: 304, 343
+  orig: 304, 343
+  offset: 0, 0
+  index: -1
+piaodai2
+  rotate: true
+  xy: 2, 16
+  size: 103, 331
+  orig: 103, 331
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 121
+  size: 352, 931
+  orig: 352, 931
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1476, 291
+  size: 121, 152
+  orig: 121, 152
+  offset: 0, 0
+  index: -1
+xiangnang
+  rotate: true
+  xy: 1476, 414
+  size: 59, 275
+  orig: 59, 275
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 335, 17
+  size: 248, 102
+  orig: 248, 102
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 1241, 306
+  size: 233, 167
+  orig: 233, 167
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 2, 2
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 1241, 134
+  size: 175, 170
+  orig: 175, 170
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 585, 106
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+boy-tou01-1.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boy-tou
+  rotate: false
+  xy: 2, 2
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+boy-youyan
+  rotate: false
+  xy: 50, 53
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+boy-zuoyan
+  rotate: false
+  xy: 50, 46
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1

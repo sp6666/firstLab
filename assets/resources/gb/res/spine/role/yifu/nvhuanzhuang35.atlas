@@ -1,0 +1,41 @@
+
+nvhuanzhuang35.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+suran-右手
+  rotate: true
+  xy: 1161, 349
+  size: 143, 412
+  orig: 143, 412
+  offset: 0, 0
+  index: -1
+suran-右手上衣
+  rotate: true
+  xy: 701, 183
+  size: 309, 458
+  orig: 309, 458
+  offset: 0, 0
+  index: -1
+suran-右手左手
+  rotate: true
+  xy: 2, 2
+  size: 141, 415
+  orig: 141, 415
+  offset: 0, 0
+  index: -1
+suran-右手裙子
+  rotate: true
+  xy: 2, 145
+  size: 347, 697
+  orig: 347, 697
+  offset: 0, 0
+  index: -1
+suran-右手飘带
+  rotate: true
+  xy: 701, 155
+  size: 26, 232
+  orig: 26, 232
+  offset: 0, 0
+  index: -1

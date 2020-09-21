@@ -1,0 +1,41 @@
+
+toushi80.png
+size: 569,130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chai1
+  rotate: false
+  xy: 491, 85
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
+chai2
+  rotate: false
+  xy: 491, 40
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
+tf1
+  rotate: false
+  xy: 350, 13
+  size: 139, 115
+  orig: 139, 115
+  offset: 0, 0
+  index: -1
+tzz1
+  rotate: true
+  xy: 2, 66
+  size: 62, 346
+  orig: 62, 346
+  offset: 0, 0
+  index: -1
+tzz2
+  rotate: true
+  xy: 2, 2
+  size: 62, 346
+  orig: 62, 346
+  offset: 0, 0
+  index: -1

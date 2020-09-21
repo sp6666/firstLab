@@ -1,0 +1,27 @@
+
+nvhuanzhuang36.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+51披风
+  rotate: true
+  xy: 932, 2
+  size: 498, 612
+  orig: 498, 612
+  offset: 0, 0
+  index: -1
+51身体
+  rotate: false
+  xy: 1546, 276
+  size: 222, 224
+  orig: 222, 224
+  offset: 0, 0
+  index: -1
+51身体2
+  rotate: true
+  xy: 2, 123
+  size: 377, 928
+  orig: 377, 928
+  offset: 0, 0
+  index: -1

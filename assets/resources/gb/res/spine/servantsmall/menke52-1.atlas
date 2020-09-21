@@ -1,0 +1,83 @@
+
+menke52-1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chaozhu
+  rotate: true
+  xy: 2, 43
+  size: 67, 141
+  orig: 67, 141
+  offset: 0, 0
+  index: -1
+houling
+  rotate: false
+  xy: 145, 74
+  size: 157, 36
+  orig: 157, 36
+  offset: 0, 0
+  index: -1
+hualing
+  rotate: true
+  xy: 145, 42
+  size: 30, 78
+  orig: 30, 78
+  offset: 0, 0
+  index: -1
+jianbang
+  rotate: false
+  xy: 2, 10
+  size: 127, 31
+  orig: 127, 31
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 360, 182
+  size: 113, 72
+  orig: 113, 72
+  offset: 0, 0
+  index: -1
+lingzi
+  rotate: true
+  xy: 475, 209
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 112
+  size: 142, 356
+  orig: 142, 356
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 225, 12
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: true
+  xy: 505, 242
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 360, 109
+  size: 71, 114
+  orig: 71, 114
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 2, 2
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1

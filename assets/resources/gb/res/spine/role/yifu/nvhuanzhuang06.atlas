@@ -1,0 +1,48 @@
+
+nvhuanzhuang06.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti3
+  rotate: true
+  xy: 2, 220
+  size: 279, 876
+  orig: 279, 876
+  offset: 0, 0
+  index: -1
+shoupa
+  rotate: true
+  xy: 318, 65
+  size: 78, 256
+  orig: 78, 256
+  offset: 0, 0
+  index: -1
+weijin
+  rotate: true
+  xy: 318, 145
+  size: 73, 319
+  orig: 73, 319
+  offset: 0, 0
+  index: -1
+xiezi3
+  rotate: false
+  xy: 639, 135
+  size: 134, 83
+  orig: 134, 83
+  offset: 0, 0
+  index: -1
+youshou3
+  rotate: true
+  xy: 2, 2
+  size: 216, 314
+  orig: 216, 314
+  offset: 0, 0
+  index: -1
+zuoshou3
+  rotate: false
+  xy: 880, 242
+  size: 141, 257
+  orig: 141, 257
+  offset: 0, 0
+  index: -1

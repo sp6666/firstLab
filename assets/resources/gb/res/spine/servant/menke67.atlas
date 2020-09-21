@@ -1,0 +1,62 @@
+
+menke67.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiu
+  rotate: true
+  xy: 360, 69
+  size: 95, 221
+  orig: 95, 221
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 166
+  size: 324, 886
+  orig: 324, 886
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1079, 309
+  size: 128, 181
+  orig: 128, 181
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 890, 225
+  size: 135, 56
+  orig: 135, 56
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 2, 20
+  size: 144, 356
+  orig: 144, 356
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 2, 2
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 890, 283
+  size: 187, 207
+  orig: 187, 207
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 360, 51
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1

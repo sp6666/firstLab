@@ -1,0 +1,76 @@
+
+menke21.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian
+  rotate: true
+  xy: 924, 374
+  size: 126, 684
+  orig: 126, 684
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 71
+  size: 429, 920
+  orig: 429, 920
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1610, 361
+  size: 139, 227
+  orig: 139, 227
+  offset: 0, 0
+  index: -1
+xiangdai
+  rotate: true
+  xy: 2, 2
+  size: 67, 106
+  orig: 67, 106
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 924, 100
+  size: 262, 179
+  orig: 262, 179
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 1839, 393
+  size: 180, 107
+  orig: 180, 107
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: true
+  xy: 1188, 124
+  size: 155, 96
+  orig: 155, 96
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 1331, 358
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 924, 281
+  size: 91, 405
+  orig: 91, 405
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 924, 83
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1

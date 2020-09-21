@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5514324f-7981-466c-829e-ec4c416b5037",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "pulundi_03": {
+      "ver": "1.0.3",
+      "uuid": "5ae56679-63c9-49a9-9a87-f3002f9cf982",
+      "rawTextureUuid": "5514324f-7981-466c-829e-ec4c416b5037",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 538,
+      "height": 186,
+      "rawWidth": 538,
+      "rawHeight": 186,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

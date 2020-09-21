@@ -1,0 +1,48 @@
+
+zisiNPC.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 2, 160
+  size: 316, 819
+  orig: 316, 819
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 823, 148
+  size: 328, 197
+  orig: 328, 197
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 19
+  size: 139, 279
+  orig: 139, 279
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: true
+  xy: 283, 21
+  size: 137, 165
+  orig: 137, 165
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 450, 144
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 2, 2
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1

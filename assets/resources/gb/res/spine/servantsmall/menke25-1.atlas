@@ -1,0 +1,55 @@
+
+menke25-1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao
+  rotate: false
+  xy: 294, 141
+  size: 140, 96
+  orig: 140, 96
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 126, 66
+  size: 166, 171
+  orig: 166, 171
+  offset: 0, 0
+  index: -1
+shenti2
+  rotate: false
+  xy: 2, 9
+  size: 122, 228
+  orig: 122, 228
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 294, 67
+  size: 72, 82
+  orig: 72, 82
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 126, 5
+  size: 162, 59
+  orig: 162, 59
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 2, 2
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 436, 232
+  size: 13, 5
+  orig: 13, 5
+  offset: 0, 0
+  index: -1

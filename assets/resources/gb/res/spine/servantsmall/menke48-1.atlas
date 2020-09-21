@@ -1,0 +1,69 @@
+
+menke48-1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guashi
+  rotate: false
+  xy: 385, 122
+  size: 28, 132
+  orig: 28, 132
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 112
+  size: 142, 381
+  orig: 142, 381
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 415, 144
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 415, 206
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 2, 31
+  size: 79, 131
+  orig: 79, 131
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: true
+  xy: 2, 2
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+yupei
+  rotate: true
+  xy: 2, 15
+  size: 14, 62
+  orig: 14, 62
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 135, 74
+  size: 36, 168
+  orig: 36, 168
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 135, 67
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1

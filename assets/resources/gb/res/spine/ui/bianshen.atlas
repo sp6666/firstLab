@@ -1,0 +1,34 @@
+
+bianshen.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+光圈
+  rotate: false
+  xy: 2, 234
+  size: 276, 276
+  orig: 276, 276
+  offset: 0, 0
+  index: -1
+大圈
+  rotate: false
+  xy: 2, 2
+  size: 230, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1
+星星
+  rotate: false
+  xy: 234, 194
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+闪光
+  rotate: false
+  xy: 280, 395
+  size: 116, 115
+  orig: 116, 115
+  offset: 0, 0
+  index: -1

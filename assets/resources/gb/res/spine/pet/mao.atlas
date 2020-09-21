@@ -1,0 +1,48 @@
+
+mao.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+猫-头 拷贝
+  rotate: false
+  xy: 264, 38
+  size: 207, 212
+  orig: 207, 212
+  offset: 0, 0
+  index: -1
+猫-身体
+  rotate: false
+  xy: 2, 38
+  size: 260, 212
+  orig: 260, 212
+  offset: 0, 0
+  index: -1
+眼底
+  rotate: false
+  xy: 473, 225
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+眼球
+  rotate: false
+  xy: 44, 19
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+眼白
+  rotate: false
+  xy: 473, 218
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+眼背景
+  rotate: false
+  xy: 2, 2
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1

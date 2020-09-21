@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "fd567ff1-c22c-453c-a46d-dde3eedce479",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fuxing_hongbao_bg": {
+      "ver": "1.0.3",
+      "uuid": "9f25c323-09d2-49bb-b8ce-507ffa2b25d5",
+      "rawTextureUuid": "fd567ff1-c22c-453c-a46d-dde3eedce479",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 653,
+      "height": 892,
+      "rawWidth": 653,
+      "rawHeight": 892,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a47eb13e-b00e-45b8-b2a3-74f23a69b6c8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "logo_sheshiman": {
+      "ver": "1.0.3",
+      "uuid": "2347cab9-952b-4ec3-960c-e3ebd261020e",
+      "rawTextureUuid": "a47eb13e-b00e-45b8-b2a3-74f23a69b6c8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 541,
+      "height": 257,
+      "rawWidth": 541,
+      "rawHeight": 257,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

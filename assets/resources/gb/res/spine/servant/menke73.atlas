@@ -1,0 +1,83 @@
+
+menke73.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右手
+  rotate: false
+  xy: 978, 211
+  size: 282, 290
+  orig: 282, 290
+  offset: 0, 0
+  index: -1
+右手阴影
+  rotate: false
+  xy: 1262, 220
+  size: 257, 281
+  orig: 257, 281
+  offset: 0, 0
+  index: -1
+右眼
+  rotate: false
+  xy: 978, 195
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+吊配
+  rotate: true
+  xy: 310, 136
+  size: 45, 207
+  orig: 45, 207
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 1521, 351
+  size: 112, 150
+  orig: 112, 150
+  offset: 0, 0
+  index: -1
+左手
+  rotate: true
+  xy: 2, 17
+  size: 164, 306
+  orig: 164, 306
+  offset: 0, 0
+  index: -1
+左手2
+  rotate: false
+  xy: 1521, 278
+  size: 95, 71
+  orig: 95, 71
+  offset: 0, 0
+  index: -1
+左手阴影
+  rotate: false
+  xy: 1635, 386
+  size: 133, 115
+  orig: 133, 115
+  offset: 0, 0
+  index: -1
+左眼
+  rotate: false
+  xy: 2, 2
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 2, 183
+  size: 318, 974
+  orig: 318, 974
+  offset: 0, 0
+  index: -1
+鞋子
+  rotate: false
+  xy: 310, 60
+  size: 168, 74
+  orig: 168, 74
+  offset: 0, 0
+  index: -1

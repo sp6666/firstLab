@@ -1,0 +1,27 @@
+
+Y-boy-hunfu01.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ybbm
+  rotate: true
+  xy: 2, 69
+  size: 383, 815
+  orig: 383, 815
+  offset: 0, 0
+  index: -1
+ybbm-2
+  rotate: false
+  xy: 819, 73
+  size: 212, 379
+  orig: 212, 379
+  offset: 0, 0
+  index: -1
+ybbm-3
+  rotate: false
+  xy: 2, 2
+  size: 140, 65
+  orig: 140, 65
+  offset: 0, 0
+  index: -1

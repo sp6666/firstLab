@@ -1,0 +1,7 @@
+{
+	"monday":[
+		{"id":1,"dayRwd":[{"itemid":65,"count":20},{"itemid":66,"count":20},{"itemid":67,"count":20}],"dayid":6},
+		{"id":2,"dayRwd":[{"itemid":1001,"count":3},{"itemid":72,"count":5},{"itemid":20000,"count":10},{"itemid":20001,"count":10}],"dayid":7},
+		{"id":3,"dayRwd":[{"itemid":1,"count":100},{"itemid":1200,"count":2},{"itemid":122,"count":10},{"itemid":121,"count":10},{"itemid":11,"count":10}],"dayid":1}
+	]
+}

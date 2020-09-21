@@ -1,0 +1,76 @@
+
+menke81.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+下身
+  rotate: true
+  xy: 2, 193
+  size: 317, 651
+  orig: 317, 651
+  offset: 0, 0
+  index: -1
+右眼
+  rotate: false
+  xy: 655, 198
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+吊穗
+  rotate: true
+  xy: 1013, 2
+  size: 234, 352
+  orig: 234, 352
+  offset: 0, 0
+  index: -1
+头部
+  rotate: true
+  xy: 1349, 244
+  size: 117, 143
+  orig: 117, 143
+  offset: 0, 0
+  index: -1
+左眼
+  rotate: false
+  xy: 2, 29
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+扇子
+  rotate: false
+  xy: 1349, 363
+  size: 213, 147
+  orig: 213, 147
+  offset: 0, 0
+  index: -1
+手
+  rotate: false
+  xy: 655, 213
+  size: 356, 297
+  orig: 356, 297
+  offset: 0, 0
+  index: -1
+手2
+  rotate: false
+  xy: 2, 43
+  size: 322, 148
+  orig: 322, 148
+  offset: 0, 0
+  index: -1
+身子
+  rotate: true
+  xy: 1013, 238
+  size: 272, 334
+  orig: 272, 334
+  offset: 0, 0
+  index: -1
+鞋子
+  rotate: false
+  xy: 326, 106
+  size: 258, 85
+  orig: 258, 85
+  offset: 0, 0
+  index: -1

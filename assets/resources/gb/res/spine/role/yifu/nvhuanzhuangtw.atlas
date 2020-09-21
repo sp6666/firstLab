@@ -1,0 +1,41 @@
+
+nvhuanzhuangtw.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti-tw-1
+  rotate: false
+  xy: 2, 2
+  size: 18, 116
+  orig: 18, 116
+  offset: 0, 0
+  index: -1
+shenti-tw-2
+  rotate: false
+  xy: 930, 316
+  size: 234, 169
+  orig: 234, 169
+  offset: 0, 0
+  index: -1
+shenti-tw-3
+  rotate: false
+  xy: 930, 121
+  size: 165, 193
+  orig: 165, 193
+  offset: 0, 0
+  index: -1
+shenti-tw-4
+  rotate: false
+  xy: 1166, 308
+  size: 177, 177
+  orig: 177, 177
+  offset: 0, 0
+  index: -1
+shenti-tw-5
+  rotate: true
+  xy: 2, 120
+  size: 365, 926
+  orig: 365, 926
+  offset: 0, 0
+  index: -1

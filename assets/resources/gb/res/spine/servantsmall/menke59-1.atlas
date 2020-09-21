@@ -1,0 +1,97 @@
+
+menke59-1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erhuan1
+  rotate: true
+  xy: 231, 79
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+erhuan2
+  rotate: false
+  xy: 313, 102
+  size: 7, 18
+  orig: 7, 18
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 122
+  size: 128, 386
+  orig: 128, 386
+  offset: 0, 0
+  index: -1
+shoupa
+  rotate: true
+  xy: 2, 40
+  size: 35, 82
+  orig: 35, 82
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 390, 131
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: true
+  xy: 2, 77
+  size: 43, 227
+  orig: 43, 227
+  offset: 0, 0
+  index: -1
+toushi1
+  rotate: false
+  xy: 489, 213
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+toushi2
+  rotate: false
+  xy: 86, 49
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 2, 2
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 390, 123
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 390, 191
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+zuoshoubi
+  rotate: true
+  xy: 231, 88
+  size: 32, 80
+  orig: 32, 80
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 437, 184
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1

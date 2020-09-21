@@ -1,0 +1,27 @@
+
+toushi39.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lzhuzi
+  rotate: false
+  xy: 2, 2
+  size: 20, 100
+  orig: 20, 100
+  offset: 0, 0
+  index: -1
+rzhuzi
+  rotate: false
+  xy: 282, 266
+  size: 19, 100
+  orig: 19, 100
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 104
+  size: 278, 262
+  orig: 278, 262
+  offset: 0, 0
+  index: -1

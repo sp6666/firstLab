@@ -1,0 +1,27 @@
+
+Y-girl-tou03.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yg03
+  rotate: false
+  xy: 2, 18
+  size: 132, 233
+  orig: 132, 233
+  offset: 0, 0
+  index: -1
+yg03-youyan
+  rotate: false
+  xy: 2, 2
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+yg03-zuoyan
+  rotate: false
+  xy: 136, 237
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1

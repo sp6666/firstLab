@@ -1,0 +1,48 @@
+
+nvhuanzhuang74.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lhand
+  rotate: true
+  xy: 1160, 74
+  size: 238, 390
+  orig: 238, 390
+  offset: 0, 0
+  index: -1
+LhandYY
+  rotate: false
+  xy: 1552, 2
+  size: 145, 310
+  orig: 145, 310
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 1160, 314
+  size: 192, 593
+  orig: 192, 593
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 81
+  size: 425, 1156
+  orig: 425, 1156
+  offset: 0, 0
+  index: -1
+foot
+  rotate: false
+  xy: 2, 11
+  size: 168, 68
+  orig: 168, 68
+  offset: 0, 0
+  index: -1
+shoujuan
+  rotate: true
+  xy: 1755, 408
+  size: 98, 228
+  orig: 98, 228
+  offset: 0, 0
+  index: -1

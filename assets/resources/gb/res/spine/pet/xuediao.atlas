@@ -1,0 +1,55 @@
+
+xuediao.png
+size: 1770,1809
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 464
+  size: 591, 1489
+  orig: 591, 1489
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 565, 33
+  size: 429, 366
+  orig: 429, 366
+  offset: 0, 0
+  index: -1
+wb1
+  rotate: true
+  xy: 1493, 339
+  size: 716, 275
+  orig: 716, 275
+  offset: 0, 0
+  index: -1
+wb2
+  rotate: false
+  xy: 2, 2
+  size: 561, 460
+  orig: 561, 460
+  offset: 0, 0
+  index: -1
+ys
+  rotate: true
+  xy: 1189, 121
+  size: 216, 499
+  orig: 216, 499
+  offset: 0, 0
+  index: -1
+yz
+  rotate: false
+  xy: 2, 1057
+  size: 1719, 750
+  orig: 1719, 750
+  offset: 0, 0
+  index: -1
+zs
+  rotate: false
+  xy: 933, 22
+  size: 254, 440
+  orig: 254, 440
+  offset: 0, 0
+  index: -1

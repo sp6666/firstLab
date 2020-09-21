@@ -1,0 +1,76 @@
+
+menke53-1.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dizi
+  rotate: false
+  xy: 99, 4
+  size: 117, 84
+  orig: 117, 84
+  offset: 0, 0
+  index: -1
+hebao1
+  rotate: false
+  xy: 424, 106
+  size: 93, 148
+  orig: 93, 148
+  offset: 0, 0
+  index: -1
+hebao2
+  rotate: false
+  xy: 519, 109
+  size: 32, 145
+  orig: 32, 145
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: false
+  xy: 218, 19
+  size: 102, 69
+  orig: 102, 69
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 90
+  size: 164, 420
+  orig: 164, 420
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 322, 26
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 2, 2
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 424, 99
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 553, 164
+  size: 44, 90
+  orig: 44, 90
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 218, 12
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1

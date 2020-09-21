@@ -1,0 +1,27 @@
+
+nvhuanzhuang48.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+手
+  rotate: false
+  xy: 912, 129
+  size: 372, 262
+  orig: 372, 262
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 2, 51
+  size: 340, 908
+  orig: 340, 908
+  offset: 0, 0
+  index: -1
+鞋子
+  rotate: false
+  xy: 2, 2
+  size: 138, 47
+  orig: 138, 47
+  offset: 0, 0
+  index: -1

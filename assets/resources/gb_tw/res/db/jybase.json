@@ -1,0 +1,33 @@
+{
+	"jyWeipai":[
+		{"id":1,"type":2,"sequence":1,"condition":1,"value":532,"text":"完成主線任務“問候知己(五)”解鎖"},
+		{"id":2,"type":2,"sequence":2,"condition":1,"value":662,"text":"完成主線任務“勢不可擋(十三)”解鎖"},
+		{"id":3,"type":2,"sequence":3,"condition":1,"value":799,"text":"完成主線任務“勢不可擋(十八)”解鎖"},
+		{"id":4,"type":3,"sequence":1,"condition":1,"value":532,"text":"完成主線任務“問候知己(五)”解鎖"},
+		{"id":5,"type":3,"sequence":2,"condition":1,"value":662,"text":"完成主線任務“勢不可擋(十三)”解鎖"},
+		{"id":6,"type":3,"sequence":3,"condition":1,"value":799,"text":"完成主線任務“勢不可擋(十八)”解鎖"},
+		{"id":7,"type":4,"sequence":1,"condition":1,"value":532,"text":"完成主線任務“問候知己(五)”解鎖"},
+		{"id":8,"type":4,"sequence":2,"condition":1,"value":662,"text":"完成主線任務“勢不可擋(十三)”解鎖"},
+		{"id":9,"type":4,"sequence":3,"condition":1,"value":799,"text":"完成主線任務“勢不可擋(十八)”解鎖"}
+	],
+	"jyBase":[
+		{"id":11,"guanid":1,"name":"洗衣","type":2,"pic":11,"txt":"新來的，快把衣服拿去洗了！"},
+		{"id":12,"guanid":1,"name":"納衣","type":4,"pic":12,"txt":"咱家聽說你擅納衣，可有此事？"},
+		{"id":13,"guanid":1,"name":"縫補","type":3,"pic":13,"txt":"會女紅嘛？私活，有報酬的！"},
+		{"id":21,"guanid":2,"name":"挑茶","type":4,"pic":21,"txt":"新到的茶葉，趕快去挑揀一下！"},
+		{"id":22,"guanid":2,"name":"泡茶","type":2,"pic":22,"txt":"泡茶也是有講究的，懂嗎？"},
+		{"id":23,"guanid":2,"name":"做糕點","type":3,"pic":23,"txt":"會做糕點嗎？私活，有報酬的"},
+		{"id":31,"guanid":3,"name":"掃地","type":2,"pic":31,"txt":"這地板那麼臟，還不趕快去打掃！"},
+		{"id":32,"guanid":3,"name":"鋪床","type":4,"pic":32,"txt":"娘娘要休息了，趕快去鋪床"},
+		{"id":33,"guanid":3,"name":"讀書","type":3,"pic":33,"txt":"明天去教手下的人學規矩~"},
+		{"id":41,"guanid":4,"name":"傳膳","type":2,"pic":41,"txt":"娘娘餓了，快去傳膳！"},
+		{"id":42,"guanid":4,"name":"守夜","type":3,"pic":42,"txt":"可以幫忙守夜不？私活，有報酬"},
+		{"id":43,"guanid":4,"name":"采買","type":4,"pic":43,"txt":"缺東缺西的，趕緊都補齊了！"},
+		{"id":51,"guanid":5,"name":"繡花","type":2,"pic":51,"txt":"娘娘聽說你會繡花，有空給娘娘繡一副~"},
+		{"id":52,"guanid":5,"name":"挑人","type":4,"pic":52,"txt":"娘娘讓你明天去教坊司挑人~"},
+		{"id":53,"guanid":5,"name":"代筆","type":3,"pic":53,"txt":"娘娘下旨讓你替她寫封信~"},
+		{"id":61,"guanid":6,"name":"上香祈福","type":2,"pic":61,"txt":"格格這是要去上香祈福麼？"},
+		{"id":62,"guanid":6,"name":"宮裏請安","type":3,"pic":62,"txt":"格格這是要去宮裏請安？"},
+		{"id":63,"guanid":6,"name":"串門送禮","type":4,"pic":63,"txt":"格格這是要去串門送禮麼？"}
+	]
+}

@@ -1,0 +1,83 @@
+
+menke37.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guazhui
+  rotate: true
+  xy: 960, 150
+  size: 17, 100
+  orig: 17, 100
+  offset: 0, 0
+  index: -1
+guazhui2
+  rotate: false
+  xy: 1696, 337
+  size: 16, 98
+  orig: 16, 98
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 137
+  size: 298, 956
+  orig: 298, 956
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1437, 176
+  size: 257, 259
+  orig: 257, 259
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 2, 2
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+youer
+  rotate: false
+  xy: 282, 93
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 960, 169
+  size: 266, 475
+  orig: 266, 475
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 1062, 153
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+zuoer
+  rotate: false
+  xy: 1714, 392
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 2, 46
+  size: 89, 278
+  orig: 89, 278
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: true
+  xy: 1696, 307
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1

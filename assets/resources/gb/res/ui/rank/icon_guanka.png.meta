@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "cffbbb81-2bf8-4202-b4b6-1e286d8a4d46",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "icon_guanka": {
+      "ver": "1.0.3",
+      "uuid": "6fcc6e1d-3686-45ce-ac46-3d71e77038e5",
+      "rawTextureUuid": "cffbbb81-2bf8-4202-b4b6-1e286d8a4d46",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 103,
+      "height": 106,
+      "rawWidth": 104,
+      "rawHeight": 107,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

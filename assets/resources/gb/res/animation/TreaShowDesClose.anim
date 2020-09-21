@@ -1,0 +1,1 @@
+{"curveData": {"paths": {"bg": {"props": {"opacity": [{"frame": 0.08333333333333333, "value": 255}, {"frame": 0.25, "value": 0}]}}, "bg/lbl": {"props": {"y": [{"frame": 0, "curve": "cubicOut", "value": 142}, {"frame": 0.25, "value": -149}]}}}}, "__type__": "cc.AnimationClip", "_duration": 0.25, "_name": "TreaShowDesClose"}

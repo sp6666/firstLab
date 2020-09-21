@@ -1,0 +1,1 @@
+{"curveData": {"props": {"opacity": [{"frame": 2.316666666666667, "value": 255}, {"frame": 3.4166666666666665, "value": 0}]}}, "__type__": "cc.AnimationClip", "events": [{"frame": 3, "params": [], "func": "onAlertEnd"}], "_duration": 3.4166666666666665, "_name": "alert"}

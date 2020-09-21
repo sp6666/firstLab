@@ -1,0 +1,69 @@
+
+menke28.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+piaodai
+  rotate: true
+  xy: 920, 277
+  size: 48, 312
+  orig: 48, 312
+  offset: 0, 0
+  index: -1
+piaodai2
+  rotate: true
+  xy: 2, 16
+  size: 66, 318
+  orig: 66, 318
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 84
+  size: 389, 916
+  orig: 389, 916
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1021, 126
+  size: 120, 149
+  orig: 120, 149
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 920, 327
+  size: 368, 146
+  orig: 368, 146
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 1290, 382
+  size: 256, 91
+  orig: 256, 91
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 322, 70
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 920, 96
+  size: 99, 179
+  orig: 99, 179
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 2, 2
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+xianhe.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xh
+  rotate: true
+  xy: 2, 103
+  size: 323, 628
+  orig: 323, 628
+  offset: 0, 0
+  index: -1
+xh-1
+  rotate: true
+  xy: 632, 2
+  size: 424, 190
+  orig: 424, 190
+  offset: 0, 0
+  index: -1

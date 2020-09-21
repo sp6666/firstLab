@@ -1,0 +1,15 @@
+{
+	"kite":[
+		{"id":1001,"name":"鷂鷹紙鳶","nameImg":"/res/ui/font_yyzy","img":"/prefabs/ui/kite/kiteYY","des":"濰坊民間手藝,造型優美,形象生動"},
+		{"id":1002,"name":"彩蝶紙鳶","nameImg":"/res/ui/font_cdzy","img":"/prefabs/ui/kite/kiteHuDie","des":"天津民間手藝,顏色鮮豔,栩栩如生"},
+		{"id":1003,"name":"金龍紙鳶","nameImg":"/res/ui/font_jlzy","img":"/prefabs/ui/kite/kiteLong","des":"宮廷手藝,做工精緻,用料講究"}
+    ],
+    "kite_wind":[
+		{"id":1,"name":"東風"},
+		{"id":2,"name":"春風"},
+        {"id":3,"name":"夏風"},
+        {"id":4,"name":"秋風"},
+		{"id":5,"name":"冬風"},
+		{"id":6,"name":"西北風"}
+	]
+}

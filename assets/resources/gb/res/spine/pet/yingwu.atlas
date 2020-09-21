@@ -1,0 +1,20 @@
+
+yingwu.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+树枝
+  rotate: false
+  xy: 431, 2
+  size: 404, 223
+  orig: 404, 223
+  offset: 0, 0
+  index: -1
+鹦鹉
+  rotate: true
+  xy: 2, 3
+  size: 222, 427
+  orig: 222, 427
+  offset: 0, 0
+  index: -1

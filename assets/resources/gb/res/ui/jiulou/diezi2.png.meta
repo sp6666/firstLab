@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f617ac98-419f-44ab-aa45-52f39c809975",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "diezi2": {
+      "ver": "1.0.3",
+      "uuid": "488f0b53-966b-4b34-a19d-a584186b2f4e",
+      "rawTextureUuid": "f617ac98-419f-44ab-aa45-52f39c809975",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": -1.5,
+      "trimX": 0,
+      "trimY": 3,
+      "width": 149,
+      "height": 96,
+      "rawWidth": 152,
+      "rawHeight": 99,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

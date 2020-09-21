@@ -1,0 +1,20 @@
+
+toushi97.png
+size: 360,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tf1
+  rotate: false
+  xy: 334, 159
+  size: 24, 63
+  orig: 24, 63
+  offset: 0, 0
+  index: -1
+tss
+  rotate: false
+  xy: 2, 2
+  size: 330, 220
+  orig: 330, 220
+  offset: 0, 0
+  index: -1

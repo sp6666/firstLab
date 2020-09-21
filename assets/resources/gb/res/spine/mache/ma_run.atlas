@@ -1,0 +1,55 @@
+
+ma_run.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/图层 0
+  rotate: false
+  xy: 2, 2
+  size: 401, 222
+  orig: 401, 222
+  offset: 0, 0
+  index: -1
+images/图层 1
+  rotate: false
+  xy: 405, 226
+  size: 401, 222
+  orig: 401, 222
+  offset: 0, 0
+  index: -1
+images/图层 2
+  rotate: false
+  xy: 405, 2
+  size: 401, 222
+  orig: 401, 222
+  offset: 0, 0
+  index: -1
+images/图层 3
+  rotate: false
+  xy: 808, 226
+  size: 401, 222
+  orig: 401, 222
+  offset: 0, 0
+  index: -1
+images/图层 4
+  rotate: false
+  xy: 808, 4
+  size: 401, 220
+  orig: 401, 220
+  offset: 0, 0
+  index: -1
+images/图层 5
+  rotate: false
+  xy: 1211, 228
+  size: 401, 220
+  orig: 401, 220
+  offset: 0, 0
+  index: -1
+images/图层 6
+  rotate: false
+  xy: 2, 226
+  size: 401, 222
+  orig: 401, 222
+  offset: 0, 0
+  index: -1

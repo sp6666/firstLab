@@ -1,0 +1,132 @@
+
+NPC-1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diaozhu
+  rotate: true
+  xy: 2, 24
+  size: 19, 145
+  orig: 19, 145
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: true
+  xy: 276, 279
+  size: 108, 40
+  orig: 108, 40
+  offset: 0, 0
+  index: -1
+shangshen
+  rotate: false
+  xy: 366, 504
+  size: 360, 501
+  orig: 360, 501
+  offset: 0, 0
+  index: -1
+shoujuan
+  rotate: true
+  xy: 366, 399
+  size: 103, 204
+  orig: 103, 204
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 728, 499
+  size: 187, 215
+  orig: 187, 215
+  offset: 0, 0
+  index: -1
+xianglian
+  rotate: false
+  xy: 867, 893
+  size: 94, 112
+  orig: 94, 112
+  offset: 0, 0
+  index: -1
+xiashen
+  rotate: false
+  xy: 2, 389
+  size: 362, 616
+  orig: 362, 616
+  offset: 0, 0
+  index: -1
+youerzhui
+  rotate: false
+  xy: 867, 840
+  size: 10, 51
+  orig: 10, 51
+  offset: 0, 0
+  index: -1
+youmei
+  rotate: false
+  xy: 318, 377
+  size: 33, 10
+  orig: 33, 10
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 728, 716
+  size: 137, 289
+  orig: 137, 289
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 2, 2
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+youyanl
+  rotate: false
+  xy: 585, 489
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 963, 982
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+zuoerzhui
+  rotate: false
+  xy: 572, 450
+  size: 11, 52
+  orig: 11, 52
+  offset: 0, 0
+  index: -1
+zuomei
+  rotate: true
+  xy: 572, 422
+  size: 26, 9
+  orig: 26, 9
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 2, 45
+  size: 272, 342
+  orig: 272, 342
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 276, 257
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+zuoyanl
+  rotate: false
+  xy: 149, 30
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1

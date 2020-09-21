@@ -1,0 +1,20 @@
+
+ma.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+me
+  rotate: true
+  xy: 2, 2
+  size: 461, 706
+  orig: 461, 706
+  offset: 0, 0
+  index: -1
+me-1
+  rotate: false
+  xy: 710, 271
+  size: 595, 192
+  orig: 595, 192
+  offset: 0, 0
+  index: -1

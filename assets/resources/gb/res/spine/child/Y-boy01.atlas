@@ -1,0 +1,27 @@
+
+Y-boy01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Y-boy-piaodai
+  rotate: true
+  xy: 2, 2
+  size: 23, 247
+  orig: 23, 247
+  offset: 0, 0
+  index: -1
+Y-boy-shenti
+  rotate: true
+  xy: 2, 27
+  size: 372, 796
+  orig: 372, 796
+  offset: 0, 0
+  index: -1
+Y-boy-xiezi
+  rotate: false
+  xy: 800, 334
+  size: 140, 65
+  orig: 140, 65
+  offset: 0, 0
+  index: -1

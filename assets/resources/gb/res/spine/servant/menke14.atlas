@@ -1,0 +1,83 @@
+
+menke14.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guajian
+  rotate: true
+  xy: 866, 158
+  size: 47, 159
+  orig: 47, 159
+  offset: 0, 0
+  index: -1
+guashi
+  rotate: false
+  xy: 304, 93
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 127
+  size: 371, 862
+  orig: 371, 862
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1278, 337
+  size: 111, 161
+  orig: 111, 161
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 866, 240
+  size: 332, 258
+  orig: 332, 258
+  offset: 0, 0
+  index: -1
+youbianzi
+  rotate: true
+  xy: 2, 80
+  size: 45, 300
+  orig: 45, 300
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: true
+  xy: 1174, 210
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+zhubao
+  rotate: false
+  xy: 1200, 268
+  size: 76, 230
+  orig: 76, 230
+  offset: 0, 0
+  index: -1
+zuobianzi
+  rotate: true
+  xy: 866, 207
+  size: 31, 306
+  orig: 31, 306
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 2, 2
+  size: 76, 207
+  orig: 76, 207
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 1200, 254
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1

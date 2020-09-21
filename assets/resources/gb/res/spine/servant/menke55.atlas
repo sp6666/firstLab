@@ -1,0 +1,62 @@
+
+menke55.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 2, 201
+  size: 300, 924
+  orig: 300, 924
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 735, 10
+  size: 189, 210
+  orig: 189, 210
+  offset: 0, 0
+  index: -1
+weijin
+  rotate: false
+  xy: 928, 236
+  size: 81, 265
+  orig: 81, 265
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: true
+  xy: 947, 105
+  size: 129, 70
+  orig: 129, 70
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 2, 18
+  size: 181, 409
+  orig: 181, 409
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: true
+  xy: 928, 214
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 413, 7
+  size: 192, 320
+  orig: 192, 320
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 2, 2
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1

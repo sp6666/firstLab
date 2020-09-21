@@ -1,0 +1,20 @@
+
+xiaolu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xle
+  rotate: false
+  xy: 2, 22
+  size: 310, 480
+  orig: 310, 480
+  offset: 0, 0
+  index: -1
+xle-1
+  rotate: true
+  xy: 314, 2
+  size: 500, 169
+  orig: 500, 169
+  offset: 0, 0
+  index: -1

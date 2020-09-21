@@ -1,0 +1,20 @@
+
+1765.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+动态灯笼
+  rotate: false
+  xy: 2, 23
+  size: 135, 142
+  orig: 135, 142
+  offset: 0, 0
+  index: -1
+动态灯笼2
+  rotate: true
+  xy: 2, 2
+  size: 19, 127
+  orig: 19, 127
+  offset: 0, 0
+  index: -1

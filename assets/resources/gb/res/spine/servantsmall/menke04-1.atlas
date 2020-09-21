@@ -1,0 +1,69 @@
+
+menke04-1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao
+  rotate: false
+  xy: 61, 15
+  size: 73, 25
+  orig: 73, 25
+  offset: 0, 0
+  index: -1
+piaodai1
+  rotate: true
+  xy: 61, 65
+  size: 21, 105
+  orig: 21, 105
+  offset: 0, 0
+  index: -1
+piaodai2
+  rotate: true
+  xy: 61, 42
+  size: 21, 100
+  orig: 21, 100
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 88
+  size: 144, 372
+  orig: 144, 372
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 9
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 376, 172
+  size: 73, 60
+  orig: 73, 60
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 2, 2
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 376, 99
+  size: 38, 71
+  orig: 38, 71
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 451, 227
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1

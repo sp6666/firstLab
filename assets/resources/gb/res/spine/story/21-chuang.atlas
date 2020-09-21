@@ -1,0 +1,20 @@
+
+21-chuang.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+倒影
+  rotate: false
+  xy: 2, 2
+  size: 295, 112
+  orig: 295, 112
+  offset: 0, 0
+  index: -1
+动态船
+  rotate: false
+  xy: 299, 35
+  size: 291, 79
+  orig: 291, 79
+  offset: 0, 0
+  index: -1

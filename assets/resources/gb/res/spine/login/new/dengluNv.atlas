@@ -1,0 +1,41 @@
+
+dengluNv.png
+size: 425,296
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+t1
+  rotate: true
+  xy: 2, 7
+  size: 287, 355
+  orig: 287, 355
+  offset: 0, 0
+  index: -1
+t2
+  rotate: true
+  xy: 2, 2
+  size: 3, 11
+  orig: 3, 11
+  offset: 0, 0
+  index: -1
+t3
+  rotate: false
+  xy: 359, 169
+  size: 3, 11
+  orig: 3, 11
+  offset: 0, 0
+  index: -1
+t4
+  rotate: false
+  xy: 359, 182
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+yzz
+  rotate: true
+  xy: 359, 218
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1

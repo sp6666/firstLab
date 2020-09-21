@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e340bede-1699-45ea-aae0-d55b38440644",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "zisiNPC": {
+      "ver": "1.0.3",
+      "uuid": "dd1d0b0a-184e-408c-b32c-29927c2a2b0f",
+      "rawTextureUuid": "e340bede-1699-45ea-aae0-d55b38440644",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 17,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1018,
+      "height": 474,
+      "rawWidth": 1024,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

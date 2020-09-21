@@ -1,0 +1,20 @@
+
+toushi23.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tou-07-2(1)
+  rotate: true
+  xy: 2, 2
+  size: 12, 117
+  orig: 12, 117
+  offset: 0, 0
+  index: -1
+tou-07-2-(2)
+  rotate: false
+  xy: 2, 16
+  size: 247, 102
+  orig: 247, 102
+  offset: 0, 0
+  index: -1

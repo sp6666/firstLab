@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "08c9353b-8a58-4b2d-95f5-1c6f5fdd2df7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "img_dianjichaikan": {
+      "ver": "1.0.3",
+      "uuid": "b9734381-48a8-47a4-8b2a-a8600376ef15",
+      "rawTextureUuid": "08c9353b-8a58-4b2d-95f5-1c6f5fdd2df7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 146,
+      "height": 39,
+      "rawWidth": 146,
+      "rawHeight": 39,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

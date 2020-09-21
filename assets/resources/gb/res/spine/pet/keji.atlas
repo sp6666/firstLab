@@ -1,0 +1,76 @@
+
+keji.png
+size: 952,354
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hbao
+  rotate: false
+  xy: 2, 6
+  size: 368, 54
+  orig: 368, 54
+  offset: 0, 0
+  index: -1
+lianzi
+  rotate: false
+  xy: 670, 179
+  size: 149, 173
+  orig: 149, 173
+  offset: 0, 0
+  index: -1
+qiantui
+  rotate: false
+  xy: 821, 146
+  size: 105, 206
+  orig: 105, 206
+  offset: 0, 0
+  index: -1
+shensuo
+  rotate: true
+  xy: 787, 88
+  size: 56, 163
+  orig: 56, 163
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 62
+  size: 447, 290
+  orig: 447, 290
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 670, 2
+  size: 115, 175
+  orig: 115, 175
+  offset: 0, 0
+  index: -1
+t2
+  rotate: true
+  xy: 540, 6
+  size: 82, 118
+  orig: 82, 118
+  offset: 0, 0
+  index: -1
+t3
+  rotate: false
+  xy: 451, 2
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 451, 90
+  size: 217, 262
+  orig: 217, 262
+  offset: 0, 0
+  index: -1
+yanjin
+  rotate: false
+  xy: 787, 44
+  size: 96, 42
+  orig: 96, 42
+  offset: 0, 0
+  index: -1

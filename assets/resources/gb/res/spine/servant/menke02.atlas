@@ -1,0 +1,62 @@
+
+menke02.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao
+  rotate: false
+  xy: 2, 141
+  size: 137, 14
+  orig: 137, 14
+  offset: 0, 0
+  index: -1
+shangshen
+  rotate: false
+  xy: 582, 189
+  size: 276, 321
+  orig: 276, 321
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 836, 2
+  size: 203, 185
+  orig: 203, 185
+  offset: 0, 0
+  index: -1
+xiashen
+  rotate: true
+  xy: 2, 157
+  size: 353, 578
+  orig: 353, 578
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 582, 2
+  size: 185, 252
+  orig: 185, 252
+  offset: 0, 0
+  index: -1
+youyanpi
+  rotate: false
+  xy: 860, 268
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 860, 282
+  size: 212, 228
+  orig: 212, 228
+  offset: 0, 0
+  index: -1
+zuoyanpi
+  rotate: false
+  xy: 1074, 496
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+toushi04.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tou-02(1)
+  rotate: true
+  xy: 2, 2
+  size: 30, 84
+  orig: 30, 84
+  offset: 0, 0
+  index: -1
+tou-02(2)
+  rotate: false
+  xy: 2, 34
+  size: 204, 86
+  orig: 204, 86
+  offset: 0, 0
+  index: -1

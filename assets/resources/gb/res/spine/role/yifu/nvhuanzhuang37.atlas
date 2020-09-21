@@ -1,0 +1,48 @@
+
+nvhuanzhuang37.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+端午--右手
+  rotate: false
+  xy: 1153, 224
+  size: 209, 284
+  orig: 209, 284
+  offset: 0, 0
+  index: -1
+端午-吊坠
+  rotate: true
+  xy: 2, 2
+  size: 49, 189
+  orig: 49, 189
+  offset: 0, 0
+  index: -1
+端午-围巾
+  rotate: true
+  xy: 2, 53
+  size: 127, 312
+  orig: 127, 312
+  offset: 0, 0
+  index: -1
+端午-左手
+  rotate: false
+  xy: 939, 216
+  size: 212, 292
+  orig: 212, 292
+  offset: 0, 0
+  index: -1
+端午-身体
+  rotate: true
+  xy: 2, 182
+  size: 326, 935
+  orig: 326, 935
+  offset: 0, 0
+  index: -1
+端午-鞋子
+  rotate: false
+  xy: 1364, 454
+  size: 186, 54
+  orig: 186, 54
+  offset: 0, 0
+  index: -1

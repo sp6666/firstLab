@@ -1,0 +1,48 @@
+
+zhengshou.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 106
+  size: 772, 369
+  orig: 772, 369
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 644, 11
+  size: 93, 115
+  orig: 93, 115
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1120, 277
+  size: 156, 198
+  orig: 156, 198
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1278, 329
+  size: 186, 146
+  orig: 186, 146
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 2
+  size: 640, 102
+  orig: 640, 102
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 776, 159
+  size: 342, 316
+  orig: 342, 316
+  offset: 0, 0
+  index: -1

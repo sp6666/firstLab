@@ -1,0 +1,55 @@
+
+menke71-1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右眼
+  rotate: false
+  xy: 2, 2
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+头
+  rotate: true
+  xy: 373, 82
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+左手
+  rotate: false
+  xy: 373, 144
+  size: 90, 87
+  orig: 90, 87
+  offset: 0, 0
+  index: -1
+左眼
+  rotate: false
+  xy: 465, 226
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+朝珠
+  rotate: true
+  xy: 2, 9
+  size: 67, 119
+  orig: 67, 119
+  offset: 0, 0
+  index: -1
+脚
+  rotate: false
+  xy: 123, 11
+  size: 102, 65
+  orig: 102, 65
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 2, 78
+  size: 153, 369
+  orig: 153, 369
+  offset: 0, 0
+  index: -1

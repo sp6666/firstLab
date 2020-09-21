@@ -1,0 +1,83 @@
+
+menke32-1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+peishi
+  rotate: true
+  xy: 344, 232
+  size: 22, 102
+  orig: 22, 102
+  offset: 0, 0
+  index: -1
+shangshen
+  rotate: false
+  xy: 133, 77
+  size: 106, 177
+  orig: 106, 177
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 241, 115
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+xiashen
+  rotate: false
+  xy: 2, 37
+  size: 129, 217
+  orig: 129, 217
+  offset: 0, 0
+  index: -1
+xiezi
+  rotate: false
+  xy: 241, 220
+  size: 101, 34
+  orig: 101, 34
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 106, 2
+  size: 33, 79
+  orig: 33, 79
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 241, 173
+  size: 89, 45
+  orig: 89, 45
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 223, 71
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 133, 38
+  size: 37, 88
+  orig: 37, 88
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 2, 2
+  size: 33, 102
+  orig: 33, 102
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: true
+  xy: 332, 207
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1

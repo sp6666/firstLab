@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8eb5c3c0-b02c-4834-a004-8be14cdf10e2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "logo_nei": {
+      "ver": "1.0.3",
+      "uuid": "3341b584-95c0-4ecc-99d7-e77f62eb2b32",
+      "rawTextureUuid": "8eb5c3c0-b02c-4834-a004-8be14cdf10e2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 274,
+      "height": 133,
+      "rawWidth": 280,
+      "rawHeight": 134,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

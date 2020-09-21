@@ -1,0 +1,27 @@
+
+menke69-tou01.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: false
+  xy: 2, 17
+  size: 173, 185
+  orig: 173, 185
+  offset: 0, 0
+  index: -1
+5-youyan
+  rotate: false
+  xy: 2, 2
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+5-zuoyan
+  rotate: false
+  xy: 177, 189
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1

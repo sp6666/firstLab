@@ -1,0 +1,27 @@
+
+yuanquan.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lightspot
+  rotate: false
+  xy: 106, 25
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+椭圆 15 拷贝
+  rotate: false
+  xy: 2, 2
+  size: 102, 59
+  orig: 102, 59
+  offset: 0, 0
+  index: -1
+组 111
+  rotate: false
+  xy: 144, 34
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1

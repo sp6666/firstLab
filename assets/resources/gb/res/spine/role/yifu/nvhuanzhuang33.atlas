@@ -1,0 +1,55 @@
+
+nvhuanzhuang33.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qm-手帕
+  rotate: true
+  xy: 2, 2
+  size: 107, 224
+  orig: 107, 224
+  offset: 0, 0
+  index: -1
+qm-手臂
+  rotate: true
+  xy: 1032, 182
+  size: 339, 344
+  orig: 339, 344
+  offset: 0, 0
+  index: -1
+qm-披风
+  rotate: true
+  xy: 2, 429
+  size: 586, 1028
+  orig: 586, 1028
+  offset: 0, 0
+  index: -1
+qm-披风2
+  rotate: true
+  xy: 1032, 523
+  size: 492, 846
+  orig: 492, 846
+  offset: 0, 0
+  index: -1
+qm-身体
+  rotate: true
+  xy: 2, 111
+  size: 316, 937
+  orig: 316, 937
+  offset: 0, 0
+  index: -1
+qm-鞋子
+  rotate: false
+  xy: 1378, 458
+  size: 143, 63
+  orig: 143, 63
+  offset: 0, 0
+  index: -1
+qm-项链
+  rotate: false
+  xy: 1880, 715
+  size: 119, 300
+  orig: 119, 300
+  offset: 0, 0
+  index: -1

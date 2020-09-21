@@ -1,0 +1,90 @@
+
+menke78-1.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右上臂
+  rotate: true
+  xy: 866, 236
+  size: 18, 43
+  orig: 18, 43
+  offset: 0, 0
+  index: -1
+右下臂
+  rotate: false
+  xy: 406, 2
+  size: 92, 38
+  orig: 92, 38
+  offset: 0, 0
+  index: -1
+右眼
+  rotate: false
+  xy: 690, 214
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+右袖前
+  rotate: true
+  xy: 468, 203
+  size: 51, 220
+  orig: 51, 220
+  offset: 0, 0
+  index: -1
+右袖后
+  rotate: true
+  xy: 468, 158
+  size: 43, 179
+  orig: 43, 179
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 468, 78
+  size: 57, 78
+  orig: 57, 78
+  offset: 0, 0
+  index: -1
+左上臂
+  rotate: false
+  xy: 649, 165
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+左下臂
+  rotate: false
+  xy: 527, 114
+  size: 62, 42
+  orig: 62, 42
+  offset: 0, 0
+  index: -1
+左眼
+  rotate: false
+  xy: 468, 72
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+左袖前
+  rotate: false
+  xy: 406, 42
+  size: 60, 212
+  orig: 60, 212
+  offset: 0, 0
+  index: -1
+左袖后
+  rotate: true
+  xy: 690, 220
+  size: 34, 174
+  orig: 34, 174
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 2, 7
+  size: 247, 402
+  orig: 247, 402
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+feigezi.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang
+  rotate: true
+  xy: 1007, 121
+  size: 313, 342
+  orig: 313, 342
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: true
+  xy: 530, 145
+  size: 289, 475
+  orig: 289, 475
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 2
+  size: 432, 526
+  orig: 432, 526
+  offset: 0, 0
+  index: -1

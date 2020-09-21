@@ -1,0 +1,63 @@
+{
+    "xiuyun_candy": [{
+            "id": 1,
+            "itemid": 1070,
+            "icon": 1,
+            "costType": 3,
+            "cost": 10000,
+            "name": "香包",
+            "like": ""
+        },
+        {
+            "id": 2,
+            "itemid": 1071,
+            "icon": 4,
+            "costType": 1,
+            "cost": 100,
+            "name": "手帕",
+            "like": "不寫情詞不寫詩,\n一方素帕寄相思。"
+        },
+        {
+            "id": 3,
+            "itemid": 1072,
+            "icon": 2,
+            "costType": 1,
+            "cost": 100,
+            "name": "折扇",
+            "like": "半輪秋月明，一片春雲膩，\n到手時清風陣陣起。"
+        },
+        {
+            "id": 4,
+            "itemid": 1073,
+            "icon": 3,
+            "costType": 1,
+            "cost": 100,
+            "name": "玉珮",
+            "like": "何以結恩情？美玉綴羅纓。"
+        }
+    ],
+    "xiuyun_person": [{
+            "id": 1,
+            "name": "直郡王",
+            "hid": 1061,
+            "head": 10
+        },
+        {
+            "id": 2,
+            "name": "雍親王",
+            "hid": 1062,
+            "head": 17
+        },
+        {
+            "id": 3,
+            "name": "皇太子",
+            "hid": 1063,
+            "head": 18
+        }
+    ],
+    "xiuyun_text": [{
+        "id": 1,
+        "liketxt": "投之以桃，報之以李",
+        "disliketxt": "看來你還不瞭解本王的心意呢"
+    }]
+}

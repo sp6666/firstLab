@@ -1,0 +1,55 @@
+
+menke76.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右眼
+  rotate: false
+  xy: 1122, 336
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 921, 287
+  size: 199, 193
+  orig: 199, 193
+  offset: 0, 0
+  index: -1
+左手
+  rotate: false
+  xy: 2, 2
+  size: 133, 91
+  orig: 133, 91
+  offset: 0, 0
+  index: -1
+左眼
+  rotate: false
+  xy: 1375, 467
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+手帕
+  rotate: true
+  xy: 1122, 355
+  size: 125, 251
+  orig: 125, 251
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 2, 95
+  size: 385, 917
+  orig: 385, 917
+  offset: 0, 0
+  index: -1
+鞋子
+  rotate: false
+  xy: 921, 198
+  size: 94, 87
+  orig: 94, 87
+  offset: 0, 0
+  index: -1

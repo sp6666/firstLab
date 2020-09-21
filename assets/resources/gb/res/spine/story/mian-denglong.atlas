@@ -1,0 +1,20 @@
+
+mian-denglong.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+动态灯笼 副本
+  rotate: false
+  xy: 70, 33
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+动态灯笼 副本 2
+  rotate: true
+  xy: 2, 2
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1

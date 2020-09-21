@@ -1,0 +1,20 @@
+
+kongque.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kq
+  rotate: true
+  xy: 2, 2
+  size: 469, 711
+  orig: 469, 711
+  offset: 0, 0
+  index: -1
+kq-1
+  rotate: false
+  xy: 715, 45
+  size: 435, 426
+  orig: 435, 426
+  offset: 0, 0
+  index: -1

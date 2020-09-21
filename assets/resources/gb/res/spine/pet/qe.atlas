@@ -1,0 +1,27 @@
+
+qe.png
+size: 1944,785
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s1
+  rotate: true
+  xy: 1287, 399
+  size: 384, 655
+  orig: 384, 655
+  offset: 0, 0
+  index: -1
+s2
+  rotate: true
+  xy: 1287, 2
+  size: 395, 654
+  orig: 395, 654
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 2, 8
+  size: 775, 1283
+  orig: 775, 1283
+  offset: 0, 0
+  index: -1

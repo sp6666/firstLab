@@ -1,0 +1,27 @@
+
+menke68-1-tou03.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+03
+  rotate: true
+  xy: 2, 10
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+03-youyan
+  rotate: false
+  xy: 65, 55
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+03-zuoyan
+  rotate: false
+  xy: 2, 2
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1

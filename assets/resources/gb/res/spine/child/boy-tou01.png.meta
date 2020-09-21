@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f5e1ca18-e780-40e8-b1f3-02376d19d522",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "boy-tou01": {
+      "ver": "1.0.3",
+      "uuid": "835d2034-5ca9-41bb-b706-bfc049d6ec0c",
+      "rawTextureUuid": "f5e1ca18-e780-40e8-b1f3-02376d19d522",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -40.5,
+      "offsetY": 4.5,
+      "trimX": 2,
+      "trimY": 3,
+      "width": 171,
+      "height": 113,
+      "rawWidth": 256,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

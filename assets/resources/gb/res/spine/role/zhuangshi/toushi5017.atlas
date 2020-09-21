@@ -1,0 +1,48 @@
+
+toushi5017.png
+size: 474,368
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qf
+  rotate: true
+  xy: 2, 75
+  size: 291, 243
+  orig: 291, 243
+  offset: 0, 0
+  index: -1
+ts1
+  rotate: true
+  xy: 320, 131
+  size: 212, 150
+  orig: 212, 150
+  offset: 0, 0
+  index: -1
+tz1
+  rotate: true
+  xy: 320, 345
+  size: 21, 152
+  orig: 21, 152
+  offset: 0, 0
+  index: -1
+tz2
+  rotate: true
+  xy: 292, 63
+  size: 23, 165
+  orig: 23, 165
+  offset: 0, 0
+  index: -1
+zhui1
+  rotate: false
+  xy: 247, 88
+  size: 71, 278
+  orig: 71, 278
+  offset: 0, 0
+  index: -1
+zhui2
+  rotate: true
+  xy: 2, 2
+  size: 71, 288
+  orig: 71, 288
+  offset: 0, 0
+  index: -1

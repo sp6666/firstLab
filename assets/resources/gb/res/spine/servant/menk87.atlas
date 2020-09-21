@@ -1,0 +1,69 @@
+
+menk87.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右眼
+  rotate: false
+  xy: 1286, 330
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 1286, 346
+  size: 117, 150
+  orig: 117, 150
+  offset: 0, 0
+  index: -1
+头饰
+  rotate: false
+  xy: 2, 20
+  size: 211, 134
+  orig: 211, 134
+  offset: 0, 0
+  index: -1
+左眼
+  rotate: false
+  xy: 1405, 482
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+手
+  rotate: false
+  xy: 912, 234
+  size: 372, 262
+  orig: 372, 262
+  offset: 0, 0
+  index: -1
+耳环
+  rotate: true
+  xy: 2, 2
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+耳环2
+  rotate: false
+  xy: 215, 119
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 2, 156
+  size: 340, 908
+  orig: 340, 908
+  offset: 0, 0
+  index: -1
+鞋子
+  rotate: false
+  xy: 912, 185
+  size: 138, 47
+  orig: 138, 47
+  offset: 0, 0
+  index: -1

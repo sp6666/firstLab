@@ -1,0 +1,27 @@
+
+nvhuanzhuang32.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qingmingyifu1
+  rotate: true
+  xy: 910, 66
+  size: 336, 491
+  orig: 336, 491
+  offset: 0, 0
+  index: -1
+qingmingyifu2
+  rotate: true
+  xy: 2, 67
+  size: 335, 906
+  orig: 335, 906
+  offset: 0, 0
+  index: -1
+qingmingyifu3
+  rotate: false
+  xy: 2, 2
+  size: 143, 63
+  orig: 143, 63
+  offset: 0, 0
+  index: -1

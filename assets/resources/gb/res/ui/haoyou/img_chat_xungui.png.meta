@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c1901f66-adfb-4d1c-9f87-a8d3a0fbbf5a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "img_chat_xungui": {
+      "ver": "1.0.3",
+      "uuid": "407b972c-93eb-4bd9-968a-e7d167b50e52",
+      "rawTextureUuid": "c1901f66-adfb-4d1c-9f87-a8d3a0fbbf5a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 73,
+      "height": 23,
+      "rawWidth": 73,
+      "rawHeight": 23,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
